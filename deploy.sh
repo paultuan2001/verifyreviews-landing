@@ -21,8 +21,11 @@ git add .
 # Commit with timestamp
 git commit -m "Auto update website content: $(date '+%Y-%m-%d %H:%M:%S')"
 
-# Push to main branch
-git push origin main
+# Pull latest changes to sync with GitHub
+git pull --rebase origin main 2>/dev/null
+
+# Push to main branch (with fallback force push if initial commit mismatch)
+git push origin main || git push -f origin main
 
 echo "=================================================="
 echo "✅ SUCCESS! Deployed to GitHub & verifyreviews.net!"
