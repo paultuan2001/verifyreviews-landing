@@ -6,6 +6,7 @@
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
+    <!-- Cluster 1: Financial Reporting -->
     <url>
         <loc>https://verifyreviews.net/best-financial-reporting.html</loc>
         <lastmod>2026-08-27</lastmod>
@@ -18,6 +19,7 @@
         <changefreq>weekly</changefreq>
         <priority>0.95</priority>
     </url>
+    <!-- Cluster 2: Email Deliverability -->
     <url>
         <loc>https://verifyreviews.net/best-email-warmup.html</loc>
         <lastmod>2026-08-27</lastmod>
@@ -30,6 +32,7 @@
         <changefreq>weekly</changefreq>
         <priority>0.95</priority>
     </url>
+    <!-- Cluster 3: AI Video & Voice -->
     <url>
         <loc>https://verifyreviews.net/best-ai-tools.html</loc>
         <lastmod>2026-08-27</lastmod>
@@ -42,18 +45,33 @@
         <changefreq>weekly</changefreq>
         <priority>0.95</priority>
     </url>
+    <!-- Cluster 4: Proxy Networks -->
     <url>
-        <loc>https://verifyreviews.net/best-ai-tools.html</loc>
+        <loc>https://verifyreviews.net/best-proxies.html</loc>
         <lastmod>2026-08-27</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://verifyreviews.net/best-proxies.html</loc>
+        <loc>https://verifyreviews.net/iproyal-review.html</loc>
         <lastmod>2026-08-27</lastmod>
         <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
+        <priority>0.95</priority>
     </url>
+    <!-- Cluster 5: SaaS Partner Platforms -->
+    <url>
+        <loc>https://verifyreviews.net/best-affiliate-software.html</loc>
+        <lastmod>2026-08-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://verifyreviews.net/affitor-review.html</loc>
+        <lastmod>2026-08-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.95</priority>
+    </url>
+    <!-- Additional pages -->
     <url>
         <loc>https://verifyreviews.net/best-hosting.html</loc>
         <lastmod>2026-08-27</lastmod>
