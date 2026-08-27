@@ -1,0 +1,633 @@
+The Ex Factor - Affiliate Keywords List
+Last updated: August 2026 (Updated with AGOS Research Methodology)
+See all affiliate resources for “The Ex Factor Guide” here: http://www.exbackprofits.com/
+
+================================================================================
+AGOS METHODOLOGY: HƯỚNG DẪN CÁCH TÌM VÀ MỞ RỘNG BỘ TỪ KHÓA CHO DỰ ÁN EX FACTOR
+================================================================================
+
+Để tìm kiếm và mở rộng bộ từ khóa này cho chiến dịch Google Ads hoặc SEO, bạn áp dụng 5 phương pháp chuẩn hóa sau của AGOS:
+
+1. PHƯƠNG PHÁP 1: TÌM TỪ KHÓA HẠT GIỐNG (SEED KEYWORDS)
+   - Sử dụng các cụm từ cốt lõi của thị trường ngách mối quan hệ như: "get ex back", "no contact rule", "ex boyfriend", "ex girlfriend", "breakup recovery".
+   - Công cụ: Google Keyword Planner, Ahrefs, SEMrush.
+   - Mục tiêu: Tìm lượng tìm kiếm trung bình hàng tháng (Search Volume) và mức giá thầu CPC ước tính (Top of page bid).
+
+2. PHƯƠNG PHÁP 2: KỸ THUẬT GOOGLE AUTOCOMPLETE (ALPHABET SOUP)
+   - Lên Google Search và gõ cụm từ khóa kèm các chữ cái (a-z) hoặc từ để hỏi để tìm từ khóa đuôi dài.
+     Ví dụ:
+     * "how to get your ex back when..." -> Google sẽ gợi ý "...when she has moved on", "...when he blocked you".
+     * "does no contact work on..." -> "...on men", "...on stubborn women".
+   - Công cụ: KeywordTool.io, AnswerThePublic, hoặc dùng script tự động cào autocomplete.
+
+3. PHƯƠNG PHÁP 3: PHÂN TÍCH ĐỐI THỦ (COMPETITOR AD SPYING)
+   - Tìm các đối thủ đang chạy quảng cáo Google Ads cho ngách "Get ex back".
+   - Gõ từ khóa hạt giống lên Google US (dùng VPN hoặc công cụ Isearchfrom.com) để quan sát các mẫu quảng cáo (Ad copies) của đối thủ.
+   - Công cụ: SpyFu, SimilarWeb, SEMrush để xem đối thủ đang mua những từ khóa nào và Landing Page của họ thiết kế ra sao.
+
+4. PHƯƠNG PHÁP 4: PHÂN LOẠI INTENT THEO PHỄU SƠN PIAZ
+   Chúng ta phân loại bộ từ khóa này thành 3 tầng:
+   - Tầng 1: Conversion (Ý định chuyển đổi cao) - Chạy Ads chính:
+     * Chứa tên sản phẩm: "Ex Factor Guide review", "Ex Factor discount code", "does Brad Browning Ex Factor work".
+     * Chứa từ khóa hành động: "best guide to get ex back", "how to buy ex factor guide".
+   - Tầng 2: Education (Giáo dục/Tìm giải pháp) - Thích hợp làm Blog/SEO:
+     * "how to get ex back", "what to text your ex", "30 day no contact rule success rate".
+   - Tầng 3: Awareness (Thu hút diện rộng) - Traffic lạnh:
+     * "i miss my ex", "why did he break up with me", "stages of breakup".
+
+5. PHƯƠNG PHÁP 5: LỌC TỪ KHÓA PHỦ ĐỊNH (NEGATIVE KEYWORDS) - BẮT BUỘC KHI CHẠY GOOGLE ADS
+   - Để không bị lãng phí ngân sách Google Ads, bạn phải quét bộ từ khóa này qua `tools/keyword_classifier.py` để tìm các từ khóa rác và đưa vào danh sách phủ định:
+     * Cấm chứa: "free", "pdf", "download", "crack", "torrent", "reddit free" (người dùng muốn tải miễn phí, không có ý định mua).
+     * Cấm chứa: "job", "career", "salary", "work at" (người dùng tìm việc làm liên quan đến tư vấn tâm lý).
+     * Cấm chứa: "login", "signin", "member area" (khách hàng cũ tìm chỗ đăng nhập).
+
+================================================================================
+BỘ TỪ KHÓA CHI TIẾT (CLASSIFIED KEYWORDS LIST)
+================================================================================ 
+“Get your ex back”
+“Can i get my ex back”
+“no contact method”
+“Does my ex…”
+how to get over a breakup
+how to get your ex back
+how to get a boyfriend
+getting over a break up
+how to get over an ex
+how to get back with ex
+how to get your ex girlfriend back
+how to win your ex back
+how to get your ex boyfriend back
+how to get him back
+getting back with an ex
+get your ex back
+how to get my ex back
+break up advice
+getting over an ex
+how to win her back
+how to get your girlfriend back
+how to get your boyfriend back
+how to get her back
+how to win a girl back
+how to make your ex want you back
+how to win him back
+how to cope with a break up
+how to make him want you back
+should i get back with my ex
+getting back together with an ex
+how to win your wife back
+how to get your girl back
+how to get ex girlfriend back
+will my ex come back
+how to survive a breakup
+how to get ex boyfriend back
+i want my ex back
+best way to get over a breakup
+does my ex want me back
+getting over your ex
+how to get your man back
+how to get ur ex back
+how to win someone back
+how to get a guy back
+how to get someone back
+how to get your wife back
+how to win back an ex
+how to get my girlfriend back
+how to get my ex girlfriend back
+how to get my ex boyfriend back
+how to win a guy back
+surviving a breakup
+get ex girlfriend back
+how to recover from a break up
+how to get my wife back
+how to get your husband back
+how to get my boyfriend back
+how to win back your ex girlfriend
+how to get girlfriend back
+how to win your girlfriend back
+moving on after a breakup
+how to get over your ex boyfriend
+how to get my husband back
+get my ex back
+ways to get your ex back
+i want my ex boyfriend back
+how to get boyfriend back
+how to make an ex want you back
+how do i get my ex back
+how to get a man back
+how to win your boyfriend back
+win your ex back
+get your ex girlfriend back
+how to win your ex boyfriend back
+how to get your ex to want you back
+how to make your ex want you
+get ex boyfriend back
+how to get your ex back
+how to deal with a break up
+how to get back with ex
+how to get your ex girlfriend back
+how to win your ex back
+how to get your ex boyfriend back
+how to get him back
+getting back with an ex
+get your ex back
+how to get my ex back
+break up advice
+getting over an ex
+getting back together
+how to win her back
+how to get your girlfriend back
+how to get your boyfriend back
+how to get her back
+how to win a girl back
+how to make your ex want you back
+should i get back with my ex
+how to win him back
+how to cope with a breakup
+how to make him want you back
+how to get over an ex boyfriend
+getting back together with an ex
+signs your ex wants you back
+how to win your wife back
+how to get your girl back
+how to get ex girlfriend back
+will my ex come back
+i want my ex back
+how to get ex boyfriend back
+how to get a guy back
+how to survive a breakup
+does my ex want me back
+getting over your ex
+getting back together after a break up
+how to get ur ex back
+how to get your man back
+how to win someone back
+how to get someone back
+how to know if your ex wants you back
+my ex wants me back
+when your ex wants you back
+how to get your wife back
+how to get my girlfriend back
+how to win back an ex
+how to get my ex boyfriend back
+how to get my ex girlfriend back
+how to win a guy back
+get ex girlfriend back
+moving on after a breakup
+how to get my wife back
+how to get your ex back fast
+how to win your ex girlfriend back
+how to get my boyfriend back
+how to get girlfriend back
+how to make a guy want you back
+how to get over your ex boyfriend
+will he come back to me
+getting back with an ex after a year
+how to get my husband back
+get my ex back
+ways to get your ex back
+how to get back together with your ex
+how to win your girlfriend back
+no contact rule
+does no contact work
+does the no contact rule work
+no contact after breakup
+how long before he calls after a break up
+the no contact rule
+what is he thinking during no contact
+why do men come back after no contact
+no contact rule to get her back
+no contact rule to get him back
+no contact rule male psychology
+should i contact my ex
+does the no contact rule work on men
+no contact rule success stories
+no contact with ex
+30 day no contact rule
+no contact rule how long
+does he miss me during no contact
+30 days no contact
+no contact after breakup psychology
+will no contact make him move on
+what to do after the 30 day no contact rule
+no contact to get her back
+30 day no contact rule psychology
+why no contact works
+no contact rule does it work
+no contact success stories
+why guys come back when you ignore them
+why men come back after you ignore them
+no contact rule after breakup
+no contact rule does not work
+is he thinking about me during no contact
+what to say to ex boyfriend after no contact
+no contact ex girlfriend
+signs he misses you during no contact
+no contact rule ex
+how to text an ex girlfriend after no contact
+breakup no contact
+no contact after being dumped
+no contact rule works
+what to do after no contact
+does no contact work to get ex girlfriend back
+what is the no contact rule
+no contact to get ex back
+i miss my ex
+does he miss me
+does he still love me
+does my ex miss me
+why can t i get over my ex
+signs your ex wants you back
+will my ex come back
+signs your ex misses you
+is it normal to still love my ex
+does my ex still love me
+how to know if your ex is over you
+does my ex want me back
+how to know if your ex wants you back
+signs your ex still loves you
+signs he will come back
+i still love my ex
+when your ex wants you back
+still in love with ex
+does my ex still love me quiz
+does he still love me quiz
+signs your ex doesnt want you back
+signs your ex is over you
+signs he wants you back
+still in love with my ex
+top 5 signs ex still loves you
+does my boyfriend still love me
+signs your ex girlfriend is over you
+signs your ex girlfriend still loves you
+signs your ex still has feelings for you
+signs he still loves you
+signs my ex is over me
+signs your ex is not over you
+should i call my ex
+does she still love me
+does my ex want me back quiz
+how to know if your ex still loves you
+how to know if ex misses you
+is my ex over me
+signs your ex still cares
+why do i still love my ex
+is he over me
+signs he regrets breaking up
+am i over my ex
+signs he's not over you
+does he miss me quiz
+signs he wants you back after breakup
+signs your ex boyfriend still loves you
+signs my ex girlfriend wants me back
+miss my ex boyfriend
+signs ex wants you back
+signs he misses his ex
+does my ex miss me quiz
+signs your ex girlfriend misses you
+“Text your ex”
+“After a breakup”
+“Ex moved on”
+“Friends with ex”
+how to get your ex back
+how to get back with ex
+how to win your ex back
+how to get him back
+getting back with an ex
+how to get my ex back
+should i text my ex
+how to win her back
+how to get her back
+how to win him back
+ex texts
+text from your ex
+text your ex
+i want my ex back
+when your ex texts you
+text your ex back
+texts to send to your boyfriend
+texting an ex
+what to text your boyfriend
+how to win back an ex
+text your boyfriend
+how to text your ex
+funny ex texts
+texting your ex
+texting my ex
+text your ex back example texts
+what to text your ex
+things to say to get your ex back
+what to text your ex after no contact
+how to text an ex
+should you text your ex
+texts to get your ex back
+should i text my ex girlfriend
+texting ex boyfriend
+how to get over a breakup
+how to get your ex back
+how to deal with a break up
+getting over a breakup
+how to get over an ex
+how to get back with ex
+how to get your ex girlfriend back
+how to get over a broken heart
+what to do after a breakup
+how to win your ex back
+how to get your ex boyfriend back
+getting back with an ex
+get your ex back
+how to mend a broken heart
+how to get my ex back
+how to move on after a break up
+how to save a relationship
+break up advice
+how to get through a break up
+how to make your ex want you back
+should i get back with my ex
+getting back together with an ex
+signs your ex wants you back
+how to get ex girlfriend back
+will my ex come back
+i want my ex back
+how to get ex boyfriend back
+how to survive a breakup
+does my ex want me back
+getting over your ex
+after a breakup getting back together
+getting back together after a break up
+how to get ur ex back
+my ex wants me back
+when your ex wants you back
+how to win back an ex
+how to get my ex boyfriend back
+how to get my ex girlfriend back
+surviving a breakup
+get ex girlfriend back
+moving on after a breakup
+how to get over a breakup for guys
+how to recover from a break up
+breakup recovery
+how to win your ex girlfriend back
+fixing a broken relationship
+boyfriend broke up with me
+how to move on
+how to let go of someone
+how to let go of someone you love
+how to get over an ex boyfriend
+how to move on from an ex
+how to move on from a relationship
+is it normal to still love my ex
+how to know if your ex is over you
+how to stop thinking about your ex
+moving on from a relationship
+how to move on from someone you love
+i still love my ex
+ex moved on
+still in love with ex
+signs your ex is over you
+still in love with my ex
+how to move on from someone
+how to get over your ex boyfriend
+signs your ex girlfriend is over you
+how to let go of your ex
+signs your ex has moved on
+how to let go of an ex
+is my ex over me
+getting over an ex you still love
+why do i still love my ex
+am i over my ex
+when your ex moves on
+how to let someone go when you still love them
+letting go of an ex
+letting go of your ex
+how to get him back when he's moved on
+do i still love my ex
+am i still in love with my ex
+i love my ex
+when your ex starts dating right away
+seeing your ex with someone else
+how to tell your ex you still love him
+how to stop loving your ex
+how to get over an ex girlfriend you still love
+signs he moved on
+my ex moved on
+my ex has moved on
+in love with my ex
+how to let go of an ex you still love
+friends with an ex
+friends with ex
+friends with the ex
+being friends with an ex
+how to be friends with your ex
+being friends with your ex
+how to be friends with an ex
+can exes be friends
+staying friends with an ex
+can you be friends with your ex
+ex wants to be friends
+can you be friends with an ex
+being friends with an ex you still love
+my ex wants to be friends
+why does my ex want to be friends so badly
+why does my ex want to be friends
+friends after breakup
+should i be friends with my ex
+should you be friends with your ex
+why does my ex boyfriend want to be friends
+ex girlfriend wants to be friends
+friends with your ex
+why does my ex girlfriend want to be friends
+ex wants to be friends after no contact
+being friends after a breakup
+staying friends after a breakup
+does being friends with an ex help get them back
+how to be friends with an ex you still love
+ex boyfriend wants to be friends
+how to be friends after a breakup
+can i be friends with my ex
+how to stay friends with an ex
+is it ok to be friends with your ex
+why does my ex husband want to be friends
+staying friends with your ex
+“Ex rebound”
+“Ex blocked you”
+“Ex ignores you”
+“Signs your ex...”
+rebound relationship
+rebound relationship signs
+what is a rebound relationship
+rebound dating
+how long do rebound relationships last
+rebound relationship stages
+do exes ever come back after dating someone else
+ex came back after rebound
+my ex is in a rebound relationship
+my ex rebound relationship
+my ex is dating someone else already and it hurts
+rebound relationship definition
+what does it mean when your ex moves on quickly
+how long do rebound relationships last on average
+rebound relationship time frame
+when your ex starts dating right away
+my ex started dating someone else right away
+does a rebound relationship last
+seeing your ex with someone else
+how long do rebounds last
+is my ex happy in his new relationship
+phases of a rebound relationship
+is my ex in a rebound relationship quiz
+rebound relationship quiz
+signs your ex is in a rebound relationship
+do rebound relationships work
+how to handle your ex dating someone else
+ex dating someone else
+my ex is dating someone else
+rebound after breakup
+my ex blocked my number is it over
+should i contact my ex
+should i call my ex
+my ex blocked me
+ex blocked me
+is my ex thinking about me
+how to respond to an ex contacting you
+why is my ex texting me
+should i block my ex number
+does my ex think about me
+blocking your ex
+when your ex blocks you
+my ex keeps texting me
+why did my ex cut off all contact
+is my ex looking at my facebook profile
+she blocked my number is it over
+what to say to your ex girlfriend after no contact
+why is he ignoring me
+when your boyfriend ignores you
+let him come to you after a break up
+when your ex texts you
+boyfriend ignoring me
+should i text him back after he ignored me
+when a guy ignores you
+my boyfriend is ignoring me
+what to do when he ignores you
+when he ignores you
+signs he will come back after break up
+why does he ignore me if he likes me
+when a guy ignores you after an argument
+why is she ignoring me
+when you see your ex
+does he miss me after the break up
+is he over me
+why does he ignore me
+what to do when your boyfriend ignores you
+why is he ignoring me all of a sudden
+girlfriend ignoring me
+why is he ignoring my texts
+why is my boyfriend ignoring me
+why does my boyfriend ignore me
+my ex is ignoring me
+ignoring your ex
+why guys come back when you ignore them
+what does a guy think when you ignore him
+ex ignoring me
+why do guys ignore you if they like you
+why men come back after you ignore them
+why does my ex boyfriend want to be friends
+mean things to say to your ex
+i broke up with him and he is ignoring me
+how your ex feels when you ignore him
+when a guy is mad and ignores you
+my ex won t talk to me
+ex won t talk to me
+what to do when a guy ignores you
+why is my ex ignoring me
+when a man ignores you
+when a girl ignores you
+things to say to your ex to get him back
+how to get your ex to talk to you first
+does my ex boyfriend miss me
+signs he misses you after breakup
+when he ignores your texts
+why my ex boyfriend ignores me completely
+ignoring an ex that dumped you
+my girlfriend is ignoring me
+does he still love me
+signs your ex wants you back
+signs your ex misses you
+is it normal to still love my ex
+does my ex still love me
+how to know if your ex is over you
+does my ex want me back
+signs my ex boyfriend still has feelings for me
+signs he wants you back but is scared
+does he still like me
+how to know if your ex wants you back
+signs your ex still loves you
+i still love my ex
+i miss my ex so much
+still in love with ex
+when your ex wants you back
+signs he misses you
+does my ex still love me quiz
+signs your ex doesn t want you back
+signs your ex is over you
+signs he wants you back
+still in love with my ex
+signs your ex boyfriend wants you back
+top 5 signs ex still loves you
+does my boyfriend still love me
+signs he will come back after break up
+signs ex is confused
+signs your ex girlfriend is over you
+signs your ex gf still loves you
+signs your ex girlfriend still loves you
+signs your ex still has feelings for you
+signs he still loves you
+does he want me back
+signs my ex is over me
+signs your ex is not over you
+signs your ex has moved on
+does she still love me
+i m still in love with my ex
+how to know if your ex still loves you
+how to know if ex misses you
+is my ex over me
+getting over an ex you still love
+signs your ex still cares
+why do i still love my ex
+is he over me
+signs your ex isn't over you
+signs he's not over you
+am i still in love with my ex quiz
+do i still love my ex
+signs she will come back to you
+how to know if your ex misses you
+does my ex still like me
+am i still in love with my ex
+how to know if he misses you after a breakup
+signs he wants you back after breakup
+signs your ex boyfriend still loves you
+signs your ex girlfriend is not over you
+my ex still loves me
+signs she misses you
+signs your ex boyfriend is over you
+signs my ex girlfriend wants me back
+i love my ex
+what to do when your ex wants you back
+signs ex wants you back
+my ex is with someone else but still contacts me
+does my ex miss me quiz
+how to know if your ex girlfriend still loves you
+how to tell your ex you still love him
+how to tell if your ex still likes you
+how to tell if your ex still loves you
+how to know if your ex still likes you
+signs your ex gf misses you
+signs your ex girlfriend misses you
+how to tell if your ex wants you back
+does my ex think about me
+is my ex trying to make me jealous
+does my ex still have feelings for me
+signs she wants you back
+is he still in love with me
+signs ex boyfriend wants you back
+signs an ex girlfriend is still interested
+signs your ex hates you

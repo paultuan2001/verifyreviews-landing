@@ -1,0 +1,10 @@
+Campaign,Ad Group,Keyword,Criterion Type,Max CPC
+GGL-US-KymaAPI-01,LLM Gateway,best llm api gateway,Exact,0.80
+GGL-US-KymaAPI-01,LLM Gateway,unified ai model api key,Phrase,0.75
+GGL-US-KymaAPI-01,LLM Gateway,openai api alternative,Phrase,0.70
+GGL-US-KymaAPI-01,LLM Gateway,multi model llm router api,Phrase,0.75
+GGL-US-KymaAPI-01,LLM Gateway,fallback ai api provider,Phrase,0.65
+GGL-US-KymaAPI-01,Coding Agent Gateway,deepseek v4 api endpoint,Exact,0.85
+GGL-US-KymaAPI-01,Coding Agent Gateway,cursor custom openai base url,Phrase,0.80
+GGL-US-KymaAPI-01,Coding Agent Gateway,claude code custom llm gateway,Phrase,0.75
+GGL-US-KymaAPI-01,Coding Agent Gateway,pay per token ai gateway,Phrase,0.65

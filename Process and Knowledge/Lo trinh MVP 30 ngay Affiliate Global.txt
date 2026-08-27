@@ -1,0 +1,321 @@
+
+
+## 1. Lộ trình MVP: 30 ngày
+
+| Ngày | Làm gì | Làm thế nào | Tools | Cần chuẩn bị | Kết quả | Chi phí dự kiến | Doanh thu mục tiêu | Auto / lặp? |
+|---|---|---|---|---|---|---:|---:|---|
+| **1** | Setup hệ thống | Tạo email công việc, Google Ads, Google Cloud, GitHub; tạo thư mục/project AGOS-MVP | ChatGPT, Claude, Antigravity | 1 email riêng, số ĐT, phương thức thanh toán, GitHub | Bộ tài khoản sẵn sàng | 0đ | 0 | Một lần |
+| **1** | Chọn thị trường | Chốt **US + English + Google Search** | ChatGPT | Không cần thêm | Market = US | 0đ | 0 | Một lần |
+| **1–2** | Research offer | Tìm 20–30 affiliate programs phù hợp; đọc **official terms** | ChatGPT + Web | Affiliate accounts nếu cần | 20–30 candidates | 0–500k* | 0 | **Lặp lại** |
+| **2** | Compliance | Kiểm tra commission, Geo, PPC, brand bidding, direct linking, landing requirements | ChatGPT + Web | Terms/affiliate links | 5–10 offers đủ điều kiện nghiên cứu tiếp | 0 | 0 | Mỗi offer |
+| **2** | Economics | Tính commission/sale, expected EPC, break-even CPC, test budget | ChatGPT | Commission + price + giả định CVR | Top 3–5 offers | 0 | 0 | Mỗi offer |
+| **3** | Đăng ký affiliate | Apply 1–3 programs tốt nhất | Browser + AI | Email, website/domain, profile mô tả traffic | Affiliate approval | 0 | 0 | Một lần/offer |
+| **3–4** | Mua domain | Mua 1 domain brand trung lập | Domain registrar | Thẻ thanh toán | Domain riêng | ~250–500k/năm | 0 | Một lần |
+| **4** | Hosting | Deploy landing page | Claude + Antigravity + Vercel | GitHub + domain | Website live HTTPS | Có thể 0đ MVP | 0 | Một lần |
+| **4–5** | Xây landing | Tạo **content/review/comparison page có giá trị thật**, không phải trang trung gian mỏng | Claude + Antigravity | Offer data, keyword research | Landing hoàn chỉnh | 0–300k AI/API | 0 | Mỗi offer |
+| **5** | Tracking | Gắn GA4/GTM hoặc tracking tương đương + affiliate SubID nếu network hỗ trợ | Claude + Antigravity | Affiliate link, IDs | Click → affiliate click được đo | 0–300k | 0 | Setup một lần, chạy liên tục |
+| **6** | Google Ads setup | Tạo Search campaign, Geo US, keyword/ad group, negative keywords | Google Ads + ChatGPT | Google Ads account + billing | Campaign ready | 0 | 0 | Mỗi campaign |
+| **6** | Compliance QA | Kiểm tra ad → landing → domain → affiliate disclosure → terms | ChatGPT + Browser | Website live | Ready to launch | 0 | 0 | Mỗi campaign |
+| **7** | **LAUNCH** | Bắt đầu ngân sách nhỏ | Google Ads + Madgicx | Budget test | Có traffic thật | **~500k–1M** | 0 | Bắt đầu lặp |
+| **8–10** | Thu data | Không thay đổi lung tung; ghi CPC, CTR, clicks, affiliate clicks | Google Ads/Madgicx | Tracking hoạt động | Có dữ liệu thật | theo spend | 0–commission | **Hàng ngày** |
+| **10–14** | Optimize | Xử lý keyword, ad, landing theo data | ChatGPT + Madgicx + Claude | Data ≥ ngưỡng test | Campaign tốt hơn | theo spend | **Mục tiêu: commission đầu tiên** | **Lặp** |
+| **15–21** | Test #2/#3 | Chỉ test tiếp nếu #1 cho tín hiệu hoặc cần kiểm chứng hypothesis | ChatGPT + Claude + Google Ads | Offer shortlist còn lại | 2–3 campaigns | ~1–3M | $0–$100+ | Lặp |
+| **22–30** | Tìm winner | Kill loser, tối ưu winner, tăng ngân sách có kiểm soát | ChatGPT + Madgicx | Data campaigns | 1 winner candidate | ~2–4M | **$50–$300+ mục tiêu** | Lặp |
+| **30** | Đóng gói AGOS MVP | Code hóa những việc vừa làm thủ công | Claude + Antigravity | Data + workflow thật | AGOS Research MVP v0.1 | 0–500k | Chưa tính | Một lần |
+| **30+** | Scale | Nhân winner sang keyword/offer/Geo phù hợp | AI + Ads | Winner + economics | Repeatable campaign | Theo lợi nhuận | Tăng dần | **Lặp liên tục** |
+
+\* Có thể cao hơn nếu dùng paid research/data APIs; **MVP không bắt buộc phải mua**.
+
+---
+
+# 2. Tài nguyên phải chuẩn bị
+
+| Tài nguyên | Cần? | Khi nào | Chi phí |
+|---|---|---|---:|
+| Email riêng cho business | **Có** | Ngày 1 | 0–phí Google Workspace |
+| Gmail/Google account | **Có** | Ngày 1 | 0 |
+| Google Ads account | **Có** | Ngày 1–2 | 0 |
+| Google Ads Manager Account | Chưa bắt buộc MVP | Khi làm API/multi-account | 0 |
+| Google Cloud Project | Chưa cần nếu chỉ chạy UI | Khi dùng API | 0 |
+| Google Ads Developer Token | **Chưa cần MVP** | Khi AGOS điều khiển Ads API | 0 |
+| Affiliate network accounts | **Có** | Ngày 2–3 | Thường 0 |
+| Domain | **Có** | Ngày 3–4 | ~250–500k/năm |
+| Hosting | **Có** | Ngày 4 | Có thể 0đ MVP |
+| GitHub | **Có** | Ngày 1 | Có thể 0đ |
+| Landing page | **Có** | Ngày 4–5 | 0–300k |
+| Tracking | **Có** | Ngày 5 | Có thể 0đ |
+| Phương thức thanh toán Ads | **Có** | Trước launch | Theo ngân hàng/thẻ |
+| 10 triệu vốn test | **Có** | Khi launch | **10M vốn** |
+| Madgicx | Đã có | Khi campaign live | Theo gói thầy đang dùng |
+| ChatGPT | Đã có | Toàn bộ quy trình | Theo gói thầy đang dùng |
+| Claude | Đã có | Coding/research | Theo gói thầy đang dùng |
+| Antigravity | Đã có | Coding/deploy/QA | Theo gói thầy đang dùng |
+
+Google Ads API **không cần cho MVP**. Khi cần, Google yêu cầu Manager Account + developer token; API bản thân hiện được Google công bố là miễn phí, nhưng access level/quota và quy trình phê duyệt áp dụng. 
+
+---
+
+# 3. 10 triệu dùng thế nào?
+
+**Không tiêu 10 triệu trong tuần đầu.**
+
+| Quỹ | Số tiền | Mục đích |
+|---|---:|---|
+| Setup | 500k | Domain + chi phí lặt vặt |
+| Test #1 | 1.5M | Campaign đầu |
+| Test #2 | 1.5M | Campaign thứ hai |
+| Test #3 | 1.5M | Campaign thứ ba |
+| Optimization | 2M | Dồn cho campaign có tín hiệu |
+| Scale reserve | 2M | Winner |
+| Emergency reserve | 1M | Không đụng nếu chưa cần |
+| **Tổng** | **10M** | |
+
+**Không phải cứ phân bổ là phải tiêu.**
+
+Nếu campaign chết:
+
+> STOP → giữ tiền.
+
+Nếu campaign có tín hiệu:
+
+> OPTIMIZE → mới tăng.
+
+---
+
+# 4. Quy trình nào trước, quy trình nào sau?
+
+Đây là phần **không được đảo thứ tự**:
+
+```text
+① RESEARCH
+       ↓
+② OFFER
+       ↓
+③ COMPLIANCE
+       ↓
+④ ECONOMICS
+       ↓
+⑤ AFFILIATE APPROVAL
+       ↓
+⑥ DOMAIN
+       ↓
+⑦ LANDING
+       ↓
+⑧ TRACKING
+       ↓
+⑨ GOOGLE ADS
+       ↓
+⑩ LAUNCH
+       ↓
+⑪ DATA
+       ↓
+⑫ OPTIMIZE
+       ↓
+⑬ CONVERSION
+       ↓
+⑭ PROFIT
+       ↓
+⑮ SCALE
+```
+
+Google yêu cầu landing/final URL phải đáp ứng các yêu cầu về destination, hữu ích, hoạt động và dễ điều hướng; landing page cũng ảnh hưởng tới trải nghiệm/Quality Score. 
+
+---
+
+# 5. Cái gì tự động, cái gì thầy duyệt?
+
+| Công việc | MVP | Sau khi AGOS trưởng thành |
+|---|---|---|
+| Tìm affiliate offers | 🤖 AI | 🤖 Auto |
+| Đọc Terms | 🤖 AI | 🤖 Auto + evidence |
+| Trích commission | 🤖 AI | 🤖 Auto |
+| Kiểm tra PPC | 🤖 AI + nguồn | 🤖 Auto + confidence |
+| Tính economics | 🤖 Auto | 🤖 Auto |
+| Chấm điểm offer | 🤖 Auto | 🤖 Auto |
+| Chọn offer | 👤 **Thầy** | 👤/AI đề xuất |
+| Xây landing | 🤖 Claude | 🤖 Auto |
+| QA landing | 🤖 AI + 👤 | 🤖 Auto + approval |
+| Tạo campaign | 👤 | 🤖 AI → 👤 duyệt |
+| Launch Ads | 👤 **Thầy** | 👤 → sau này AI |
+| Theo dõi data | 🤖 Auto | 🤖 Auto |
+| Phân tích | 🤖 ChatGPT | 🤖 Agent |
+| Pause loser | 👤 | 🤖 + rule |
+| Scale winner | 👤 | 🤖 đề xuất → 👤 |
+| Research lại | 🤖 Auto | 🤖 Auto |
+| Tìm pattern winner | — | 🤖 AI |
+| Code AGOS | 🤖 Claude | 🤖 Claude |
+
+---
+
+# 6. Cái gì lặp lại?
+
+## Lặp **mỗi ngày**
+
+```text
+DATA
+ ↓
+ANALYZE
+ ↓
+DECISION
+ ↓
+ACTION
+ ↓
+DATA
+```
+
+## Lặp **mỗi campaign**
+
+```text
+Research
+→ Build
+→ Launch
+→ Test
+→ Optimize
+→ Kill/Scale
+```
+
+## Lặp **mỗi winner**
+
+```text
+Winner
+→ Clone hypothesis
+→ New keyword
+→ New offer
+→ New Geo
+→ Test
+```
+
+## Lặp **mỗi tuần**
+
+```text
+Review all campaigns
+↓
+Kill losers
+↓
+Find winners
+↓
+Reallocate budget
+↓
+New research
+```
+
+---
+
+# 7. Tối ưu theo đúng tầng
+
+Đừng thấy không có sale là sửa landing ngay.
+
+AGOS phải chẩn đoán theo thứ tự:
+
+| Vấn đề | Kiểm tra |
+|---|---|
+| Không có impression | Keyword / bid / targeting |
+| Có impression, ít click | Ad / keyword / intent |
+| Có click, không affiliate click | Landing / CTA / offer relevance |
+| Có affiliate click, không sale | Offer / merchant / traffic quality |
+| Có sale nhưng lỗ | CPC / CVR / commission |
+| Có profit | **Không sửa lung tung → scale có kiểm soát** |
+
+Đây là điểm sẽ biến AGOS từ “AI chatbot” thành **decision system**.
+
+---
+
+# 8. Mục tiêu doanh thu theo từng mốc
+
+| Mốc | Mục tiêu |
+|---|---|
+| Ngày 1–7 | **$0**, hoàn thành infrastructure |
+| Ngày 8–14 | Traffic + data; **có thể $0** |
+| Ngày 15–21 | **First conversion/commission nếu campaign hoạt động tốt** |
+| Ngày 22–30 | **First approved commission / campaign có tín hiệu profit** |
+| Tháng 2 | Tìm **1 profitable campaign** |
+| Tháng 3 | Nhân winner |
+| Sau đó | Xây AGOS từ dữ liệu thật |
+
+**Không đặt doanh thu $ cố định như một lời hứa.** Với affiliate paid traffic, merchant CVR, CPC, approval rate và attribution đều nằm ngoài quyền kiểm soát hoàn toàn của thầy.
+
+---
+
+# 9. AGOS được xây ở đâu?
+
+### Giai đoạn 1 — chưa cần app
+
+```text
+ChatGPT
++
+Google Sheets/CSV
++
+Claude
++
+Antigravity
++
+Google Ads
++
+Madgicx
+```
+
+### Giai đoạn 2
+
+```text
+Next.js
++
+Supabase/PostgreSQL
++
+Claude
++
+ChatGPT
+```
+
+### Giai đoạn 3
+
+```text
+AGOS
++
+Google Ads API
++
+Affiliate APIs/Postbacks
++
+AI Agents
++
+Automation
+```
+
+Google Ads API cho phép ứng dụng tạo/quản lý campaign, ad group, ads, keywords tùy access/permissible use; Basic/Standard access cần quy trình phê duyệt phù hợp. 
+
+---
+
+# 10. Và đây là MVP thật sự em muốn thầy làm
+
+### **Không phải:**
+
+> “Xây AGOS.”
+
+### Mà là:
+
+> **“Dùng ChatGPT + Claude + Antigravity + Madgicx để tạo ra commission Affiliate đầu tiên.”**
+
+Sau đó:
+
+```text
+THẦY LÀM THỦ CÔNG
+        ↓
+CÓ DATA THẬT
+        ↓
+GHI LẠI WORKFLOW
+        ↓
+CLAUDE CODE HÓA
+        ↓
+AGOS V0.1
+        ↓
+AGOS TỰ RESEARCH
+        ↓
+AGOS TỰ PHÂN TÍCH
+        ↓
+AGOS HỖ TRỢ CAMPAIGN
+        ↓
+AGOS CHO HỌC VIÊN DÙNG
+        ↓
+BÁN SUBSCRIPTION
+```
+
+**Đây là vòng lặp đúng:** kiếm commission trước → tạo dữ liệu → code hóa → tự động hóa → rồi mới bán phần mềm.

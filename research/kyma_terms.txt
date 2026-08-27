@@ -1,0 +1,9 @@
+8. Referral program of Kyma
+Kyma offers a referral program where you can earn credits by inviting others.
+
+• How it works: Share your referral link. When someone signs up and uses at least 1 million tokens, both you and the referred user each receive $0.50 in credits.
+• Pending status: Referrals start as "pending" and become "verified" only when the referred user uses 1M+ tokens. There is no time limit.
+• Legitimate referrals only. Each referral must be a real person who genuinely intends to use Kyma. Creating fake accounts, using bots, or any form of automated signup to earn referral credits is strictly prohibited.
+• One account per person. Multiple accounts created by the same person will be considered fraudulent.
+• Enforcement: If we detect referral abuse, we will reset earned credits to zero, revoke referral privileges, and may permanently ban the account.
+• Kyma may modify or discontinue the referral program at any time.

@@ -1,0 +1,1094 @@
+Lộ trình triển khai thực tế Affiliate Global Khởi Nguyên 
+1. Trước hết: bản chất mô hình
+Có thể cô đọng thành:
+Research → Chọn Offer → Tính Economics → Affiliate Link → Google Ads → Tracking → Test → Tắt/giữ → Optimize → Scale → Nhân bản
+Nguyên tắc cốt lõi của file là:
+Không kiếm tiền bằng cách bán hàng trực tiếp; kiếm tiền bằng khả năng tìm ra những offer có economics tốt và mua traffic có lợi nhuận.
+Người làm affiliate không sở hữu hàng, không tồn kho, không giao hàng, không chăm sóc khách hàng. Dự án/merchant chịu trách nhiệm xử lý khách hàng và fulfillment; affiliate tập trung vào marketing và theo dõi conversion. File mô tả dòng vận hành gồm tìm dự án → chạy quảng cáo → khách vào trang → mua → affiliate ghi nhận sale → chờ thời gian hold khoảng 30–60 ngày tùy chương trình → nhận hoa hồng. 
+2. Cỗ máy Affiliate Global hoàn chỉnh
+Em sẽ xây cho thầy theo 10 tầng:
+Tầng
+Công việc
+Đầu ra
+1
+Chọn thị trường
+Country/Geo
+2
+Chọn niche
+Ngách
+3
+Research offer
+Danh sách offer
+4
+Kiểm tra economics
+Offer đạt chuẩn
+5
+Đăng ký affiliate
+Tracking link
+6
+Chuẩn bị funnel
+Landing/bridge page
+7
+Research keyword
+Bộ từ khóa
+8
+Google Ads
+Campaign
+9
+Tracking & optimization
+Dữ liệu
+10
+Scale & replicate
+Lợi nhuận tăng
+Điểm quan trọng: đừng bắt đầu bằng Google Ads.
+Google Ads chỉ là cỗ máy mua traffic.
+Tài sản thực sự phải xây là:
+Research system + Offer database + Economics model + Campaign data + Winning patterns.
+3. Giai đoạn 0 — Chuẩn bị vốn và tư duy
+File đưa ra hai khoản tiền tách biệt:
+A. Tiền học/đào tạo
+Trong webinar, chương trình được giới thiệu khoảng 24,99–26,99 triệu đồng tùy thời điểm ưu đãi, chưa bao gồm ngân sách quảng cáo. 
+B. Advertising capital
+File đề xuất:
+khoảng 20–30 triệu để có ngân sách test;
+hoặc chia nhỏ khoảng 5–10 triệu/tháng;
+có thể bắt đầu nhỏ hơn nhưng thời gian tìm ra offer thắng sẽ dài hơn. 
+Em không xem 20–30 triệu là “mức bắt buộc”.
+Nó là working capital cho experimentation.
+Điều quan trọng hơn là:
+Không được dùng tiền sinh hoạt để test.
+4. Giai đoạn 1 — Chọn thị trường Global
+Không nên nghĩ:
+“Em sẽ bán sản phẩm Mỹ.”
+Mà phải xác định:
+Geo → Demand → Niche → Offer → Economics
+Ví dụ cấu trúc:
+US
+ ├── Software
+ ├── Home Improvement
+ ├── Outdoor
+ ├── Health
+ ├── Hobby
+ └── Business Services
+Sau đó mới đào sâu.
+Tiêu chí thị trường
+Ưu tiên:
+sức mua cao;
+volume tìm kiếm đủ lớn;
+sản phẩm có giá trị đơn hàng cao;
+affiliate commission đủ lớn;
+merchant uy tín;
+tracking rõ;
+payout rõ;
+refund rate chấp nhận được;
+có nhiều keyword commercial;
+Google Search có nhu cầu thực.
+File nhấn mạnh lợi thế của thị trường nước ngoài nằm ở giá trị đơn hàng và mức hoa hồng, ví dụ một số offer có commission vài chục đến vài trăm USD/sale. Tuy nhiên chính file cũng nói các con số này chỉ là ví dụ, không phải mức cố định. 
+5. Giai đoạn 2 — Research niche
+Đây là kỹ năng số 1.
+File gọi là:
+Research / tìm kiếm và đánh giá dự án / chọn sản phẩm.
+Không phải cứ commission cao là tốt.
+Phải tìm:
+Demand
+Có người tìm không?
+Intent
+Người tìm đang:
+nghiên cứu?
+so sánh?
+muốn mua?
+muốn đăng ký?
+Economics
+Merchant trả bao nhiêu?
+Competition
+Có advertiser khác đang chạy không?
+Traffic economics
+CPC bao nhiêu?
+Conversion economics
+Khách click → mua với tỷ lệ nào?
+6. Giai đoạn 3 — Xây Offer Database
+Đây là chỗ em nghĩ thầy nên làm khác cách webinar mô tả.
+Không tìm một offer rồi chạy ngay.
+Phải xây Offer Database.
+Mỗi offer một record:
+Trường
+Nội dung
+Offer
+Tên sản phẩm
+Merchant
+Công ty
+Affiliate Network
+Network
+Geo
+US/UK/CA/AU...
+Niche
+Ngách
+Product type
+Digital/Physical
+Price
+Giá
+Commission
+Hoa hồng
+Commission %
+%
+EPC
+nếu có
+Cookie
+thời gian
+Refund
+nếu có
+Payout
+điều kiện
+Landing page
+URL
+Affiliate terms
+điều khoản
+Search demand
+volume
+CPC
+ước tính
+Competition
+thấp/vừa/cao
+Advertiser evidence
+Có/không
+Estimated CPA
+ước tính
+Break-even CPC
+tính toán
+Test budget
+ngân sách
+Status
+Research/Test/Win/Loss
+Đây sẽ trở thành tài sản dữ liệu của thầy.
+7. Giai đoạn 4 — Tính economics trước khi chạy
+Đây là phần quan trọng nhất của cả mô hình.
+Ví dụ:
+Offer:
+Giá: $150
+Commission: 40%
+Commission/sale = $60
+File dùng chính ví dụ này. 
+Giả sử:
+commission = $60
+conversion rate = 2%
+Thì:
+Expected revenue/click = $60 × 2% = $1.20
+Nếu CPC trung bình:
+$0.50
+thì:
+Gross contribution/click = $1.20 − $0.50 = $0.70
+→ Có khả năng chạy.
+Nhưng đây mới là economics sơ bộ.
+Phải tính thêm:
+refund;
+chargeback;
+tracking;
+network fee nếu có;
+delayed payout;
+conversion lag;
+attribution;
+merchant cancellation.
+8. Công thức quan trọng nhất
+Thầy cần xây một Affiliate Economics Calculator.
+Revenue per click
+RPC = Commission × Conversion Rate
+Break-even CPC
+BE-CPC = Commission × Conversion Rate
+Profit
+Profit = Approved Commission − Ad Spend − Other Costs
+ROI
+ROI = Profit / Ad Spend
+ROAS
+ROAS = Commission / Ad Spend
+Ví dụ:
+$600 commission / $300 Ads
+→ ROAS = 2.0
+→ Gross profit = $300
+→ ROI = 100%
+9. Nhưng phải phân biệt 3 loại “thắng”
+Đây là điểm rất quan trọng.
+Level 1 — Traffic Win
+Có click rẻ.
+Level 2 — Conversion Win
+Có sale.
+Level 3 — Economic Win
+Sale > total acquisition cost + expected losses.
+Chỉ Level 3 mới gọi là WIN.
+File cũng nhấn mạnh rằng phải tính trước khả năng có lợi nhuận, nhưng cuối cùng vẫn phải test thực tế, bởi CPC/conversion thực tế có thể khác số liệu dự kiến. 
+10. Giai đoạn 5 — Affiliate Network
+Sau khi có offer:
+Tìm merchant.
+Kiểm tra affiliate program.
+Đọc Terms.
+Đăng ký.
+Được approval.
+Lấy affiliate link.
+Xác nhận tracking.
+Kiểm tra attribution.
+Kiểm tra payout.
+Lưu tất cả vào Offer Database.
+Không chạy traffic trước khi hiểu affiliate terms.
+Đặc biệt phải kiểm tra:
+có cho chạy Google Ads không;
+có cho bidding trademark không;
+có cho direct linking không;
+có yêu cầu landing page không;
+có cấm brand keyword không;
+geo nào được phép;
+traffic source nào được phép;
+negative keywords;
+coupon policy.
+11. Giai đoạn 6 — Xây funnel
+File mô tả:
+Google Search → Website/landing → Merchant → Purchase → Affiliate tracking
+Nhưng về mặt hệ thống, thầy nên chuẩn hóa thành:
+Google Search
+      ↓
+Ad
+      ↓
+Landing / Bridge Page
+      ↓
+Offer
+      ↓
+Merchant
+      ↓
+Purchase
+      ↓
+Affiliate Network
+      ↓
+Conversion
+      ↓
+Dashboard
+Vì sao nên có Bridge Page?
+Để thầy kiểm soát:
+messaging;
+pre-sell;
+tracking;
+first-party analytics;
+keyword-to-offer mapping;
+remarketing nếu hợp lệ;
+testing nhiều merchant;
+thay offer mà không phải thay toàn bộ campaign.
+12. Giai đoạn 7 — Keyword Research
+Đây là nơi Google Ads trở thành lợi thế.
+Không chạy theo:
+“từ khóa có volume lớn”.
+Mà tìm:
+commercial intent + economics tốt.
+Ví dụ:
+Informational
+how does X work
+Commercial investigation
+best X
+X reviews
+X alternatives
+X vs Y
+Transactional
+buy X
+X price
+X discount
+X coupon
+X official
+Nhưng phải đối chiếu với affiliate terms.
+13. Giai đoạn 8 — Campaign Architecture
+Không nên ngay lập tức tạo một campaign khổng lồ.
+Ban đầu:
+Campaign
+ ├── Ad Group / Theme 1
+ │     ├── Keyword
+ │     ├── Ad
+ │     └── Landing
+ │
+ ├── Theme 2
+ │
+ └── Theme 3
+Mục tiêu ban đầu không phải:
+“Kiếm thật nhiều tiền.”
+Mà là:
+Mua dữ liệu với chi phí có giới hạn.
+Đây chính là tư duy “đi câu cá” trong file: ngân sách test là tiền để tìm nơi có cá, sau đó mới dồn vốn vào nơi đã chứng minh có khả năng bắt được cá. 
+14. Giai đoạn 9 — Test
+File đề xuất giai đoạn đầu có thể test khoảng 20–30 dự án, sau đó:
+dự án lỗ → bỏ;
+dự án có tín hiệu → tối ưu;
+dự án có lợi nhuận → nhân bản.
+Thầy nên quản trị bằng Test Matrix:
+Offer
+Spend
+Click
+CPC
+Sale
+Commission
+Profit
+Status
+A
+$
+Test
+B
+$
+Kill
+C
+$
+Optimize
+D
+$
+Scale
+15. Quy tắc Kill
+Đây là phần cần cực kỳ kỷ luật.
+Không được:
+“Chạy thêm xem sao.”
+Mỗi campaign phải có kill rule trước khi chạy.
+Ví dụ:
+Offer Commission = $100
+Target CVR = 2%
+Break-even CPC = $2
+Nếu CPC > $2 trong điều kiện dữ liệu đủ
+→ STOP / REVIEW
+Nếu traffic có click nhưng không có conversion
+→ kiểm tra intent/funnel/offer
+Nếu conversion có nhưng profit âm
+→ STOP
+Nếu profit dương ổn định
+→ OPTIMIZE
+Không được dùng cảm xúc để quyết định.
+16. Giai đoạn 10 — Optimization
+Khi có dữ liệu:
+Tối ưu keyword
+giữ keyword tốt;
+giảm/bỏ keyword xấu;
+negative keyword;
+match type;
+search terms.
+Tối ưu ad
+headline;
+offer;
+CTA;
+intent alignment.
+Tối ưu funnel
+landing;
+message match;
+CTA;
+speed;
+trust.
+Tối ưu economics
+CPC;
+CVR;
+EPC;
+CPA;
+commission.
+17. Giai đoạn 11 — Tìm “Winning Pattern”
+Đây mới là thứ thầy cần nhân bản.
+Không phải:
+“Offer X thắng.”
+Mà:
+“Tại sao Offer X thắng?”
+Ví dụ pattern:
+Geo: US
+Niche: SaaS
+Price: $100–300
+Commission: 30%+
+Intent: "best / alternative / pricing"
+CPC: <$1.20
+CVR: >3%
+Nếu tìm được pattern:
+Pattern → Offer 2 → Offer 3 → Offer 4 → Offer 5
+File cũng nói cách nhân bản gồm:
+tăng ngân sách offer thắng;
+tìm thêm 5–10 offer tương tự. 
+18. Giai đoạn 12 — Scale
+Có 3 kiểu scale.
+Scale 1 — Vertical
+Cùng offer:
+$20/day → $30 → $50 → $100
+Scale 2 — Horizontal
+Cùng pattern:
+Offer A → B → C → D
+Scale 3 — Geographic
+US → CA → UK → AU
+nhưng chỉ khi affiliate program cho phép.
+19. Lộ trình 90 ngày em đề xuất cho thầy
+DAYS 1–14: BUILD
+Ngày 1
+xác định mục tiêu;
+ngân sách;
+Geo;
+niche framework.
+Ngày 2
+học affiliate ecosystem;
+network;
+merchant;
+tracking.
+Ngày 3
+xây Offer Database.
+Ngày 4
+research niche #1.
+Ngày 5
+research niche #2.
+Ngày 6
+research niche #3.
+Ngày 7
+lọc offer.
+Ngày 8
+affiliate applications.
+Ngày 9
+economics calculator.
+Ngày 10
+keyword research.
+Ngày 11
+funnel/landing.
+Ngày 12
+tracking.
+Ngày 13
+Google Ads setup.
+Ngày 14
+launch campaign đầu tiên.
+Kết quả cuối ngày 14:
+Có hệ thống Affiliate Global đầu tiên chạy được.
+File cũng đặt mục tiêu chương trình 14 ngày theo logic này: tuần đầu xây nền móng, sau đó tạo campaign và đo lường. 
+20. DAYS 15–30: TEST
+Mục tiêu:
+không phải lợi nhuận.
+Mục tiêu:
+Tìm WINNER.
+Mỗi ngày:
+check spend;
+click;
+CPC;
+search terms;
+conversion;
+commission;
+economics.
+Cuối tháng:
+20–30 offers/campaigns tested
+          ↓
+        LOSS
+          ↓
+      eliminate
+          ↓
+     SIGNAL
+          ↓
+     optimize
+          ↓
+       WIN
+21. DAYS 31–60: OPTIMIZE
+Bây giờ không còn chạy lung tung.
+Tập trung:
+keyword winners;
+ad winners;
+landing winners;
+offer winners;
+Geo winners.
+Mục tiêu:
+biến một campaign có sale thành campaign có profit ổn định.
+22. DAYS 61–90: SCALE
+Chỉ scale thứ đã chứng minh được economics.
+Một winner:
+→ tăng budget.
+Một pattern:
+→ tìm thêm offers.
+Một Geo:
+→ mở Geo mới nếu được phép.
+Một keyword cluster:
+→ mở rộng keyword cluster.
+23. Sau 90 ngày: biến thành “Affiliate Operating System”
+Đây là chỗ em nghĩ thầy có thể làm tốt hơn rất nhiều so với mô hình khóa học.
+Thầy không nên xây:
+“một tài khoản chạy affiliate.”
+Mà xây:
+GLOBAL AFFILIATE OS
+Gồm:
+1. Research Engine
+Tìm offer.
+2. Offer Database
+Kho offer.
+3. Economics Engine
+Tính khả năng sinh lời.
+4. Campaign Factory
+Tạo campaign.
+5. Tracking System
+Theo dõi.
+6. Optimization Engine
+Tìm winner.
+7. Scaling Engine
+Nhân bản.
+8. Knowledge Base
+Lưu pattern.
+24. AI sẽ nằm ở đâu?
+Đây là điểm đặc biệt phù hợp với thầy.
+File nói chỉ cần hai kỹ năng chính:
+Research + Google Ads. 
+Nhưng hiện tại thầy có thể biến Research thành AI-assisted Research.
+Ví dụ:
+AI Agent
+   ↓
+Find affiliate programs
+   ↓
+Extract:
+price
+commission
+cookie
+geo
+terms
+traffic restrictions
+   ↓
+Calculate economics
+   ↓
+Score offer
+   ↓
+Rank offers
+   ↓
+Human approval
+   ↓
+Campaign creation
+   ↓
+Google Ads
+   ↓
+Collect data
+   ↓
+AI analyzes
+   ↓
+Recommend:
+KEEP / KILL / OPTIMIZE / SCALE
+Như vậy thầy không xây một nghề “chạy Ads”.
+Thầy xây một hệ thống tìm kiếm và khai thác opportunity toàn cầu.
+25. Bộ KPI phải có
+Em đề xuất dashboard tối thiểu:
+Acquisition
+Impressions
+CTR
+CPC
+Cost
+Funnel
+Click
+Landing conversion
+Merchant click
+Affiliate conversion
+Affiliate
+Sales
+Commission
+Approval rate
+Refund rate
+EPC
+Financial
+Revenue
+Ad spend
+Gross profit
+Net profit
+ROI
+ROAS
+Cash conversion cycle
+Portfolio
+Offers tested
+Offers active
+Winners
+Losers
+Winning rate
+Average test cost
+Average commission
+Average profit/offer
+26. Mục tiêu tài chính không nên đặt kiểu “100 triệu/tháng”
+Phải đi ngược từ economics.
+Ví dụ mục tiêu:
+$10,000/month profit
+Giả sử:
+profit/sale = $50
+→ cần:
+200 approved sales/month
+≈ 6.7 sales/day
+Nếu CVR:
+2%
+→ cần khoảng:
+335 clicks/day
+Nếu CPC:
+$1
+→ Ad spend:
+$335/day
+→ khoảng:
+$10,050/month
+Đây mới là cách tư duy đúng.
+Income target → required sales → required conversions → required clicks → required traffic budget.
+27. Ba tầng tài sản thầy thực sự đang xây
+Đây là điểm em muốn nhấn mạnh.
+Tầng 1 — Cashflow
+Commission từ affiliate.
+Tầng 2 — Data Asset
+Dữ liệu:
+offer;
+keyword;
+CPC;
+CVR;
+EPC;
+merchant;
+Geo;
+winning patterns.
+Tầng 3 — Intellectual Property
+Quy trình:
+Research → Economics → Test → Optimize → Scale
+Sau một thời gian, thứ đáng giá nhất không còn là một offer.
+Mà là:
+khả năng liên tục tìm được offer có economics tốt.
+28. Những điều KHÔNG nên tin nguyên xi từ webinar
+Em tách rất rõ phần này vì thầy yêu cầu phân tích, không phải chép lại.
+1. “1–3 tháng có kết quả”
+Có thể xảy ra, nhưng không phải baseline đảm bảo.
+File chính nó cũng nói không cam kết thu nhập. Affiliate Global Khoi Nguyen.docxDOCX
+2. “20–30 triệu là đủ”
+Đây là mức ngân sách được người trình bày đề xuất để test, không phải định luật của Affiliate Global.
+3. “Chỉ cần 2 kỹ năng”
+Đúng ở mức khung, nhưng để vận hành nghiêm túc còn cần:
+tracking;
+analytics;
+economics;
+compliance;
+copy;
+funnel;
+financial management.
+4. “Google ổn định”
+Google Search là kênh trưởng thành, nhưng policy, auction, CPC, automation, attribution và SERP đều thay đổi.
+5. “Chỉ cần chạy offer có người khác chạy”
+Không đủ.
+Đối thủ có thể đang lỗ.
+6. “Hoa hồng $500–$1,000 là bình thường”
+Có thể tồn tại trong một số vertical/offer, nhưng không được lấy case cao làm kỳ vọng trung bình.
+29. Rủi ro lớn nhất
+Không phải Google.
+Không phải tiếng Anh.
+Không phải máy tính.
+Mà là:
+Unit Economics sai.
+Ví dụ:
+Commission $100
+nhìn rất hấp dẫn.
+Nhưng:
+CVR thấp;
+CPC cao;
+refund cao;
+approval rate thấp;
+→ vẫn lỗ.
+Do đó Offer Research + Economics phải đứng trước Ads.
+30. Lộ trình cuối cùng em chốt cho thầy
+PHASE 0
+Capital + Risk Framework
+        ↓
+PHASE 1
+Global Market Research
+        ↓
+PHASE 2
+Niche Research
+        ↓
+PHASE 3
+Offer Discovery
+        ↓
+PHASE 4
+Affiliate Approval
+        ↓
+PHASE 5
+Economics Calculation
+        ↓
+PHASE 6
+Keyword Research
+        ↓
+PHASE 7
+Funnel + Tracking
+        ↓
+PHASE 8
+Google Ads Launch
+        ↓
+PHASE 9
+Controlled Testing
+        ↓
+PHASE 10
+Kill / Optimize
+        ↓
+PHASE 11
+Find Winner
+        ↓
+PHASE 12
+Vertical Scale
+        ↓
+PHASE 13
+Horizontal Replication
+        ↓
+PHASE 14
+Geographic Expansion
+        ↓
+PHASE 15
+AI Automation
+        ↓
+GLOBAL AFFILIATE OS
+Và mục tiêu theo thời gian:
+Thời gian
+Mục tiêu
+0–14 ngày
+Hệ thống đầu tiên chạy được
+15–30 ngày
+Test nhiều offer/campaign
+31–60 ngày
+Tìm economics có lợi
+61–90 ngày
+Có winner + bắt đầu scale
+3–6 tháng
+Portfolio nhiều winner
+6–12 tháng
+Hệ thống affiliate có dữ liệu
+12 tháng+
+AI hóa research + optimization + scale
+Tóm lại: File của Khởi Nguyên đang bán một phương pháp gồm Affiliate Global + Google Search Ads, nhưng nếu thầy muốn biến nó thành một nguồn thu nhập có thể nhân bản, em sẽ không dừng ở việc “học chạy Google Ads”. Em sẽ xây nó thành một hệ điều hành Opportunity → Offer → Traffic → Conversion → Profit → Replication, trong đó dữ liệu và AI càng ngày càng làm giảm lượng công việc thủ công. Đây là hướng phù hợp hơn nhiều với mục tiêu xây tài sản số tạo dòng tiền, thay vì tự tạo thêm một công việc phải làm hàng ngày.
+PHẦN BỔ SUNG — AFFILIATE GLOBAL 2026
+1. Phát hiện quan trọng nhất: phải sửa chiến lược Google Ads
+Trong câu trả lời trước em viết:
+Google Ads → Bridge Page → Merchant
+và coi Bridge Page như một lựa chọn tốt.
+Sau khi kiểm tra chính sách Google hiện hành, em phải đính chính phần này.
+Google hiện cấm các destination được thiết kế chủ yếu để đưa người dùng sang một website khác, và chính sách “Abusing the ad network” nêu rõ các bridge/gateway destinations chỉ dùng để chuyển người dùng đi nơi khác là ví dụ vi phạm. Google cũng yêu cầu destination phải hữu ích, hoạt động được, dễ điều hướng và có nội dung nguyên bản đầy đủ. Google Hỗ Trợ
+Vì vậy, mô hình an toàn hơn phải là:
+Google Ads → Website có giá trị thực → Affiliate offer
+chứ không phải:
+Google Ads → trang trung gian → “Click here” → merchant
+Đây là một bổ sung rất quan trọng vào file.
+2. Affiliate Global không nên được hiểu đơn giản là “chạy Google Ads tới affiliate link”
+Nguồn Awin hiện phân loại publisher search thành nhiều mô hình, gồm:
+Direct Linking
+Linking via Landing Pages
+Mobile Search
+Social Search
+CSS
+Content...
+Điều này cho thấy paid-search affiliate là một mô hình có thật trong hệ sinh thái affiliate, nhưng quyền chạy như thế nào phụ thuộc vào chương trình/advertiser. Trung Tâm Trợ Giúp Awin
+Awin hiện cũng có riêng phần Search Engine Promotion, trong đó advertiser thiết lập quy tắc PPC cho publisher. Trung Tâm Trợ Giúp Awin
+Do đó, quy trình mới phải thêm một bước:
+Offer Research → Affiliate Terms Audit → Traffic Permission → mới chạy Ads
+Không được:
+Thấy commission cao → lấy link → chạy Ads.
+3. Mỗi offer phải có “Traffic Permission Matrix”
+Em bổ sung một bảng bắt buộc:
+Kiểm tra
+Có/Không
+Google Ads được phép?
+Paid Search được phép?
+Direct Linking được phép?
+Landing Page được phép?
+Brand keyword được phép?
+Competitor keyword được phép?
+Coupon keyword được phép?
+Trademark bidding?
+Geo nào được phép?
+Mobile traffic?
+Search partners?
+Retargeting?
+Email?
+Social Ads?
+Chỉ cần một mục quan trọng bị cấm là offer đó phải bị loại khỏi chiến lược tương ứng.
+4. Tracking phải nâng cấp thành một hệ thống riêng
+Google hiện nhấn mạnh việc cải thiện conversion measurement bằng Enhanced Conversions, sử dụng dữ liệu first-party được hash bằng SHA-256 để hỗ trợ việc đối khớp conversion. Từ năm 2026, Google cũng đang hợp nhất cách quản lý Enhanced Conversions cho web và leads. Google Hỗ Trợ
+Vì vậy Affiliate OS của thầy nên có:
+Google Ads
+     ↓
+GCLID / tracking parameters
+     ↓
+Website
+     ↓
+Affiliate click
+     ↓
+Network
+     ↓
+Conversion
+     ↓
+Commission
+     ↓
+Data warehouse
+     ↓
+Profit dashboard
+Không chỉ nhìn:
+Google Ads báo 100 clicks.
+Mà phải biết:
+Keyword nào → ad nào → landing nào → affiliate click nào → sale nào → commission nào → profit nào.
+5. Bổ sung “Sub-ID Architecture”
+Đây là một thứ rất đáng đưa vào hệ thống.
+Các nền tảng affiliate hiện đại hỗ trợ tracking theo các trường như:
+Traffic Source
+Traffic Type
+Shared ID
+SubAccount
+SubID
+Referring URL
+Search Text
+Region.
+Impact.com hiện có tài liệu chính thức về việc phân biệt paid search bằng traffic source/type và các tracking parameters. Impact Support
+Do đó mỗi click nên mang cấu trúc kiểu:
+offer_id
+geo
+campaign_id
+adgroup_id
+keyword_id
+creative_id
+landing_id
+traffic_source
+subid
+Ví dụ:
+OF023-US-GGL-C07-AG02-KW18-LP03
+Sau này nhìn một sale là biết:
+Sale này đến từ offer nào, campaign nào, keyword nào, landing nào.
+Đây là tài sản dữ liệu cực kỳ quan trọng.
+6. Keyword Research: dùng dữ liệu thật, không đoán
+Google Keyword Planner hiện cho phép:
+tìm keyword mới;
+xem ước tính lượng tìm kiếm;
+xem chi phí;
+nhập keyword;
+nhập website;
+lập keyword plan;
+xem forecast.
+Google cũng lưu ý rằng forecast phụ thuộc vào nhiều yếu tố như bid, budget, ad quality, location, product và hành vi khách hàng. Google Hỗ Trợ
+Vì vậy Research Engine nên có 3 lớp:
+Lớp 1 — Demand
+Có người tìm.
+Lớp 2 — Intent
+Người tìm có ý định thương mại.
+Lớp 3 — Economics
+CPC dự kiến < break-even CPC.
+7. Công thức mới: Opportunity Score
+Em đề xuất thêm một điểm số để AI tự lọc offer.
+Opportunity Score
+Có thể xây từ:
+Demand
++ Commercial Intent
++ Commission
++ Conversion Potential
++ EPC
++ Geo Value
++ Merchant Quality
++ Traffic Permission
+− CPC
+− Competition
+− Refund Risk
+− Compliance Risk
+Chấm 0–100.
+Ví dụ:
+Offer
+Score
+Quyết định
+A
+87
+Test ngay
+B
+76
+Test
+C
+61
+Watchlist
+D
+43
+Loại
+E
+28
+Loại
+Đây là phần em đề xuất, không phải công thức Google hay nội dung trong file.
+8. Bổ sung “Compliance Gate”
+Trước khi một offer được đưa vào Campaign Factory:
+Gate 1 — Affiliate Terms
+Có được chạy paid search không?
+Gate 2 — Google Ads Policy
+Destination có đáp ứng yêu cầu không?
+Gate 3 — Trademark
+Có được bid brand keyword không?
+Gate 4 — Claims
+Có claim nào về health/financial/performance cần kiểm soát không?
+Gate 5 — Disclosure
+Nếu website có review/endorsement và có commission, phải disclosure phù hợp.
+FTC hiện yêu cầu quan hệ affiliate được disclose rõ ràng và dễ nhận thấy; hướng dẫn của FTC đưa chính affiliate links vào phạm vi này. Federal Trade Commission
+9. Một thay đổi lớn trong Funnel
+Em sẽ sửa funnel cũ thành:
+                 GLOBAL DEMAND
+                       ↓
+                 KEYWORD RESEARCH
+                       ↓
+                  OFFER RESEARCH
+                       ↓
+               TRAFFIC PERMISSION
+                       ↓
+                 ECONOMICS TEST
+                       ↓
+                    WEBSITE
+             ┌─────────┴─────────┐
+             ↓                   ↓
+        Useful Content       Comparison
+             ↓                   ↓
+             └─────────┬─────────┘
+                       ↓
+                 Affiliate CTA
+                       ↓
+                    Merchant
+                       ↓
+                  Conversion
+                       ↓
+                 Commission
+                       ↓
+                Profit Database
+                       ↓
+                  Optimization
+                       ↓
+                     SCALE
+Website phải có giá trị độc lập, không phải chỉ là một cái “cầu” để đẩy khách đi.
+10. Bổ sung Conversion Intelligence
+Một điểm rất hay từ impact.com là họ có thể phân tích conversion paths — tức là chuỗi touchpoint trước khi khách mua. Ví dụ paid search có thể xuất hiện trước affiliate touchpoint rồi mới đến conversion. Impact Support
+Điều này dẫn đến một nguyên tắc:
+Affiliate attribution ≠ toàn bộ customer journey.
+Có thể:
+Google Search
+      ↓
+Website
+      ↓
+Affiliate click
+      ↓
+Merchant
+      ↓
+Return
+      ↓
+Purchase
+Do đó phải theo dõi:
+first touch;
+last touch;
+affiliate touch;
+conversion delay;
+approved commission.
+Không được nhìn mỗi “last click”.
+11. Bổ sung Paid Search Monitoring
+Một điểm rất đáng chú ý: impact.com hiện có Paid Search Monitoring để phát hiện partner có khả năng vi phạm các điều khoản search của brand, bao gồm keyword bị cấm và trademark. Impact Support
+Điều này cho thấy:
+Brand bidding không phải chuyện “thích thì chạy”.
+Nó là một phần compliance phải quản trị.
+12. Bổ sung Awin: có thể đàm phán quyền PPC
+Awin hiện ghi rõ rằng PPC rights có thể là một nội dung đàm phán giữa advertiser và partner. Trung Tâm Trợ Giúp Awin
+Đây là một cơ hội rất hay cho mô hình của thầy:
+Khi đã chứng minh được traffic chất lượng:
+Không chỉ xin affiliate approval.
+Mà có thể tiến tới:
+Đàm phán PPC rights riêng.
+Ví dụ:
+“Tôi muốn chạy Google Search tại US cho offer X. Tôi cam kết không bid trademark Y, không direct link, chỉ dùng approved landing page.”
+Đây là cách chuyển từ affiliate publisher nhỏ thành performance partner.
+13. Bổ sung mô hình “Affiliate → Performance Partner”
+Em thấy đây là một hướng rất đáng để thầy đưa vào roadmap.
+Level 1
+Affiliate:
+Tôi lấy link → giới thiệu khách.
+Level 2
+Paid Affiliate:
+Tôi mua traffic → tạo sale.
+Level 3
+Performance Partner:
+Tôi xây funnel → mua traffic → tối ưu conversion → cung cấp customer acquisition.
+Level 4
+Strategic Partner:
+Merchant giao một thị trường/offer cho mình khai thác.
+Lúc đó economics có thể tốt hơn commission affiliate tiêu chuẩn.
+14. Lộ trình mới sau khi bổ sung web
+PHASE 1 — FOUNDATION
+Ngày 1–7
+Affiliate ecosystem
+Geo
+Niche
+Offer
+Network
+Terms
+Compliance
+Economics
+Output:
+100–300 offers researched
+PHASE 2 — OPPORTUNITY ENGINE
+Ngày 8–14
+Xây:
+Offer Database
+Opportunity Score
+Economics Calculator
+Traffic Permission Matrix
+Keyword Database
+Output:
+20–30 offers đủ điều kiện test
+PHASE 3 — FIRST CAMPAIGNS
+Ngày 15–30
+Website
+Tracking
+Keyword
+Ads
+Conversion tracking
+Sub-ID
+Dashboard
+Output:
+Campaign có dữ liệu thực
+PHASE 4 — TESTING
+Ngày 31–60
+Mỗi offer:
+TEST → MEASURE → KILL / OPTIMIZE
+Không tăng tiền vì cảm giác.
+PHASE 5 — WINNER
+Ngày 61–90
+Tìm:
+winning offer;
+winning keyword;
+winning Geo;
+winning landing;
+winning message.
+15. Sau 90 ngày mới bắt đầu “Scale”
+Vertical
+Tăng ngân sách.
+Horizontal
+Thêm offer cùng pattern.
+Geographic
+Mở thêm Geo.
+Merchant
+Tìm merchant khác cùng niche.
+Channel
+Mở Bing/Microsoft Search hoặc các nguồn paid traffic khác nếu economics và terms cho phép.
+16. Và đây mới là phiên bản Affiliate OS em muốn bổ sung cho thầy
+                    GLOBAL MARKET
+                         ↓
+                  DEMAND RESEARCH
+                         ↓
+                    NICHE ENGINE
+                         ↓
+                    OFFER ENGINE
+                         ↓
+                 COMPLIANCE GATE
+                         ↓
+                ECONOMICS ENGINE
+                         ↓
+                OPPORTUNITY SCORE
+                         ↓
+                  KEYWORD ENGINE
+                         ↓
+                 CONTENT WEBSITE
+                         ↓
+                 TRACKING ENGINE
+                         ↓
+                  PAID TRAFFIC
+                         ↓
+                  CONVERSION DATA
+                         ↓
+                PROFIT CALCULATION
+                         ↓
+              KILL / OPTIMIZE / SCALE
+                         ↓
+                  WINNING PATTERN
+                         ↓
+                    REPLICATION
+                         ↓
+                  AI AUTOMATION
+Tài sản cuối cùng không phải là Google Ads account.
+Mà là:
+Một cơ sở dữ liệu toàn cầu về:
+Market × Niche × Offer × Keyword × Geo × CPC × CVR × Commission × Compliance × Profit
+Đó mới là thứ có thể trở thành cỗ máy tìm kiếm cơ hội kiếm tiền toàn cầu.
+Một kết luận rất đáng chú ý
+Sau khi search web, em không chỉ bổ sung thêm kiến thức mà còn phát hiện một điểm cần sửa tư duy trong file nguồn:
+Affiliate Global + Google Ads không đơn giản là “tìm offer → chạy quảng cáo”.
+Năm 2026, phải coi nó là:
+Affiliate + Performance Marketing + Compliance + Attribution + Data
+Trong đó compliance với Google và điều khoản merchant phải được kiểm tra trước economics và trước campaign.
+Đặc biệt, phần “Bridge Page” em đã đề xuất trước đó cần sửa lại: nếu trang chỉ tồn tại để đẩy người dùng sang merchant khác thì có rủi ro trực tiếp với chính sách Google; website phải cung cấp giá trị độc lập, nguyên bản và hữu ích. Google Hỗ Trợ
+Google Ads — Destination requirements
+Google Ads — Keyword Planner
+Google Ads — Enhanced conversions
+FTC — Endorsement Guides
+Nếu nối toàn bộ phần này vào tài liệu trước, thì lộ trình đã chuyển từ “khóa học Affiliate Global” thành một bản thiết kế khá đầy đủ cho một Global Affiliate Operating System.

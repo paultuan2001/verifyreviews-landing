@@ -1,0 +1,46 @@
+Điều khoản và điều kiện của Chương trình Tiếp thị Liên kết proxy-seller
+Bắt đầu với chương trình tiếp thị liên kết
+Cần phải vượt qua xác minh KYC (Know Your Customer) trên trang web Sumsub. Bạn có thể bắt đầu xác minh trong tài khoản cá nhân của mình.
+
+
+Sau khi vượt qua xác minh KYC, bạn có thể tiến hành sử dụng đầy đủ chương trình tiếp thị liên kết của chúng tôi.
+Điều khoản sử dụng chương trình tiếp thị liên kết
+Tỷ lệ phần trăm thanh toán theo Chương trình Tiếp thị Liên kết:
+Định dạng proxy
+Tỷ lệ đóng góp
+IPv4
+30% cho lần mua đầu tiên, 10% cho tất cả các lần mua sau
+IPv6
+30% cho lần mua đầu tiên, 10% cho tất cả các lần mua sau
+ISP
+30% cho lần mua đầu tiên, 10% cho tất cả các lần mua sau
+Mobile
+10% cho lần mua đầu tiên, 3% cho tất cả các lần mua sau
+Residential
+50% lên đến $2500 cho người được giới thiệu đầu tiên
+Các loại liên kết giới thiệu có sẵn
+	•	Bằng liên kết
+	•	Bằng mã khuyến mại
+Phần trăm giảm giá mà người được giới thiệu nhận được sau khi áp dụng mã khuyến mại là 10%
+Mã khuyến mại hoặc liên kết được cá nhân hóa:
+Người dùng không thể tự thay đổi liên kết cá nhân hoặc mã khuyến mại. Bạn có thể liên hệ với trò chuyện hỗ trợ của chúng tôi và bạn sẽ được cung cấp thông tin liên hệ để liên lạc với quản lý tiếp thị liên kết của chúng tôi.
+Số tiền tối thiểu để rút tiền
+Hệ thống thanh toán
+Số tiền
+PayPal
+$20
+Litecoin
+$20
+Ethereum
+$20
+USDT (TRC20)
+$20
+USD Coin (USDC)
+$20
+Thẻ ngân hàng
+$10
+Tất cả các hệ thống thanh toán khác
+$1
+Tiền sẽ được xem xét trong vòng 14 ngày, sau đó hoa hồng đã xác nhận sẽ được ghi có vào số dư tài khoản đối tác trong trung bình 2 ngày làm việc (tùy thuộc vào hệ thống thanh toán) và có sẵn để đặt đơn hàng mới, gia hạn đơn hàng hiện có hoặc kích hoạt gia hạn tự động.
+Người được giới thiệu chỉ có thể được gán cho người giới thiệu trong quá trình đăng ký trên trang web — nếu khách hàng đã có tài khoản, họ không thể được thêm vào chương trình tiếp thị liên kết.
+

@@ -1,0 +1,326 @@
+quy trình Research Project chuẩn hóa:
+AFFILIATE PROJECT RESEARCH SYSTEM (theo Sơn Piaz)
+Bước
+Mục tiêu
+Làm gì
+Câu hỏi cần trả lời
+Công cụ
+Output
+1. Xác định thị trường lớn (Market Research)
+Tìm nơi có dòng tiền
+Quan sát trend, công ty lớn, ngành tăng trưởng
+Tiền đang chảy vào đâu? Ngành nào đang tăng?
+Google Trend, SimilarWeb, báo cáo thị trường, AI
+Danh sách 10–20 thị trường
+2. Chọn ngành (Industry Selection)
+Chọn sân chơi
+Chọn ngành có nhu cầu thật
+Đây có phải ngành người dùng sẵn sàng trả tiền?
+ChatGPT, Google Search
+5–10 ngành
+3. Chọn ngách (Niche Selection)
+Thu nhỏ cạnh tranh
+Niche down từ ngành lớn
+Có nhu cầu nhưng ít cạnh tranh không?
+Keyword Planner, Ahrefs, Reddit, YouTube
+10–50 niche
+4. Tìm dự án/sản phẩm (Offer Research)
+Tìm sản phẩm kiếm hoa hồng
+Lập danh sách dự án affiliate
+Có affiliate program không? Commission bao nhiêu?
+Affiliate network, website merchant
+Danh sách offer
+5. Phân tích economics
+Biết có đáng chạy không
+Tính commission, giá bán, recurring, margin
+Nếu mua traffic có còn lời không?
+Excel/AI
+Score dự án
+6. Phân tích khách hàng
+Hiểu người mua
+Tìm vấn đề, nhu cầu, hành vi
+Người mua đang tìm gì?
+Google, Reddit, Community
+Customer insight
+7. Research từ khóa
+Tìm traffic có ý định mua
+Thu thập keyword
+Người dùng tìm gì trước khi mua?
+Keyword.io, Google Keyword Planner
+Keyword database
+8. Phân loại intent
+Biết keyword nào kiếm tiền
+Chia nhóm
+Keyword này tạo traffic hay tạo doanh thu?
+AI + bảng tính
+Keyword map
+9. Research đối thủ
+Học cách người khác thắng
+Phân tích content, SEO, ads
+Ai đang thắng? Họ làm thế nào?
+YouTube, Google, SimilarWeb
+Competitor map
+10. Chọn traffic model
+Chọn cách đánh
+Google Ads, SEO, YouTube, Social, Blog
+Kênh nào phù hợp vốn và kỹ năng?
+Analytics
+Traffic strategy
+11. Xây funnel
+Biến traffic thành tiền
+Thiết kế luồng người dùng
+Người dùng đi từ đâu tới đâu?
+Funnel map
+Conversion funnel
+12. Test nhỏ
+Kiểm chứng
+Chạy thử dự án
+Có conversion thật không?
+Ads platform
+Data thật
+13. Phân tích kết quả
+Tìm nguyên nhân thắng/thua
+Đọc data
+Sai ở traffic, offer hay funnel?
+Analytics + AI
+Decision
+14. Scale
+Nhân bản cái thắng
+Tăng ngân sách, mở rộng keyword, geo
+Cái gì đang tạo lợi nhuận?
+Ads + automation
+Winner
+
+1. Công thức lõi Sơn Piaz
+Theo Buổi 2:
+Traffic + Ngành + Ngách
+Thành phần
+Ý nghĩa
+Traffic
+Nơi lấy khách hàng (Google, YouTube, Blog, TikTok...)
+Ngành
+Affiliate, SaaS, Crypto, AI...
+Ngách
+Một nhóm nhỏ cụ thể trong ngành
+Ví dụ:
+Không chọn:
+Crypto
+Mà chọn:
+Người mới muốn mua Bitcoin bằng thẻ tín dụng tại Mỹ
+Affiliate 66, Sơn Piaz - Buổi 02.docxDOCX
+
+2. Bảng tiêu chí chọn dự án Affiliate
+Tiêu chí
+Điểm cần kiểm tra
+Ưu tiên
+Thị trường
+Có nhu cầu thật
+⭐⭐⭐⭐⭐
+Commission
+Hoa hồng cao
+⭐⭐⭐⭐⭐
+Recurring
+Có hoa hồng lặp lại
+⭐⭐⭐⭐⭐
+Product fit
+Người dùng cần thật
+⭐⭐⭐⭐⭐
+Competition
+Có thể cạnh tranh
+⭐⭐⭐⭐
+Traffic
+Có nguồn traffic rõ
+⭐⭐⭐⭐⭐
+Brand
+Uy tín merchant
+⭐⭐⭐⭐
+Affiliate support
+Có tài liệu, tracking
+⭐⭐⭐⭐
+Cookie
+Cookie dài
+⭐⭐⭐
+Compliance
+Cho phép traffic mình dùng
+⭐⭐⭐⭐⭐
+Sơn Piaz nhấn mạnh ưu tiên sản phẩm số, phần mềm, AI vì dễ bắt đầu, hoa hồng cao và có tính lặp lại. Affiliate 66, Sơn Piaz - Buổi 02.docxDOCX
+
+3. Quy trình Research Keyword
+Đây là phần Sơn Piaz nhấn mạnh nhiều nhất ở Buổi 3.
+Bước 1: Thu thập keyword
+Loại keyword
+Ví dụ
+Mục đích
+Thu hút
+"cách kiếm Bitcoin miễn phí"
+Lấy traffic
+Giáo dục
+"Bitcoin là gì"
+Nuôi khách hàng
+Chuyển đổi
+"mua Bitcoin", "best Bitcoin exchange"
+Kiếm tiền
+Ưu tiên:
+Chuyển đổi
+↓
+Giáo dục
+↓
+Thu hút
+Affiliate 66, Sơn Piaz - Buổi 03.docxDOCX
+
+4. Bảng nghiên cứu đối thủ
+Thành phần
+Cần xem
+Website
+Họ đang rank từ khóa nào
+YouTube
+Video nào nhiều view
+Title
+Họ dùng hook gì
+Content
+Họ giải quyết vấn đề gì
+Comment
+Người dùng hỏi gì
+CTA
+Họ chuyển đổi thế nào
+Funnel
+Traffic đi đâu
+Sơn Piaz yêu cầu phân tích tiêu đề, từ khóa, nội dung và tương tác của đối thủ trước khi triển khai. Affiliate 66, Sơn Piaz - Buổi 02.docxDOCX
+
+5. Mô hình chấm điểm dự án (đưa vào AGOS)
+Em chuyển thành Score Engine:
+Tiêu chí
+Điểm
+Market size
+10
+Trend growth
+10
+Commission
+15
+Recurring
+15
+Keyword buyer intent
+15
+Competition
+10
+Traffic cost
+10
+Compliance
+10
+AI automation potential
+5
+Total
+100
+Quy tắc:
+Score
+Hành động
+80–100
+Test ngay
+60–80
+Nghiên cứu thêm
+40–60
+Theo dõi
+<40
+Loại
+
+6. Funnel Research của Sơn Piaz
+Không đi thẳng:
+Google
+ ↓
+Affiliate link
+ ↓
+Sale
+Mà:
+Traffic rộng
+ ↓
+Content thu hút
+ ↓
+Giáo dục
+ ↓
+Review/comparison
+ ↓
+Affiliate offer
+ ↓
+Conversion
+Ví dụ Crypto:
+"Cách kiếm Bitcoin miễn phí"
+          ↓
+"Cách mua Bitcoin"
+          ↓
+"So sánh sàn giao dịch"
+          ↓
+Đăng ký sàn
+Affiliate 66, Sơn Piaz - Buổi 02.docxDOCX
+
+7. Quy trình Research chuẩn để đưa vào AGOS
+Module AGOS
+Input
+AI làm
+Output
+Market Scanner
+Ngành
+Tìm trend
+Market list
+Niche Finder
+Market
+Niche down
+Niche list
+Offer Hunter
+Niche
+Tìm affiliate
+Offer DB
+Compliance Agent
+Offer
+Đọc policy
+Risk score
+Keyword Agent
+Offer
+Tìm keyword
+Keyword DB
+Competitor Agent
+Keyword
+Phân tích đối thủ
+Competitor map
+Economics Agent
+Offer + CPC
+Tính lợi nhuận
+ROI score
+Funnel Agent
+Customer
+Thiết kế funnel
+Funnel map
+Decision Agent
+Tất cả data
+Chọn project
+Test queue
+
+8. Kết luận: Cách Sơn Piaz thực sự research dự án
+Không phải:
+"Thấy sản phẩm hoa hồng cao → chạy."
+Mà là:
+DÒNG TIỀN
+ ↓
+NGÀNH
+ ↓
+NGÁCH
+ ↓
+SẢN PHẨM
+ ↓
+KHÁCH HÀNG
+ ↓
+KEYWORD
+ ↓
+ĐỐI THỦ
+ ↓
+TRAFFIC
+ ↓
+FUNNEL
+ ↓
+TEST
+ ↓
+DATA
+ ↓
+SCALE
+Affiliate 66, Sơn Piaz - Buổi 01.docxDOCX Affiliate 66, Sơn Piaz - Buổi 03.docxDOCX
+
+Nếu đưa vào AGOS thì Research Engine này chính là module số 1, trước cả Campaign Manager. Vì theo Sơn Piaz, người thắng không phải người biết nhiều tool nhất mà là người chọn đúng thị trường + đúng traffic + đúng ngách + tối ưu hệ thống. Affiliate 66, Sơn Piaz - Buổi 01.docxDOCX

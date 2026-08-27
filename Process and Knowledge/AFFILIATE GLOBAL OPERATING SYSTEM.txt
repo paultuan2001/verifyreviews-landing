@@ -1,0 +1,1675 @@
+AFFILIATE GLOBAL OPERATING SYSTEM
+Affiliate + Performance Marketing + Compliance + Attribution + Data
+Một hệ thống biến nhu cầu toàn cầu thành dòng tiền có thể đo lường, tối ưu và nhân bản
+ 
+PHẦN I — TƯ DUY NỀN TẢNG
+1. Affiliate Global Operating System là gì?
+Affiliate Global Operating System, gọi tắt là AGOS, là một hệ thống vận hành gồm:
+Tìm nhu cầu → tìm offer → kiểm tra quyền quảng bá → tính economics → xây destination → mua traffic → tracking → conversion → commission → attribution → data → optimization → scale → replication.
+Khởi Nguyên bắt đầu từ một ý tưởng đơn giản hơn:
+Tìm dự án → chạy quảng cáo → tạo sale → nhận hoa hồng → tối ưu → nhân bản.
+Trong file, Khởi Nguyên nhấn mạnh hai năng lực cốt lõi là chọn dự án/research và Google Ads; người mới được hướng dẫn chọn ngách, chọn sản phẩm, tính lãi/lỗ trước khi chạy, nghiên cứu đối thủ, chạy campaign đầu tiên, đo số liệu, tắt dự án không hiệu quả và dồn tiền vào dự án có lợi nhuận. 
+AGOS mở rộng logic đó thành một hệ thống năm lớp:
+                 AFFILIATE
+                    ↓
+          PERFORMANCE MARKETING
+                    ↓
+                COMPLIANCE
+                    ↓
+               ATTRIBUTION
+                    ↓
+                   DATA
+                    ↓
+             OPTIMIZATION
+                    ↓
+                  SCALE
+ 
+2. Mục tiêu của AGOS
+AGOS không có mục tiêu cuối cùng là:
+•	nhiều traffic;
+•	nhiều click;
+•	nhiều campaign;
+•	nhiều sale;
+•	hay thậm chí nhiều commission.
+Mục tiêu cuối cùng là:
+Approved Profit
+Tức:
+Hoa hồng thực sự được xác nhận − chi phí traffic − chi phí vận hành = lợi nhuận.
+Sau đó:
+Lợi nhuận → dữ liệu → hiểu biết → pattern → nhân bản.
+ 
+3. Tại sao đây là “Operating System”?
+Bởi vì hệ thống phải trả lời được 8 câu hỏi:
+1. Bán cái gì?
+Offer Research
+2. Bán cho ai?
+Market + Intent
+3. Có được phép quảng bá không?
+Compliance
+4. Có khả năng có lời không?
+Economics
+5. Mua khách hàng bằng cách nào?
+Performance Marketing
+6. Khách đến từ đâu?
+Attribution
+7. Cái gì đang hiệu quả?
+Data + Analytics
+8. Cái gì cần làm tiếp?
+Decision Engine
+ 
+PHẦN II — MÔ HÌNH KINH DOANH GỐC CỦA KHỞI NGUYÊN
+4. Affiliate Global theo Khởi Nguyên
+Website và file ghi âm mô tả một mô hình rất cụ thể:
+Thị trường nước ngoài + Affiliate + Google Search Ads + Landing Page + không lộ mặt.
+Khởi Nguyên đưa ra bốn bước:
+Bước 01
+Chọn sản phẩm affiliate hoa hồng cao
+Bước 02
+Xây Landing Page
+Bước 03
+Chạy Google Search Ads
+Bước 04
+Nhận hoa hồng → tối ưu → scale
+Đây là phần [KN].
+ 
+5. Tại sao thị trường Global?
+Theo Khởi Nguyên, lý do chính là economics.
+Ví dụ trong file:
+•	một phần mềm giá $150;
+•	commission 40%;
+•	một sale tạo $60 commission. 
+File cũng đưa ví dụ sản phẩm vật lý giá $5.000, commission 10% tương đương $500/sale. 
+Đây là các case minh họa, không phải mức commission mặc định của Affiliate Global.
+Tư duy:
+Không hỏi:
+“Sản phẩm này bán được bao nhiêu?”
+Mà hỏi:
+“Một khách hàng có giá trị bao nhiêu đối với merchant, và merchant sẵn sàng chia cho affiliate bao nhiêu?”
+ 
+6. Không lộ mặt
+Khởi Nguyên định vị mô hình khác với content creator:
+•	không cần personal brand;
+•	không cần quay video;
+•	không cần livestream;
+•	không cần người mua biết người đứng sau quảng cáo là ai.
+Trong file, Khởi Nguyên giải thích rằng người dùng Google chủ yếu quan tâm sản phẩm/dịch vụ có phù hợp và uy tín hay không, chứ không nhất thiết quan tâm người chạy quảng cáo là ai. 
+[SYS]
+Điều này chuyển trọng tâm từ:
+Personal Brand
+sang:
+System Brand / Destination / Offer Quality / Search Intent.
+ 
+PHẦN III — KIẾN TRÚC AGOS
+7. Toàn bộ hệ thống
+                           GLOBAL DEMAND
+                                │
+                                ▼
+                         MARKET RESEARCH
+                                │
+                                ▼
+                          NICHE RESEARCH
+                                │
+                                ▼
+                          OFFER RESEARCH
+                                │
+                                ▼
+                       AFFILIATE PROGRAM
+                                │
+                                ▼
+                       COMPLIANCE GATE
+                                │
+                                ▼
+                         ECONOMICS MODEL
+                                │
+                                ▼
+                       OPPORTUNITY SCORE
+                                │
+                                ▼
+                        KEYWORD RESEARCH
+                                │
+                                ▼
+                        LANDING WEBSITE
+                                │
+                                ▼
+                         GOOGLE SEARCH
+                                │
+                                ▼
+                            TRACKING
+                                │
+                                ▼
+                        AFFILIATE CLICK
+                                │
+                                ▼
+                           MERCHANT
+                                │
+                                ▼
+                           PURCHASE
+                                │
+                                ▼
+                          COMMISSION
+                                │
+                                ▼
+                         ATTRIBUTION
+                                │
+                                ▼
+                             DATA
+                                │
+                                ▼
+                         OPTIMIZATION
+                                │
+                                ▼
+                             SCALE
+                                │
+                                ▼
+                       WINNING PATTERN
+                                │
+                                ▼
+                          REPLICATION
+                                │
+                                ▼
+                         AI AUTOMATION
+Đây là kiến trúc AGOS do em hệ thống hóa, không phải sơ đồ nguyên văn của Khởi Nguyên.
+ 
+PHẦN IV — TẦNG 1: AFFILIATE ENGINE
+8. Affiliate Engine làm gì?
+Affiliate Engine chịu trách nhiệm:
+Tìm thứ có thể bán và tìm cơ chế nhận tiền khi khách mua.
+Nó gồm:
+1.	Market
+2.	Niche
+3.	Merchant
+4.	Affiliate program
+5.	Offer
+6.	Commission
+7.	Attribution window
+8.	Terms
+9.	Payout
+10.	Approval/reversal.
+ 
+9. Offer không chỉ là sản phẩm
+Một Offer đầy đủ phải được coi là:
+Offer
+=
+Product
++
+Merchant
++
+Price
++
+Commission
++
+Geo
++
+Traffic Rules
++
+Attribution Rules
++
+Payout Rules
++
+Conversion Economics
+Ví dụ:
+SaaS $150, commission 40%
+chưa đủ thông tin.
+Phải biết:
+•	US được phép không?
+•	paid search được phép không?
+•	Google Ads được phép không?
+•	brand keyword được phép không?
+•	direct linking được phép không?
+•	landing page được phép không?
+•	cookie bao nhiêu ngày?
+•	sale có reversal không?
+•	commission bao lâu approved?
+•	payout threshold bao nhiêu?
+ 
+10. Offer Database
+AGOS phải có Offer Database.
+Field	Ý nghĩa
+Offer ID	Mã offer
+Merchant	Nhà cung cấp
+Network	Affiliate network
+Category	Ngành
+Product	Sản phẩm
+Geo	Thị trường
+Price	Giá
+Commission	Hoa hồng
+Commission %	Tỷ lệ
+Cookie	Attribution window
+EPC	Nếu có
+Payout	Cơ chế thanh toán
+Approval rate	Tỷ lệ approved nếu có
+Refund	Hoàn tiền
+PPC	Paid search permission
+Brand bidding	Trademark
+Direct link	Direct-link permission
+Landing	Landing permission
+Status	Research/Test/Win/Kill
+ 
+11. Research theo Khởi Nguyên
+Đây là một trong những phần mạnh nhất của file.
+Khởi Nguyên nói phải:
+•	chọn ngách;
+•	chọn sản phẩm theo tiêu chí;
+•	biết tìm dự án ở đâu;
+•	tính lãi/lỗ trên giấy;
+•	nghiên cứu đối thủ;
+•	quan sát xem đối thủ đã chạy chưa;
+•	tìm những dự án có dấu hiệu đã tạo lợi nhuận;
+•	sau đó mới test thực tế. 
+Nhưng Khởi Nguyên cũng nói một điểm rất đúng:
+Số liệu trên giấy không thể thay thế test thực tế.
+Có dự án nhìn có lời nhưng chạy thật không có lời; có dự án nhìn CPC cao nhưng chạy thật lại rẻ hơn dự kiến. 
+Vì vậy:
+Research ≠ Proof
+Research chỉ tạo:
+Hypothesis
+Test mới tạo:
+Evidence
+ 
+PHẦN V — TẦNG 2: PERFORMANCE MARKETING ENGINE
+12. Performance Marketing là gì?
+Affiliate nói:
+Tôi được trả tiền khi tạo ra kết quả.
+Performance Marketing nói:
+Tôi mua traffic và tối ưu traffic theo kết quả kinh tế.
+Hai thứ kết hợp:
+Pay for Traffic → Get Conversion → Earn Commission
+ 
+13. Search Intent
+Google Search đặc biệt phù hợp với mô hình vì người dùng đã thể hiện nhu cầu.
+Ví dụ:
+Informational
+what is X
+Commercial Investigation
+best X
+X review
+X alternatives
+X vs Y
+Transactional
+buy X
+X price
+X discount
+X coupon
+Không phải keyword nào cũng tốt.
+Điều cần tìm là:
+Commercial Intent × Economics
+ 
+14. Keyword Database
+Mỗi keyword cần có:
+Field	Nội dung
+Keyword ID	Mã
+Keyword	Từ khóa
+Intent	Informational/Commercial/Transactional
+Geo	Quốc gia
+CPC	CPC
+Competition	Cạnh tranh
+Offer	Offer
+Campaign	Campaign
+Ad group	Ad group
+Landing	Landing
+Clicks	Click
+Cost	Chi phí
+Conversion	Conversion
+Commission	Commission
+Profit	Profit
+ 
+15. Performance Funnel
+Impression
+   ↓
+Click
+   ↓
+Landing Visit
+   ↓
+Engagement
+   ↓
+Affiliate Click
+   ↓
+Merchant Visit
+   ↓
+Purchase
+   ↓
+Commission
+   ↓
+Approved Commission
+   ↓
+Profit
+Mỗi tầng có thể rò rỉ.
+Ví dụ:
+100,000 impressions
+        ↓
+5,000 clicks
+        ↓
+4,000 landing visits
+        ↓
+1,000 affiliate clicks
+        ↓
+30 purchases
+        ↓
+25 approved sales
+Đừng chỉ nhìn:
+30 sales.
+Phải nhìn toàn bộ funnel.
+ 
+PHẦN VI — TẦNG 3: ECONOMICS ENGINE
+16. Economics là trái tim của AGOS
+Một campaign không được quyết định bằng cảm giác.
+Nó phải được quyết định bằng:
+Unit Economics.
+ 
+17. Commission per Sale
+Commission
+=
+Sale Value × Commission Rate
+Ví dụ:
+$150 × 40%
+= $60.
+Đây chính là ví dụ Khởi Nguyên sử dụng. 
+ 
+18. Expected Revenue per Click
+Nếu:
+•	commission = $60;
+•	conversion rate = 2%.
+thì:
+RPC
+=
+$60 × 2%
+=
+$1.20
+ 
+19. Break-even CPC
+BE-CPC
+=
+Commission × Conversion Rate
+Trong ví dụ:
+BE-CPC = $1.20
+Nếu CPC thực tế:
+•	$0.70 → có room;
+•	$1.20 → hòa vốn;
+•	$1.80 → âm.
+ 
+20. Nhưng đây chỉ là mô hình sơ bộ
+Phải tính:
+Expected Profit
+=
+Expected Approved Commission
+− Ad Spend
+− Other Costs
+− Expected Reversal/Refund Loss
+Do đó:
+Raw Commission ≠ Realized Profit
+ 
+21. Ba mức Economics
+Level 1 — Hypothetical
+Tính trên giấy.
+Level 2 — Observed
+Có dữ liệu click/conversion.
+Level 3 — Realized
+Có approved commission thực tế.
+Chỉ Level 3 mới là economics đáng tin nhất.
+ 
+PHẦN VII — TẦNG 4: COMPLIANCE ENGINE
+Đây là tầng em bổ sung mạnh nhất.
+Khởi Nguyên tập trung vào:
+•	offer;
+•	landing;
+•	Google Ads;
+•	tracking;
+•	optimization.
+AGOS phải thêm:
+“Được phép làm không?”
+ 
+22. Compliance Gate
+Trước khi chạy một offer:
+AFFILIATE TERMS
+      ↓
+NETWORK RULES
+      ↓
+GOOGLE ADS POLICY
+      ↓
+LANDING PAGE
+      ↓
+TRAFFIC SOURCE
+      ↓
+GEO
+      ↓
+TRADEMARK
+      ↓
+CLAIMS
+      ↓
+DISCLOSURE
+      ↓
+APPROVED TO RUN
+ 
+23. Affiliate Terms Audit
+Mỗi offer phải trả lời:
+Paid Search?
+Có/Không.
+Direct Linking?
+Có/Không.
+Landing Page?
+Có/Không.
+Brand bidding?
+Có/Không.
+Competitor bidding?
+Có/Không.
+Coupon?
+Có/Không.
+Geo?
+Những quốc gia nào?
+Device?
+Mobile/Desktop?
+Traffic source?
+Google/Bing/Social/Email?
+Restricted keywords?
+Những keyword nào bị cấm?
+ 
+24. Traffic Permission Matrix
+Permission	Offer A	Offer B	Offer C
+Google Search	✅	❌	?
+Direct Link	❌	❌	?
+Landing Page	✅	✅	?
+Brand	❌	❌	?
+Competitor	?	❌	?
+Coupon	❌	✅	?
+US	✅	❌	?
+UK	✅	✅	?
+Quy tắc AGOS:
+“Unknown = Not Approved.”
+Không xác minh thì không chạy.
+ 
+25. Google Destination Compliance
+Google hiện yêu cầu ad destination phải:
+•	hoạt động;
+•	accessible;
+•	crawlable trong các trường hợp áp dụng;
+•	dễ điều hướng;
+•	hữu ích;
+•	phù hợp với quảng cáo.
+Google hiện nêu rõ destination phải cung cấp unique value; các trang chỉ nhằm đưa người dùng sang website khác, bao gồm bridge/doorway/gateway pages, có thể bị từ chối vì insufficient original content. Google Hỗ Trợ
+Đây là một điểm cực kỳ quan trọng đối với Affiliate Global.
+ 
+26. Vì vậy Landing Page phải là một sản phẩm thông tin
+Không nên:
+Google
+ ↓
+Trang sơ sài
+ ↓
+Buy Now
+ ↓
+Merchant
+Nên:
+Google
+ ↓
+Useful Landing Page
+ ↓
+Understand Problem
+ ↓
+Evaluate Options
+ ↓
+Comparison / Review / Explanation
+ ↓
+Affiliate CTA
+ ↓
+Merchant
+Landing Page phải trả lời:
+•	Đây là gì?
+•	Dành cho ai?
+•	Giải quyết vấn đề gì?
+•	Ưu điểm?
+•	Nhược điểm?
+•	Giá?
+•	Điều kiện?
+•	Alternative?
+•	Ai không nên dùng?
+•	Vì sao nên/không nên chọn?
+ 
+27. Một thay đổi chính sách đáng chú ý năm 2026
+Google đã cập nhật Destination Mismatch vào tháng 6/2026: redirect từ final URL sang domain khác có thể được cho phép trong một số trường hợp và với prior approval. Thay đổi có hiệu lực từ đầu tháng 7/2026. Google Hỗ Trợ
+Điều này không có nghĩa:
+Affiliate redirect = mặc nhiên được phép.
+Mà phải hiểu:
+Domain transition/redirect phải phù hợp với trường hợp được Google cho phép và cấu hình thực tế.
+ 
+28. Disclosure
+Nếu website có affiliate relationship, phải minh bạch về mối quan hệ đó theo quy định áp dụng.
+Đây là phần compliance độc lập với Google Ads.
+AGOS vì vậy phải có:
+Affiliate Disclosure
+và không giấu nó trong một nơi người dùng khó tiếp cận.
+ 
+PHẦN VIII — TẦNG 5: ATTRIBUTION ENGINE
+29. Attribution là gì?
+Attribution trả lời:
+Ai tạo ra sale?
+Nhưng trong AGOS phải trả lời sâu hơn:
+Market nào → keyword nào → campaign nào → ad nào → landing nào → affiliate click nào → conversion nào → commission nào → profit nào?
+ 
+30. Tracking ID
+Mỗi campaign phải có ID.
+Ví dụ:
+GGL-US-SaaS-001
+Ad group:
+GGL-US-SaaS-001-AG03
+Keyword:
+GGL-US-SaaS-001-AG03-KW12
+Landing:
+LP07
+Sub-ID:
+US-SAAS-001-AG03-KW12-LP07
+ 
+31. Click → Sale
+Google Click
+      ↓
+Tracking ID
+      ↓
+Landing
+      ↓
+Affiliate Link
+      ↓
+Sub-ID
+      ↓
+Affiliate Network
+      ↓
+Conversion
+      ↓
+Commission
+Nếu merchant/network trả lại Sub-ID cùng conversion, chúng ta có thể nối:
+Sale → Campaign → Keyword.
+ 
+32. Attribution Data Model
+Một conversion record nên có:
+conversion_id
+click_id
+sub_id
+offer_id
+merchant_id
+network_id
+campaign_id
+adgroup_id
+keyword_id
+landing_id
+geo
+device
+timestamp
+sale_value
+commission
+commission_status
+refund_status
+ 
+33. Attribution không chỉ là Last Click
+Một khách hàng có thể:
+Search
+ ↓
+Click
+ ↓
+Visit
+ ↓
+Leave
+ ↓
+Search lại
+ ↓
+Click lần 2
+ ↓
+Purchase
+Do đó phải hiểu:
+•	first touch;
+•	last touch;
+•	affiliate touch;
+•	conversion lag;
+•	attribution window.
+Trong AGOS, attribution phải phục vụ decision-making, không chỉ báo cáo.
+ 
+PHẦN IX — TẦNG 6: DATA ENGINE
+34. Data là tài sản
+Một campaign thất bại không nhất thiết là tài sản bằng 0.
+Nếu ta biết:
+•	keyword nào không chuyển đổi;
+•	CPC bao nhiêu;
+•	intent nào không tốt;
+•	landing nào yếu;
+•	offer nào không trả tiền;
+thì campaign đó đã tạo ra knowledge.
+Đây phù hợp với tư duy Khởi Nguyên về tiền test:
+tiền quảng cáo không chỉ là tiền mất đi; nó là chi phí để tìm dự án có lợi nhuận. 
+ 
+35. Data Flywheel
+RUN
+ ↓
+DATA
+ ↓
+ANALYZE
+ ↓
+LEARN
+ ↓
+OPTIMIZE
+ ↓
+RUN BETTER
+ ↓
+MORE DATA
+ ↓
+BETTER MODEL
+Đây là data flywheel.
+ 
+36. Data Warehouse
+AGOS nên có tối thiểu:
+MARKET
+market_id
+country
+language
+currency
+population
+economic_profile
+NICHE
+niche_id
+category
+market
+demand
+competition
+OFFER
+offer_id
+merchant
+price
+commission
+terms
+geo
+CAMPAIGN
+campaign_id
+offer_id
+geo
+budget
+status
+KEYWORD
+keyword_id
+campaign_id
+keyword
+intent
+TRAFFIC
+date
+impressions
+clicks
+cost
+ctr
+cpc
+CONVERSION
+conversion_id
+click_id
+sub_id
+sale
+commission
+status
+PROFIT
+campaign
+spend
+approved_commission
+profit
+roi
+roas
+ 
+PHẦN X — DASHBOARD
+37. Dashboard AGOS
+A. Traffic
+•	Impressions
+•	Clicks
+•	CTR
+•	CPC
+•	Spend
+B. Funnel
+•	Landing visits
+•	Affiliate clicks
+•	Affiliate CTR
+•	Conversion
+•	CVR
+C. Affiliate
+•	Sales
+•	Commission
+•	Approved commission
+•	Reversal
+•	Refund
+D. Economics
+•	CPA
+•	EPC
+•	RPC
+•	Profit/click
+•	Profit/sale
+•	ROI
+•	ROAS
+E. Portfolio
+•	Offers tested
+•	Active offers
+•	Winners
+•	Losers
+•	Watchlist
+•	Scale candidates
+ 
+38. Dashboard không chỉ để xem
+Dashboard phải trả lời:
+Hôm nay cần làm gì?
+Ví dụ:
+OFFER A → SCALE
+OFFER B → WATCH
+OFFER C → KILL
+KEYWORD D → SCALE
+KEYWORD E → NEGATIVE
+LANDING F → TEST
+Đây là bước chuyển:
+Analytics → Decision System
+ 
+PHẦN XI — TẦNG 7: TEST ENGINE
+39. Testing theo Khởi Nguyên
+Khởi Nguyên mô tả giai đoạn đầu là giai đoạn đầu tư để tìm ra các dự án thắng, chưa phải giai đoạn kỳ vọng lợi nhuận ngay. Khi đã chạy khoảng 20–30 dự án, bắt đầu nhìn thấy:
+•	dự án có lãi;
+•	dự án lỗ;
+•	keyword ra đơn;
+•	campaign cần tối ưu.
+Sau đó bỏ dự án lỗ và dồn ngân sách vào dự án tốt. 
+Đây là một trong những logic quan trọng nhất của AGOS.
+ 
+40. Test không phải “ném tiền”
+Test phải có:
+Hypothesis
+Offer này có khả năng tạo profit.
+Budget
+Tôi chấp nhận chi X để kiểm chứng.
+Measurement
+Tôi cần đo Y.
+Decision Rule
+Nếu X xảy ra → KILL.
+Nếu Y xảy ra → OPTIMIZE.
+Nếu Z xảy ra → SCALE.
+ 
+41. Test Matrix
+Offer	Spend	Click	CPC	CVR	Commission	Profit	Decision
+A	$100	120	.83	2.5%	$180	+$80	SCALE
+B	$100	200	.50	0%	$0	-$100	KILL
+C	$100	90	1.11	1.1%	$100	$0	WATCH
+[MINH HỌA] — các con số trên không phải dữ liệu Khởi Nguyên.
+ 
+PHẦN XII — KILL ENGINE
+42. Một hệ thống tốt phải biết bỏ
+Đây là điểm cực kỳ quan trọng.
+Không có:
+Kill Rules
+thì scale sẽ trở thành:
+đổ tiền vào hy vọng.
+ 
+43. Các loại Kill
+Kill Offer
+Economics không phù hợp.
+Kill Keyword
+Traffic không có intent/conversion.
+Kill Ad
+CTR/message match yếu.
+Kill Landing
+Click tốt nhưng affiliate CTR/CVR thấp.
+Kill Geo
+CPC/CVR không đạt.
+Kill Campaign
+Unit economics âm.
+ 
+44. “Không có conversion” chưa đủ để kết luận
+Phải xem:
+•	đã có đủ traffic chưa?
+•	CPC có đúng forecast?
+•	search term có đúng intent?
+•	landing có vấn đề?
+•	affiliate link có tracking?
+•	merchant có conversion?
+•	attribution có delay?
+•	offer có bị restricted?
+Do đó:
+Kill phải dựa trên đủ dữ liệu + diagnosis.
+ 
+PHẦN XIII — OPTIMIZATION ENGINE
+45. Tối ưu theo tầng
+Tầng 1 — Keyword
+•	search terms;
+•	negative keywords;
+•	match;
+•	intent.
+Tầng 2 — Ad
+•	headline;
+•	proposition;
+•	CTA;
+•	message match.
+Tầng 3 — Landing
+•	relevance;
+•	clarity;
+•	trust;
+•	comparison;
+•	CTA.
+Tầng 4 — Offer
+•	commission;
+•	conversion;
+•	merchant quality.
+Tầng 5 — Economics
+•	CPC;
+•	CVR;
+•	EPC;
+•	profit.
+ 
+46. Message Match
+Nếu người dùng search:
+best accounting software for freelancers
+thì landing phải nói ngay về:
+Best accounting software for freelancers
+không phải:
+“Welcome to our website.”
+Mục tiêu:
+Search intent = Ad message = Landing message = Offer.
+ 
+PHẦN XIV — SCALE ENGINE
+47. Scale chỉ bắt đầu sau Proof
+Khởi Nguyên nói:
+dự án chưa hiệu quả → tắt;
+dự án có lợi nhuận → dồn ngân sách và nhân bản. 
+Đây là:
+Proof → Scale
+ 
+48. Vertical Scale
+Cùng campaign:
+$20/day
+↓
+$30
+↓
+$50
+↓
+$100
+↓
+$200
+Phải quan sát:
+Economics có giữ được khi tăng volume không?
+Không phải:
+tăng budget = tăng profit theo tỷ lệ.
+ 
+49. Horizontal Scale
+Một winner:
+Offer A
+ ↓
+Offer B
+ ↓
+Offer C
+ ↓
+Offer D
+nhưng các offer phải có:
+•	cùng audience;
+•	cùng intent;
+•	economics tương đồng;
+•	traffic permission tương thích.
+ 
+50. Geographic Scale
+US
+ ↓
+CA
+ ↓
+UK
+ ↓
+AU
+Chỉ khi:
+•	merchant cho phép;
+•	language phù hợp;
+•	economics phù hợp;
+•	compliance phù hợp.
+ 
+PHẦN XV — WINNING PATTERN ENGINE
+51. Đừng chỉ lưu Winner
+Nếu:
+Campaign A thắng.
+thì câu hỏi quan trọng hơn là:
+Vì sao A thắng?
+ 
+52. Winning Pattern
+Ví dụ:
+Geo = US
+Niche = SaaS
+Price = $100–300
+Commission = 30%+
+Intent = comparison/pricing
+CPC = low
+CVR = high
+Landing = comparison
+Pattern này có thể dùng để tìm:
+Offer B, C, D, E.
+ 
+53. Portfolio Learning
+Sau:
+10 campaign
+ta có dữ liệu.
+Sau:
+50 campaign
+ta bắt đầu thấy pattern.
+Sau:
+100+ campaign
+ta có thể có:
+•	niche patterns;
+•	offer patterns;
+•	keyword patterns;
+•	Geo patterns;
+•	landing patterns;
+•	CPC patterns.
+Đây mới là lợi thế cạnh tranh dài hạn.
+ 
+PHẦN XVI — AI ENGINE
+54. AI không thay thế AGOS
+AI là một intelligence layer nằm trên AGOS.
+              AGOS DATA
+                  ↓
+             AI ANALYSIS
+                  ↓
+          RECOMMENDATION
+                  ↓
+              HUMAN
+                  ↓
+             DECISION
+                  ↓
+                RUN
+                  ↓
+                DATA
+ 
+55. AI Research Agent
+AI có thể hỗ trợ:
+Market Discovery
+Tìm:
+•	niche;
+•	trend;
+•	demand.
+Offer Discovery
+Tìm:
+•	merchant;
+•	affiliate program;
+•	commission;
+•	product.
+Terms Extraction
+Đọc:
+•	PPC policy;
+•	geo;
+•	trademark;
+•	prohibited traffic.
+Economics
+Tính:
+•	BE-CPC;
+•	EPC;
+•	scenario.
+Ranking
+Chấm:
+Opportunity Score.
+ 
+56. AI Campaign Analyst
+Mỗi ngày AI đọc:
+Spend
+Clicks
+CPC
+CTR
+Search Terms
+Affiliate Clicks
+Conversions
+Commission
+Approved Commission
+Profit
+Sau đó đưa:
+KILL
+WATCH
+OPTIMIZE
+SCALE
+ 
+57. AI Pattern Miner
+AI không chỉ hỏi:
+“Campaign nào tốt?”
+Mà hỏi:
+“Đặc điểm chung của các campaign tốt là gì?”
+Ví dụ:
+Winner 1
+Winner 2
+Winner 3
+Winner 4
+Winner 5
+       ↓
+AI Pattern Detection
+       ↓
+Winning Pattern
+ 
+PHẦN XVII — ATTRIBUTION + DATA + AI
+Đây là vòng lặp cao nhất:
+TRAFFIC
+   ↓
+TRACKING
+   ↓
+ATTRIBUTION
+   ↓
+DATA
+   ↓
+AI
+   ↓
+INSIGHT
+   ↓
+DECISION
+   ↓
+OPTIMIZATION
+   ↓
+MORE PROFIT
+   ↓
+MORE DATA
+ 
+58. Google Ads 2026: Data Measurement
+Google hiện tiếp tục nâng cấp Enhanced Conversions.
+Từ tháng 4/2026, Google Ads hỗ trợ đồng thời dữ liệu user-provided từ:
+•	website tags;
+•	Data Manager;
+•	API connections,
+trong một hệ thống ngày càng hợp nhất. Google cho biết Enhanced Conversions có thể cải thiện độ chính xác đo conversion và hỗ trợ bidding. Google Hỗ Trợ
+Google cũng cho biết first-party customer data có thể được hash bằng SHA-256 trước khi gửi để matching trong Enhanced Conversions. Google Hỗ Trợ
+Ý nghĩa đối với AGOS
+Measurement không còn là:
+“Tôi thấy Google Ads báo 10 conversions.”
+Mà hướng tới:
+First-party data → measurement → attribution → optimization.
+Tuy nhiên, trong affiliate, khả năng triển khai sâu tới transaction cuối cùng phụ thuộc vào dữ liệu mà merchant/network cho affiliate.
+ 
+PHẦN XVIII — DATA OWNERSHIP
+59. Phải phân biệt 3 loại dữ liệu
+Data của Google
+•	impressions;
+•	clicks;
+•	ad interaction;
+•	Google conversion signals.
+Data của Affiliate
+•	landing visits;
+•	affiliate clicks;
+•	UTM;
+•	sub-ID;
+•	campaign data;
+•	keyword data.
+Data của Merchant/Network
+•	order;
+•	sale;
+•	refund;
+•	approval;
+•	commission.
+AGOS phải tạo một data spine nối được ba lớp này trong phạm vi dữ liệu và quyền truy cập thực tế.
+ 
+PHẦN XIX — FINANCIAL CONTROL
+60. Tiền quảng cáo không phải “chi phí mù”
+Khởi Nguyên sử dụng tư duy “đi câu cá”:
+bỏ mồi để tìm cá;
+không dám bỏ mồi thì không câu được. 
+Nhưng AGOS phải thêm một điều:
+Mồi phải có giới hạn.
+Do đó:
+Risk Budget
+Mỗi test phải có:
+•	maximum spend;
+•	maximum loss;
+•	decision point;
+•	expected upside.
+ 
+61. Test Capital
+Ví dụ:
+[MINH HỌA]
+Có $5.000 test capital.
+Không nên:
+$5.000 → campaign đầu tiên.
+Có thể:
+$5,000
+ ↓
+20 tests
+ ↓
+data
+ ↓
+5 candidates
+ ↓
+2 winners
+ ↓
+scale
+Mục tiêu của vốn test là:
+mua thông tin để tìm asymmetric opportunity.
+ 
+PHẦN XX — PORTFOLIO MANAGEMENT
+62. Affiliate không nên được quản lý như một campaign
+Nó nên được quản lý như portfolio.
+Ví dụ:
+100 Offers Researched
+        ↓
+30 Tested
+        ↓
+10 Active
+        ↓
+5 Candidates
+        ↓
+2 Winners
+        ↓
+1 Scalable Pattern
+Các con số chỉ là mô hình minh họa.
+ 
+63. Portfolio Categories
+A — SCALE
+Đã chứng minh.
+B — OPTIMIZE
+Có tín hiệu.
+C — WATCH
+Chưa đủ dữ liệu.
+D — KILL
+Không phù hợp.
+E — RESEARCH
+Chưa chạy.
+ 
+PHẦN XXI — SOP
+64. SOP 01 — Offer Discovery
+1. Chọn Geo
+2. Chọn niche
+3. Tìm merchant
+4. Tìm affiliate program
+5. Thu thập offer
+6. Đọc terms
+7. Kiểm tra traffic permission
+8. Tính economics
+9. Chấm score
+10. Đưa vào test queue
+ 
+65. SOP 02 — Campaign Creation
+1. Offer approved
+2. Geo approved
+3. Keyword research
+4. Search intent mapping
+5. Landing page
+6. Tracking
+7. Affiliate link
+8. Sub-ID
+9. Ad
+10. Budget
+11. QA
+12. Launch
+ 
+66. SOP 03 — Daily Optimization
+Mỗi ngày:
+1. Spend
+2. CPC
+3. Search terms
+4. CTR
+5. Affiliate clicks
+6. Conversion
+7. Commission
+8. Approved status
+9. Profit
+10. Decision
+ 
+67. SOP 04 — Weekly Review
+Mỗi tuần:
+Portfolio
+•	offer nào thắng?
+•	offer nào thua?
+Traffic
+•	keyword nào thắng?
+•	keyword nào lỗ?
+Economics
+•	CPC?
+•	CVR?
+•	EPC?
+Compliance
+•	có policy issue?
+Data
+•	pattern mới?
+Capital
+•	vốn đang nằm ở đâu?
+ 
+PHẦN XXII — 14 NGÀY ĐẦU
+Khởi Nguyên thiết kế chương trình thực chiến 14 ngày, 7 buổi Zoom; file nói mục tiêu là đi từ nền tảng đến campaign đầu tiên và triển khai trực tiếp. 
+Nếu chuyển thành AGOS Implementation Sprint, em đề xuất:
+Ngày 1
+Market + model.
+Ngày 2
+Niche research.
+Ngày 3
+Offer research.
+Ngày 4
+Affiliate program + Terms.
+Ngày 5
+Economics.
+Ngày 6
+Competitor research.
+Ngày 7
+Keyword research.
+Ngày 8
+Landing.
+Ngày 9
+Tracking.
+Ngày 10
+Campaign.
+Ngày 11
+QA + compliance.
+Ngày 12
+Launch.
+Ngày 13
+Read data.
+Ngày 14
+Optimization + next test.
+ 
+PHẦN XXIII — 30 NGÀY
+Mục tiêu:
+DATA ACQUISITION
+Không đặt áp lực:
+“Phải có lợi nhuận ngay.”
+Mà:
+Phải tạo đủ dữ liệu để biết mình đang ở đâu.
+ 
+PHẦN XXIV — 60 NGÀY
+Mục tiêu:
+ECONOMIC PROOF
+Tìm:
+•	campaign có profit;
+•	keyword có profit;
+•	offer có profit;
+•	Geo có profit.
+ 
+PHẦN XXV — 90 NGÀY
+Mục tiêu:
+REPEATABLE WINNER
+Không chỉ:
+“Tôi từng có một campaign thắng.”
+Mà:
+“Tôi biết cách tìm và nhân bản campaign thắng.”
+ 
+PHẦN XXVI — 6–12 THÁNG
+Mục tiêu chuyển từ:
+Campaign Operator
+sang:
+Portfolio Operator
+Có:
+•	nhiều offer;
+•	nhiều merchant;
+•	nhiều campaign;
+•	nhiều Geo;
+•	data history;
+•	winning patterns;
+•	AI assistance.
+ 
+PHẦN XXVII — CẤP ĐỘ TRƯỞNG THÀNH
+Level 1 — Affiliate Beginner
+Biết affiliate link.
+Level 2 — Paid Affiliate
+Biết chạy Google Ads.
+Level 3 — Performance Affiliate
+Biết economics.
+Level 4 — Data Affiliate
+Biết attribution.
+Level 5 — Portfolio Affiliate
+Biết quản trị nhiều campaign.
+Level 6 — Performance Partner
+Biết tạo customer acquisition cho merchant.
+Level 7 — Affiliate Operating System
+Có:
+Data + SOP + Pattern + AI + Capital Allocation.
+ 
+PHẦN XXVIII — TỪ AFFILIATE ĐẾN PERFORMANCE PARTNER
+Đây là hướng phát triển rất đáng chú ý.
+Affiliate bình thường:
+“Tôi giới thiệu khách.”
+Paid Affiliate:
+“Tôi mua traffic.”
+Performance Affiliate:
+“Tôi tối ưu CPA/CVR.”
+Performance Partner:
+“Tôi có thể tạo customer acquisition có thể dự đoán.”
+Đến cấp này, giá trị của thầy không còn nằm ở affiliate link.
+Nó nằm ở:
+Khả năng tạo ra khách hàng có lợi nhuận.
+ 
+PHẦN XXIX — 15 KPI CỐT LÕI
+Em đề xuất AGOS chỉ tập trung vào 15 KPI:
+#	KPI	Ý nghĩa
+1	Impressions	Demand exposure
+2	CTR	Ad relevance
+3	CPC	Traffic cost
+4	Landing CVR	Page performance
+5	Affiliate CTR	Offer engagement
+6	CVR	Conversion
+7	CPA	Acquisition cost
+8	EPC	Affiliate economics
+9	Commission	Revenue
+10	Approval Rate	Revenue quality
+11	Refund/Reversal	Revenue risk
+12	Profit	True output
+13	ROI	Capital efficiency
+14	ROAS	Ad efficiency
+15	Payback/Cash Cycle	Capital velocity
+ 
+PHẦN XXX — CÁC CÔNG THỨC CỐT LÕI
+CTR
+CTR = Clicks / Impressions
+CPC
+CPC = Ad Spend / Clicks
+CVR
+CVR = Conversions / Affiliate Clicks
+CPA
+CPA = Ad Spend / Conversions
+EPC
+EPC = Commission / Affiliate Clicks
+RPC
+RPC = Expected Commission / Click
+Profit
+Profit
+=
+Approved Commission
+− Ad Spend
+− Other Costs
+ROI
+ROI = Profit / Ad Spend
+ROAS
+ROAS = Commission / Ad Spend
+Break-even CPC
+BE-CPC
+=
+Approved Commission per Sale
+× Conversion Rate
+ 
+PHẦN XXXI — DECISION ENGINE
+Mỗi campaign cuối cùng chỉ nên rơi vào 4 trạng thái:
+KILL
+Không còn lý do kinh tế/compliance để tiếp tục.
+WATCH
+Chưa đủ dữ liệu.
+OPTIMIZE
+Có tín hiệu nhưng chưa tối ưu.
+SCALE
+Đã chứng minh economics.
+ 
+PHẦN XXXII — 10 NGUYÊN TẮC BẤT DI BẤT DỊCH
+1.
+Không có Terms → không chạy.
+2.
+Không có economics → không chạy.
+3.
+Không có tracking → không scale.
+4.
+Không biết conversion đến từ đâu → không tăng ngân sách.
+5.
+Pending commission không phải tiền mặt.
+6.
+Research không phải proof.
+7.
+Test phải có giới hạn.
+8.
+Loss phải tạo ra learning.
+9.
+Winner phải tạo ra pattern.
+10.
+Pattern phải được nhân bản.
+ 
+PHẦN XXXIII — 7 TÀI SẢN QUAN TRỌNG NHẤT
+Sau 1 năm, nếu làm đúng, thầy không chỉ có tiền.
+Thầy phải có:
+1. Offer Database
+Biết cái gì đáng chạy.
+2. Merchant Database
+Biết ai trả tiền tốt.
+3. Keyword Database
+Biết demand nằm ở đâu.
+4. Campaign Database
+Biết campaign nào từng chạy.
+5. Attribution Database
+Biết tiền đến từ đâu.
+6. Winning Pattern Library
+Biết tại sao nó thắng.
+7. Operating System
+Biết làm lại từ đầu.
+ 
+PHẦN XXXIV — AI + AGOS
+Đây là tầng mà em nghĩ có thể biến mô hình này thành một hệ thống thực sự khác biệt.
+                    AI RESEARCHER
+                         ↓
+                    OFFER DATABASE
+                         ↓
+                  COMPLIANCE AGENT
+                         ↓
+                 ECONOMICS ENGINE
+                         ↓
+                 CAMPAIGN FACTORY
+                         ↓
+                    AD TRAFFIC
+                         ↓
+                   DATA PIPELINE
+                         ↓
+                  ATTRIBUTION
+                         ↓
+                  AI ANALYST
+                         ↓
+               KILL / OPTIMIZE / SCALE
+                         ↓
+                 PATTERN MINER
+                         ↓
+                  AI RESEARCHER
+Nó tạo thành vòng lặp:
+Research → Test → Learn → Replicate → Research
+ 
+PHẦN XXXV — AI AGENT STACK
+Agent 1 — Market Researcher
+Tìm:
+•	quốc gia;
+•	niche;
+•	demand.
+Agent 2 — Offer Researcher
+Tìm:
+•	affiliate programs;
+•	merchant;
+•	commission.
+Agent 3 — Compliance Agent
+Đọc:
+•	terms;
+•	PPC;
+•	trademark;
+•	geo.
+Agent 4 — Economics Agent
+Tính:
+•	BE-CPC;
+•	CVR scenarios;
+•	expected profit.
+Agent 5 — Campaign Analyst
+Đọc:
+•	Google Ads data;
+•	keyword;
+•	spend;
+•	conversion.
+Agent 6 — Attribution Analyst
+Nối:
+•	click;
+•	sub-ID;
+•	sale;
+•	commission.
+Agent 7 — Pattern Miner
+Tìm:
+•	winning patterns.
+Agent 8 — Decision Agent
+Đề xuất:
+KILL / WATCH / OPTIMIZE / SCALE.
+ 
+PHẦN XXXVI — ĐIỂM KHỞI NGUYÊN ĐÃ LÀM RẤT ĐÚNG
+Từ file ghi âm, em đánh giá có 6 điểm nền tảng rất đáng giữ:
+1. Không bắt đầu bằng sản phẩm
+Mà bắt đầu bằng:
+Research.
+2. Không test cảm tính
+Có công thức economics trước. 
+3. Không cố giữ campaign lỗ
+Campaign lỗ phải loại.
+4. Không dừng sau một campaign
+Phải tìm nhiều dự án. Khởi Nguyên nói tới giai đoạn test khoảng 20–30 dự án. 
+5. Không chỉ tìm sale
+Phải nhìn số liệu.
+6. Không làm lại từ đầu
+Winner phải được nhân bản. 
+ 
+PHẦN XXXVII — NHỮNG ĐIỂM AGOS BỔ SUNG SO VỚI MÔ HÌNH GỐC
+Khởi Nguyên	AGOS
+Affiliate	Affiliate
+Google Ads	Performance Marketing
+Landing Page	Destination System
+Tracking	Attribution Architecture
+Tối ưu	Data Decision Engine
+Scale	Portfolio Management
+Research	Research Engine
+Công thức	Economics Engine
+AI hỗ trợ	AI Agent Layer
+Chọn dự án	Opportunity Scoring
+Chạy campaign	Campaign Factory
+Nhân bản	Pattern Replication
+—	Compliance Gate
+—	Data Warehouse
+—	Capital Allocation
+ 
+PHẦN XXXVIII — BẢN ĐỒ TOÀN BỘ AGOS
+                    ┌───────────────────────┐
+                    │     GLOBAL MARKET     │
+                    └───────────┬───────────┘
+                                ↓
+                    ┌───────────────────────┐
+                    │   DEMAND / NICHE      │
+                    └───────────┬───────────┘
+                                ↓
+                    ┌───────────────────────┐
+                    │     OFFER ENGINE      │
+                    └───────────┬───────────┘
+                                ↓
+                    ┌───────────────────────┐
+                    │   AFFILIATE TERMS     │
+                    └───────────┬───────────┘
+                                ↓
+                    ┌───────────────────────┐
+                    │   COMPLIANCE GATE     │
+                    └───────────┬───────────┘
+                                ↓
+                    ┌───────────────────────┐
+                    │   ECONOMICS ENGINE    │
+                    └───────────┬───────────┘
+                                ↓
+                    ┌───────────────────────┐
+                    │   OPPORTUNITY SCORE   │
+                    └───────────┬───────────┘
+                                ↓
+                    ┌───────────────────────┐
+                    │    KEYWORD ENGINE     │
+                    └───────────┬───────────┘
+                                ↓
+                    ┌───────────────────────┐
+                    │   LANDING WEBSITE     │
+                    └───────────┬───────────┘
+                                ↓
+                    ┌───────────────────────┐
+                    │    GOOGLE SEARCH      │
+                    └───────────┬───────────┘
+                                ↓
+                    ┌───────────────────────┐
+                    │      TRACKING         │
+                    └───────────┬───────────┘
+                                ↓
+                    ┌───────────────────────┐
+                    │     AFFILIATE CLICK   │
+                    └───────────┬───────────┘
+                                ↓
+                    ┌───────────────────────┐
+                    │       MERCHANT        │
+                    └───────────┬───────────┘
+                                ↓
+                    ┌───────────────────────┐
+                    │      CONVERSION       │
+                    └───────────┬───────────┘
+                                ↓
+                    ┌───────────────────────┐
+                    │      COMMISSION       │
+                    └───────────┬───────────┘
+                                ↓
+                    ┌───────────────────────┐
+                    │      ATTRIBUTION      │
+                    └───────────┬───────────┘
+                                ↓
+                    ┌───────────────────────┐
+                    │         DATA          │
+                    └───────────┬───────────┘
+                                ↓
+                    ┌───────────────────────┐
+                    │     OPTIMIZATION      │
+                    └───────────┬───────────┘
+                                ↓
+                    ┌───────────────────────┐
+                    │        SCALE          │
+                    └───────────┬───────────┘
+                                ↓
+                    ┌───────────────────────┐
+                    │   WINNING PATTERN     │
+                    └───────────┬───────────┘
+                                ↓
+                    ┌───────────────────────┐
+                    │      REPLICATION      │
+                    └───────────┬───────────┘
+                                ↓
+                    ┌───────────────────────┐
+                    │     AI AUTOMATION     │
+                    └───────────────────────┘
+ 
+PHẦN XXXIX — PHƯƠNG TRÌNH CỐT LÕI
+Cuối cùng, AGOS có thể được cô đọng thành:
+Affiliate
+Tìm Offer.
+↓
+Performance Marketing
+Mua Traffic.
+↓
+Compliance
+Đảm bảo được phép.
+↓
+Attribution
+Biết traffic nào tạo ra kết quả.
+↓
+Data
+Biết cái gì đang xảy ra.
+↓
+Optimization
+Làm economics tốt hơn.
+↓
+Scale
+Đổ thêm vốn vào cái đã chứng minh.
+↓
+Replication
+Nhân bản winning pattern.
+↓
+AI
+Tăng tốc toàn bộ vòng lặp.
+ 
+XL. ĐIỂM CUỐI CÙNG: AGOS THỰC SỰ ĐANG XÂY CÁI GÌ?
+Không phải:
+một affiliate link.
+Không phải:
+một website.
+Không phải:
+một Google Ads account.
+Không phải:
+một campaign.
+Không phải:
+một sản phẩm.
+Mà là:
+MỘT HỆ THỐNG PHÂN BỔ VỐN VÀO CÁC CƠ HỘI CUSTOMER ACQUISITION TOÀN CẦU.
+Nó liên tục làm 5 việc:
+TÌM CƠ HỘI → KIỂM TRA → ĐO LƯỜNG → PHÂN BỔ VỐN → NHÂN BẢN
+Và đây là chỗ mô hình của Khởi Nguyên trở nên rất thú vị.
+Khởi Nguyên nói người mới ban đầu phải tăng số lượng dự án test để vừa có kỹ năng vừa tăng cơ hội tìm winner; sau khi có dữ liệu thì bỏ dự án lỗ và dồn tiền vào dự án có lợi nhuận. 
+Nếu đẩy tư duy đó đến tận cùng, AGOS trở thành:
+Opportunity Portfolio Management
+Trong đó:
+Vốn = nhiên liệu
+Traffic = thí nghiệm
+Campaign = đơn vị thử nghiệm
+Conversion = bằng chứng
+Commission = doanh thu
+Profit = kết quả
+Data = tài sản
+Pattern = tri thức
+AI = bộ não hỗ trợ
+SOP = khả năng tái tạo
+Scale = phân bổ thêm vốn
+Replication = tăng quy mô hệ thống.
+ 
+Một lưu ý rất quan trọng cho phiên bản 2026
+Google hiện đang tiếp tục siết chất lượng destination: trang đích phải cung cấp giá trị độc đáo; destination chỉ tồn tại để đưa người dùng sang site khác có thể bị từ chối. Google Hỗ Trợ Đồng thời, Google đã cập nhật kiến trúc đo lường Enhanced Conversions/Data Manager trong năm 2026 để hỗ trợ measurement và bidding tốt hơn. Google Hỗ Trợ
+Vì vậy, AGOS không nên được xây như một “máy bơm affiliate link”.
+Nó phải được xây như:
+CONTENT/UTILITY DESTINATION → PERFORMANCE TRAFFIC → ATTRIBUTABLE CONVERSION → VERIFIED COMMISSION → DATA → CAPITAL ALLOCATION
+Đó là phiên bản mà em đánh giá bền vững và có giá trị tài sản nhất của mô hình Affiliate Global mà Khởi Nguyên đang dạy.
+Và quan trọng: Khởi Nguyên cũng thừa nhận trong chính file rằng AI/YouTube có thể cung cấp kiến thức, nhưng vấn đề khó nằm ở việc tính economics, đọc số liệu và xử lý tình huống thực tế. Affiliate Global Khoi Nguyen.docxDOCX Vì vậy, nếu thầy xây AGOS, phần Data + Economics + Decision Engine mới là lõi, còn Google Ads chỉ là một trong các động cơ tạo traffic.
+
