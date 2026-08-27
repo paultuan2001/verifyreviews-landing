@@ -9,10 +9,22 @@
       gtag('js', new Date());
 
       gtag('config', 'AW-18408909952');
+
+      // Function to track outbound affiliate link conversions
+      function trackConversion(url) {
+        if (typeof gtag === 'function') {
+          gtag('event', 'conversion', {
+              'send_to': 'AW-18408909952/i3vkCJmWxeccEIDZhspE',
+              'value': 1.0,
+              'currency': 'VND'
+          });
+        }
+      }
     </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name='impact-site-verification' value='08f3d215-186a-4556-b482-dde0c595b87c'>
+    <meta name="google-site-verification" content="Nyn6YBrKDo_AO4Asx8JFDZrioFpXvHuVT5l6CRojk-s" />
     <title>Best AI Voice & Audio Publishing Software 2026 | VerifyReviews</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
@@ -181,7 +193,7 @@
                                 <span class="text-xs text-emerald-600 font-semibold">$0.50 Credit on 1M Tokens</span>
                             </td>
                             <td class="p-4 text-center">
-                                <a href="https://kymaapi.com?aff=jwMwqhd" target="_blank" rel="noopener sponsored" 
+                                <a href="https://kymaapi.com?aff=jwMwqhd" target="_blank" rel="noopener sponsored" onclick="trackConversion(this.href)"
                                    class="inline-block bg-amber-600 text-white font-semibold px-5 py-2 rounded-lg hover:bg-amber-700 transition-all text-center w-full sm:w-auto shadow-sm">
                                     Claim $0.50 Credit
                                 </a>
