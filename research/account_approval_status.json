@@ -2,57 +2,71 @@
   {
     "platform": "Google Ads",
     "account_name": "Account 1 (Search Ads)",
-    "status": "Pending",
-    "last_checked": "2026-08-29 18:40:48",
-    "notes": "Đang chờ xem xét chính sách chiến dịch"
+    "status": "Active (Running Ads)",
+    "last_checked": "2026-08-29 22:51:00",
+    "notes": "3 Chiến dịch đang bật & chạy thực tế: GGL-US-KymaAPI-01, GGL-US-Webshare-01, GGL-US-BillingNow-01"
   },
   {
     "platform": "Google Ads API",
     "account_name": "Basic Access Developer Token (Case #0-2690000040942)",
     "status": "Pending",
-    "last_checked": "2026-08-29 18:40:48",
+    "last_checked": "2026-08-29 22:51:00",
     "notes": "Đã nộp đơn thành công lên Google API Center (Chờ duyệt 1-5 ngày)"
+  },
+  {
+    "platform": "Webshare Affiliate",
+    "account_name": "Webshare Affiliate Program",
+    "status": "Active (Running Ads)",
+    "last_checked": "2026-08-29 22:51:00",
+    "notes": "Link active: https://www.webshare.io/?referral_code=6nm31jjeri4v | Campaign GGL-US-Webshare-01 active"
+  },
+  {
+    "platform": "BillingNow",
+    "account_name": "BillingNow Affiliate",
+    "status": "Active (Running Ads)",
+    "last_checked": "2026-08-29 22:51:00",
+    "notes": "Link active: https://billingnow.com/?red=verify | Campaign GGL-US-BillingNow-01 active"
+  },
+  {
+    "platform": "Kyma API",
+    "account_name": "Kyma Rewardful Affiliate",
+    "status": "Active (Running Ads)",
+    "last_checked": "2026-08-29 22:51:00",
+    "notes": "Link active: https://kymaapi.com?aff=jwMwqhd | Campaign GGL-US-KymaAPI-01 active"
   },
   {
     "platform": "Reditus",
     "account_name": "Joiin Affiliate Program",
     "status": "Approved",
-    "last_checked": "2026-08-29 18:40:48",
+    "last_checked": "2026-08-29 22:51:00",
     "notes": "Link: https://joiin.co/?red=verify"
   },
   {
     "platform": "FirstPromoter",
     "account_name": "Affitor Program",
     "status": "Approved",
-    "last_checked": "2026-08-29 18:40:48",
+    "last_checked": "2026-08-29 22:51:00",
     "notes": "Hoạt động bình thường"
   },
   {
     "platform": "Rewardful",
     "account_name": "Rewardful Network",
     "status": "Approved",
-    "last_checked": "2026-08-29 18:40:48",
+    "last_checked": "2026-08-29 22:51:00",
     "notes": "Đã gắn tracking link"
   },
   {
     "platform": "PartnerStack",
     "account_name": "ElevenLabs / WarmupInbox",
     "status": "Approved",
-    "last_checked": "2026-08-29 18:40:48",
+    "last_checked": "2026-08-29 22:51:00",
     "notes": "Đã duyệt link affiliate"
-  },
-  {
-    "platform": "BillingNow",
-    "account_name": "BillingNow Affiliate",
-    "status": "Approved",
-    "last_checked": "2026-08-29 18:40:48",
-    "notes": "Link active"
   },
   {
     "platform": "Audiorista",
     "account_name": "Audiorista Affiliate",
     "status": "Approved",
-    "last_checked": "2026-08-29 18:40:48",
+    "last_checked": "2026-08-29 22:51:00",
     "notes": "Link active"
   }
 ]
