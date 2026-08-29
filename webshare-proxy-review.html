@@ -13,6 +13,21 @@
       gtag('js', new Date());
 
       gtag('config', 'AW-18408909952');
+
+      function gtag_report_conversion(url) {
+        var callback = function () {
+          if (typeof(url) != 'undefined') {
+            window.location = url;
+          }
+        };
+        gtag('event', 'conversion', {
+            'send_to': 'AW-18408909952/i3vkCJmWxeccEIDZhspE',
+            'value': 1.0,
+            'currency': 'VND',
+            'event_callback': callback
+        });
+        return false;
+      }
     </script>
     <title>Webshare Proxy Review 2026: Fast & Affordable Datacenter IPs | VerifyReviews</title>
     <meta name="description" content="In-depth Webshare review for 2026. Evaluate datacenter proxy pricing from $2.99/mo, static residential IPs, speed benchmarks, and dashboard controls.">
