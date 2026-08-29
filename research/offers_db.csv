@@ -38,7 +38,7 @@ AW-1198,OrderDive,Direct / Affiliate.Watch,SAAS,Global,75% Commission For 1 Year
 AW-1532,Box,Direct / Affiliate.Watch,AI,Global,$20-$150 Per Sale,30,Check Terms,No,No,Yes,Research (Scraped),Web: https://www.box.com | AI Rating: 91.00
 AW-1575,FlexClip,Direct / Affiliate.Watch,AI,Global,30-35% Per Sale,90,Check Terms,No,No,Yes,Research (Scraped),Web: https://www.flexclip.com | AI Rating: 90.90
 AW-1549,Notion,Direct / Affiliate.Watch,AI,Global,Up To $50 Per Sale + 20% For 1 Year,90,Check Terms,No,No,Yes,Research (Scraped),Web: https://www.notion.com | AI Rating: 88.83
-AW-1484,Pictory,Direct / Affiliate.Watch,AI,Global,20-50% Recurring Commission + 2 Tier,9999,Check Terms,No,No,Yes,Pending (Submitted),Application submitted using verifyreviews.net. Waiting for approval.
+AW-1484,Pictory,Direct / Affiliate.Watch,AI,Global,20-50% Recurring Commission + 2 Tier,9999,Check Terms,No,No,Yes,Rejected,Application rejected via Impact. No impact on active B2B campaigns.
 AW-1151,LALAL.AI,Direct / Affiliate.Watch,AI,Global,30% Commission,180,Check Terms,No,No,Yes,Research (Scraped),Web: https://lalal.ai | AI Rating: 85.57
 AW-1533,Leonardo Ai,Direct / Affiliate.Watch,AI,Global,60% Commission,30,Check Terms,No,No,Yes,Research (Scraped),Web: https://leonardo.ai | AI Rating: 85.18
 AW-1464,Synthesia,Direct / Affiliate.Watch,AI,Global,25% Commission For 1 Year,60,Check Terms,No,No,Yes,Research (Scraped),Web: https://synthesia.io | AI Rating: 84.92
@@ -58,13 +58,13 @@ AW-1200,Draw3D,Direct / Affiliate.Watch,AI,Global,Up To $6 Per Sale,7,Check Term
 AW-1500,Durable,Direct / Affiliate.Watch,AI,Global,25% Recurring Commission,,Check Terms,No,No,Yes,Research (Scraped),Web: https://durable.co | AI Rating: 63.46
 AW-1163,Bright Data,Direct / Affiliate.Watch,PROXY,Global,50% Revenue Share,90,Check Terms,No,No,Yes,Removed (Requires Consent Ticket),Removed: Requires custom ticket permission before PPC.
 AW-321,Surfshark,Direct / Affiliate.Watch,PROXY,Global,40% Commission,30,Check Terms,No,No,Yes,Research (Scraped),Web: https://surfshark.com | AI Rating: 87.62
-AW-1537,Webshare,Direct / Affiliate.Watch,PROXY,Global,50% 1st Month /  10% Life,30,Yes (Non-Brand),No,No,Yes,Active (Approved),Link: https://www.webshare.io/?referral_code=6nm31jjeri4v | 50% 1st month + 10% ongoing.
+AW-1537,Webshare,Direct / Affiliate.Watch,PROXY,Global,50% 1st Month / 10% Life,30,Yes (Flexible Non-Brand PPC),No (Section 8 Restrictions),No,Yes,Active (Launching Campaign),Link: https://www.webshare.io/?referral_code=6nm31jjeri4v | 50% 1st Month + 10% Lifetime. BE-CPC $0.62, Target CPC $0.50. Score: 87/100 (TEST NOW).
 AW-551,IP2Location,Direct / Affiliate.Watch,PROXY,Global,10% Recurring Commission,3650,Check Terms,No,No,Yes,Research (Scraped),Web: https://ip2location.com | AI Rating: 83.13
 AW-697,X-VPN,Direct / Affiliate.Watch,PROXY,Global,30-100% Commission / 30% For Life,30,Check Terms,No,No,Yes,Research (Scraped),Web: https://xvpn.io | AI Rating: 83.04
 AW-890,Oxylabs,Direct / Affiliate.Watch,PROXY,Global,50% Commission + Recurring,30,Check Terms,No,No,Yes,Research (Scraped),Web: https://oxylabs.io | AI Rating: 82.31
 AW-829,Proxy-Seller,Direct / Affiliate.Watch,PROXY,Global,30% Commission / 10% For Life,365,HOLD (Needs Written Consent),No,No,Yes,HOLD (Pending PPC Consent),KYC Verified. Request forwarded to Affiliate Dept by Julia. Awaiting Affiliate Manager contact.
 AW-2260,711Proxy,Direct / Affiliate.Watch,PROXY,Global,10% Lifetime Commission,365,Check Terms,No,No,Yes,Research (Scraped),Web: https://www.711proxy.com | AI Rating: 79.08
-AW-688,TorGuard,Direct / Affiliate.Watch,PROXY,Global,30% Recurring Commissions,60,Check Terms,No,No,Yes,Research (Scraped),Web: https://torguard.net | AI Rating: 78.85
+AW-688,TorGuard,Direct / Affiliate.Watch,PROXY,Global,30% Recurring Commissions,60,Check Terms,No,No,Yes,Research (Scraped),Web: https://torgnrd.net | AI Rating: 78.85
 AW-1070,Proxy-Sale,Direct / Affiliate.Watch,PROXY,Global,30% Commission,365,Check Terms,No,No,Yes,Research (Scraped),Web: https://proxy-sale.com | AI Rating: 74.76
 AW-192,PrivateVPN,Direct / Affiliate.Watch,PROXY,Global,Up to 30% Commission,60,Check Terms,No,No,Yes,Research (Scraped),Web: https://privatevpn.com | AI Rating: 73.70
 AW-293,Infatica,Direct / Affiliate.Watch,PROXY,Global,10-30% Recurring Commission,90,Check Terms,No,No,Yes,Research (Scraped),Web: https://infatica.io | AI Rating: 72.64
@@ -97,12 +97,27 @@ AW-19,NordVPN,Direct / Affiliate.Watch,VPN,Global,Up To $50 Per Sale + Residuals
 AW-526,Ivacy,Direct / Affiliate.Watch,VPN,Global,40%-100% 1st Month / 35% Life,90,Check Terms,No,No,Yes,Research (Scraped),Web: https://ivacy.com | AI Rating: 79.56
 AW-335,CyberGhost VPN,Direct / Affiliate.Watch,VPN,Global,Up To 100% In Commisson,,Check Terms,No,No,Yes,Research (Scraped),Web: https://cyberghostvpn.com | AI Rating: 70.38
 AW-66,FastestVPN,Direct / Affiliate.Watch,VPN,Global,60-100% Commission / 35% For Life,,Check Terms,No,No,Yes,Research (Scraped),Web: https://fastestvpn.com | AI Rating: 67.15
-RED-001,Join,Reditus,SAAS,Global,40%,30,Yes,No,No,Yes,Active (Approved),Approved on Reditus.
-RED-002,Algomo,Reditus,AI / SAAS,Global,25%,30,Yes,No,No,Yes,Active (Approved),Approved on Reditus.
-RED-003,Clonable,Reditus,SAAS,Global,20%,30,Yes,No,No,Yes,Active (Approved),Approved on Reditus.
-RED-004,WarmupInbox,Reditus,EMAIL / SAAS,Global,20%,30,Yes,No,No,Yes,Active (Approved),Approved on Reditus.
-RED-005,Compass,Reditus,ANALYTICS / SAAS,Global,20%,30,Yes,No,No,Yes,Active (Approved),Approved on Reditus.
-RED-006,Audiorista,Reditus,AUDIO / SAAS,Global,20%,30,Yes,No,No,Yes,Active (Approved),Approved on Reditus.
-RED-007,Page Pulse,Reditus,AI / SAAS,Global,20-30%,30,Yes,No,No,Yes,Active (Approved),Approved on Reditus. Link: https://getpagepulse.io/?red=verify | Top 6 on TAAFT.
-OFFER-011,Kyma API,Rewardful/Direct,AI Gateway / API,Global,12% (18 mos),60,Yes,No,No,Yes,Active (Launching Campaign),Link: https://kymaapi.com?aff=jwMwqhd | 12% recurring (18 mos) + $0.50 credit on 1M+ token usage. BE-CPC $0.90, Target CPC $0.60. Requires real users (1M+ tokens to verify).
+RED-001,Reditus Platform,Reditus,SAAS,Global,30% (24 mos),30,Yes (All Paid Ads),Yes,No,Yes,Active (Approved),Link: https://www.getreditus.com/?red=verify | All paid ads allowed. 30% recurring for 24 months. 30-day cookie.
+RED-002,Algomo,Reditus,AI / SAAS,Global,25%,30,Yes (Non-Brand Only),No,No,Yes,Active (Approved),Paid search ads allowed EXCEPT on brand name. 25% recurring.
+RED-003,Clonable,Reditus,SAAS,Global,20%,30,Yes (Non-Brand Only),No,No,Yes,Active (Approved),Paid search ads allowed EXCEPT on brand name. 20% recurring.
+RED-004,WarmupInbox,Reditus,EMAIL / SAAS,Global,20%,60,No (🚫 Paid Ads Not Allowed),No,No,Yes,Rejected (No PPC Allowed),WarmupInbox explicitly forbids paid ads. Requires organic promotion only.
+RED-005,Compass,Reditus,ANALYTICS / SAAS,Global,20%,30,Yes (Non-Brand Only),No,No,Yes,Active (Approved),Paid search ads allowed EXCEPT on brand name. 20% recurring.
+RED-008,Billing Now,Reditus,ACCOUNTING / SAAS,Global,35% (36 mos),90,Yes (All Paid Ads),Yes,No,Yes,Active (Approved),Link: https://billingnow.com/?red=verify | All Paid Ads Allowed. 35% recurring for 36 months. 90-day cookie.
+RED-006,Audiorista,Reditus,AUDIO / SAAS,Global,20%,30,Yes (All Paid Ads),Yes,No,Yes,Active (Approved),All Paid Ads Allowed. 20% recurring.
+RED-007,Page Pulse,Reditus,AI / SAAS,Global,20-30%,30,No (🚫 Paid Ads Not Allowed),No,No,Yes,Rejected (No PPC Allowed),Page Pulse explicitly forbids paid ads. Requires organic promotion only.
+OFFER-011,Kyma API,Rewardful/Direct,AI Gateway / API,Global,12% (18 mos),60,Yes (Non-Brand PPC),No,No,Yes,Active (Running Ads),Link: https://kymaapi.com?aff=jwMwqhd | 12% recurring (18 mos). Campaign deployed on best-ai-tools.html & Google Ads Editor CSV ready.
 OFFER-012,Affitor Refer Program,Direct / Affitor,SaaS Affiliate Network,Global,$50 + $350 + 15% recurring,90,Yes,No,No,Yes,Research (High ROI),Web: https://affitor.com/marketplace/referral-program | $50 on launch + $350 at $10k sales + 15% fees for 12 mos. Auto Accept.
+OFFER-013,Skimlinks,Skimlinks,B2C E-commerce,Global,2-5%,30,No,No,No,Yes,Rejected,Rejected due to focus on B2C Commerce/Retail instead of B2B SaaS. No impact on AGOS B2B campaigns.
+OFFER-014,Wix,Impact,Website Builder,Global,$100+ Per Premium Sale,30,Yes (Non-Brand Landing Page),No,No,Yes,Pending (Submitted via Impact),Application submitted via Impact.com survey completed using verifyreviews.net. Waiting for approval.
+OFFER-015,Base44 (by Wix),Impact,AI Web App Builder,Global,Recurring / Tiered Commission,30,Yes (Non-Brand Landing Page),No,No,Yes,Rejected (Auto-declined on Impact),Declined automatically by Impact bot criteria. No impact on active B2B campaigns.
+SCORE-87,Webshare Proxy,Scored,Niche,Webshare Proxy,Global,-,26/30 score,-,-,-,-,-,Yes,No,No,Yes,87,Research,"Scored automatically: size=9, trend=9, intent=14, comp=8, cost=8"
+RED-009,Search Atlas,Reditus,SEO / MARKETING,Global,30% Lifetime,60,No (🚫 Paid Ads Not Allowed),No,No,Yes,Rejected (No PPC Allowed),Search Atlas explicitly forbids paid ads. Requires organic promotion only.
+RED-010,involve.me,Reditus,AI FUNNELS / MARKETING,Global,30% Lifetime,60,Yes (Check Policy),No,No,Yes,Research (High Converting),Web: https://involve.me | AI Quiz Funnels & Interactive Lead Gen. 30% Lifetime recurring. Cookie 60d.
+RED-011,Omnimind,Reditus,AI AGENTS / SAAS,Global,30% Lifetime,60,No (🚫 Paid Ads Not Allowed),No,No,Yes,Rejected (No PPC Allowed),Omnimind explicitly forbids paid ads. Requires organic promotion only.
+RED-012,Leavo,Reditus,HR / SAAS,Global,35% (36 mos),90,Yes (Check Policy),No,No,Yes,Research (HR Niche),Web: https://leavo.app | Leave Management HR Software. 35% for 36 months. Cookie 90d.
+RED-013,Kosmic AI,Reditus,AI / SAAS,Global,20-30% Lifetime,30,No (🚫 Paid Ads Not Allowed),No,No,Yes,Rejected (No PPC Allowed),Kosmic AI explicitly forbids paid ads. Requires organic promotion only.
+RED-014,BabyLoveGrowth.ai,Reditus,AI / MARKETING,Global,25% (12 mos),60,Yes (All Paid Ads),Yes,No,Yes,Active (Approved),Link: https://www.babylovegrowth.ai/?red=verify | All paid ads allowed. 25% recurring for 12 months. Cookie 60d.
+RED-015,AhaSlides,Reditus,PRODUCTIVITY / SAAS,Global,25% (1 mo),30,Yes (All Paid Ads),Yes,No,Yes,Active (Approved),Link: https://ahaslides.com/?red=verify | All paid ads allowed. Tier Search Ads: 25% commission. Cookie 30d.
+RED-016,Woodpecker.co,Reditus,SALES / EMAIL SAAS,Global,20% Lifetime,30,Yes (Non-Brand Only),No,No,Yes,Active (Approved),Link: https://woodpecker.co/?red=verify | Paid search ads allowed EXCEPT on brand name. 20% Lifetime recurring. Cookie 30d.
+RED-017,Signeasy,Reditus,E-SIGNATURE / SAAS,Global,25% (12 mos),60,Yes (Non-Brand Only),No,No,Yes,Active (Approved),Link: https://signeasy.com/?red=verify | Paid search ads allowed EXCEPT on brand name. 25% recurring for 12 months. Cookie 60d.
+SCORE-92,Billing Now,Scored,Niche,Billing Now,Global,-,30/30 score,-,-,-,-,-,Yes,No,No,Yes,92,Research,"Scored automatically: size=9, trend=9, intent=14, comp=8, cost=8"

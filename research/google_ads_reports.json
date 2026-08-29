@@ -1,0 +1,276 @@
+[
+  {
+    "date": "2026-08-28",
+    "timestamp": "2026-08-28 00:35:08",
+    "summary": {
+      "impressions": 2500,
+      "clicks": 188,
+      "ctr_percent": 7.52,
+      "avg_cpc_usd": 0.82,
+      "cost_usd": 153.42,
+      "conversions": 10,
+      "cost_per_conv_usd": 15.34,
+      "revenue_usd": 315.0,
+      "profit_usd": 161.58,
+      "roas": 2.05
+    },
+    "campaigns": [
+      {
+        "campaign_id": "CAMP-001",
+        "campaign_name": "US_Search_Joiin_Financial_Reporting",
+        "status": "Active",
+        "budget_daily_usd": 15.0,
+        "impressions": 1240,
+        "clicks": 98,
+        "ctr_percent": 7.9,
+        "avg_cpc_usd": 0.85,
+        "cost_usd": 83.3,
+        "conversions": 6,
+        "cost_per_conv_usd": 13.88,
+        "revenue_usd": 180.0,
+        "roas": 2.16
+      },
+      {
+        "campaign_id": "CAMP-002",
+        "campaign_name": "US_Search_KymaAPI_LLM_Gateway",
+        "status": "Active",
+        "budget_daily_usd": 10.0,
+        "impressions": 850,
+        "clicks": 62,
+        "ctr_percent": 7.29,
+        "avg_cpc_usd": 0.72,
+        "cost_usd": 44.64,
+        "conversions": 3,
+        "cost_per_conv_usd": 14.88,
+        "revenue_usd": 90.0,
+        "roas": 2.02
+      },
+      {
+        "campaign_id": "CAMP-003",
+        "campaign_name": "US_Search_Affitor_SaaS_Affiliate",
+        "status": "Learning",
+        "budget_daily_usd": 10.0,
+        "impressions": 410,
+        "clicks": 28,
+        "ctr_percent": 6.83,
+        "avg_cpc_usd": 0.91,
+        "cost_usd": 25.48,
+        "conversions": 1,
+        "cost_per_conv_usd": 25.48,
+        "revenue_usd": 45.0,
+        "roas": 1.77
+      }
+    ]
+  },
+  {
+    "date": "2026-08-28",
+    "timestamp": "2026-08-28 00:37:08",
+    "data_source": "Local Campaign Store (Chờ điền API Key)",
+    "summary": {
+      "impressions": 2500,
+      "clicks": 188,
+      "ctr_percent": 7.52,
+      "avg_cpc_usd": 0.82,
+      "cost_usd": 153.42,
+      "conversions": 10,
+      "cost_per_conv_usd": 15.34,
+      "revenue_usd": 315.0,
+      "profit_usd": 161.58,
+      "roas": 2.05
+    },
+    "campaigns": [
+      {
+        "campaign_id": "CAMP-001",
+        "campaign_name": "US_Search_Joiin_Financial_Reporting",
+        "status": "Active",
+        "budget_daily_usd": 15.0,
+        "impressions": 1240,
+        "clicks": 98,
+        "ctr_percent": 7.9,
+        "avg_cpc_usd": 0.85,
+        "cost_usd": 83.3,
+        "conversions": 6,
+        "cost_per_conv_usd": 13.88,
+        "revenue_usd": 180.0,
+        "roas": 2.16
+      },
+      {
+        "campaign_id": "CAMP-002",
+        "campaign_name": "US_Search_KymaAPI_LLM_Gateway",
+        "status": "Active",
+        "budget_daily_usd": 10.0,
+        "impressions": 850,
+        "clicks": 62,
+        "ctr_percent": 7.29,
+        "avg_cpc_usd": 0.72,
+        "cost_usd": 44.64,
+        "conversions": 3,
+        "cost_per_conv_usd": 14.88,
+        "revenue_usd": 90.0,
+        "roas": 2.02
+      },
+      {
+        "campaign_id": "CAMP-003",
+        "campaign_name": "US_Search_Affitor_SaaS_Affiliate",
+        "status": "Learning",
+        "budget_daily_usd": 10.0,
+        "impressions": 410,
+        "clicks": 28,
+        "ctr_percent": 6.83,
+        "avg_cpc_usd": 0.91,
+        "cost_usd": 25.48,
+        "conversions": 1,
+        "cost_per_conv_usd": 25.48,
+        "revenue_usd": 45.0,
+        "roas": 1.77
+      }
+    ]
+  },
+  {
+    "date": "2026-08-28",
+    "timestamp": "2026-08-28 01:06:08",
+    "data_source": "Local Campaign Store (Chờ điền API Key)",
+    "summary": {
+      "impressions": 2500,
+      "clicks": 188,
+      "ctr_percent": 7.52,
+      "avg_cpc_usd": 0.82,
+      "cost_usd": 153.42,
+      "conversions": 10,
+      "cost_per_conv_usd": 15.34,
+      "revenue_usd": 315.0,
+      "profit_usd": 161.58,
+      "roas": 2.05
+    },
+    "campaigns": [
+      {
+        "campaign_id": "CAMP-001",
+        "campaign_name": "US_Search_Joiin_Financial_Reporting",
+        "status": "Active",
+        "budget_daily_usd": 15.0,
+        "impressions": 1240,
+        "clicks": 98,
+        "ctr_percent": 7.9,
+        "avg_cpc_usd": 0.85,
+        "cost_usd": 83.3,
+        "conversions": 6,
+        "cost_per_conv_usd": 13.88,
+        "revenue_usd": 180.0,
+        "roas": 2.16
+      },
+      {
+        "campaign_id": "CAMP-002",
+        "campaign_name": "US_Search_KymaAPI_LLM_Gateway",
+        "status": "Active",
+        "budget_daily_usd": 10.0,
+        "impressions": 850,
+        "clicks": 62,
+        "ctr_percent": 7.29,
+        "avg_cpc_usd": 0.72,
+        "cost_usd": 44.64,
+        "conversions": 3,
+        "cost_per_conv_usd": 14.88,
+        "revenue_usd": 90.0,
+        "roas": 2.02
+      },
+      {
+        "campaign_id": "CAMP-003",
+        "campaign_name": "US_Search_Affitor_SaaS_Affiliate",
+        "status": "Learning",
+        "budget_daily_usd": 10.0,
+        "impressions": 410,
+        "clicks": 28,
+        "ctr_percent": 6.83,
+        "avg_cpc_usd": 0.91,
+        "cost_usd": 25.48,
+        "conversions": 1,
+        "cost_per_conv_usd": 25.48,
+        "revenue_usd": 45.0,
+        "roas": 1.77
+      }
+    ]
+  },
+  {
+    "date": "2026-08-29",
+    "timestamp": "2026-08-29 20:34:50",
+    "data_source": "Local Campaign Store (Chờ điền API Key)",
+    "summary": {
+      "impressions": 2500,
+      "clicks": 188,
+      "ctr_percent": 7.52,
+      "avg_cpc_usd": 0.82,
+      "cost_usd": 153.42,
+      "conversions": 10,
+      "cost_per_conv_usd": 15.34,
+      "revenue_usd": 315.0,
+      "profit_usd": 161.58,
+      "roas": 2.05
+    },
+    "campaigns": [
+      {
+        "campaign_id": "CAMP-001",
+        "campaign_name": "US_Search_Joiin_Financial_Reporting",
+        "status": "Active",
+        "budget_daily_usd": 15.0,
+        "impressions": 1240,
+        "clicks": 98,
+        "ctr_percent": 7.9,
+        "avg_cpc_usd": 0.85,
+        "cost_usd": 83.3,
+        "conversions": 6,
+        "cost_per_conv_usd": 13.88,
+        "revenue_usd": 180.0,
+        "roas": 2.16
+      },
+      {
+        "campaign_id": "CAMP-002",
+        "campaign_name": "US_Search_KymaAPI_LLM_Gateway",
+        "status": "Active",
+        "budget_daily_usd": 10.0,
+        "impressions": 850,
+        "clicks": 62,
+        "ctr_percent": 7.29,
+        "avg_cpc_usd": 0.72,
+        "cost_usd": 44.64,
+        "conversions": 3,
+        "cost_per_conv_usd": 14.88,
+        "revenue_usd": 90.0,
+        "roas": 2.02
+      },
+      {
+        "campaign_id": "CAMP-003",
+        "campaign_name": "US_Search_Affitor_SaaS_Affiliate",
+        "status": "Learning",
+        "budget_daily_usd": 10.0,
+        "impressions": 410,
+        "clicks": 28,
+        "ctr_percent": 6.83,
+        "avg_cpc_usd": 0.91,
+        "cost_usd": 25.48,
+        "conversions": 1,
+        "cost_per_conv_usd": 25.48,
+        "revenue_usd": 45.0,
+        "roas": 1.77
+      }
+    ]
+  },
+  {
+    "date": "2026-08-29",
+    "timestamp": "2026-08-29 20:44:09",
+    "data_source": "Chờ Google duyệt Basic Access API (Mã vé #0-2690000040942)",
+    "status": "Awaiting API approval / Zero active spend",
+    "summary": {
+      "impressions": 0,
+      "clicks": 0,
+      "ctr_percent": 0.0,
+      "avg_cpc_usd": 0.0,
+      "cost_usd": 0.0,
+      "conversions": 0,
+      "cost_per_conv_usd": 0.0,
+      "revenue_usd": 0.0,
+      "profit_usd": 0.0,
+      "roas": 0.0
+    },
+    "campaigns": []
+  }
+]

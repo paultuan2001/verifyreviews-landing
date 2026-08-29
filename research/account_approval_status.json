@@ -1,0 +1,58 @@
+[
+  {
+    "platform": "Google Ads",
+    "account_name": "Account 1 (Search Ads)",
+    "status": "Pending",
+    "last_checked": "2026-08-29 18:40:48",
+    "notes": "Đang chờ xem xét chính sách chiến dịch"
+  },
+  {
+    "platform": "Google Ads API",
+    "account_name": "Basic Access Developer Token (Case #0-2690000040942)",
+    "status": "Pending",
+    "last_checked": "2026-08-29 18:40:48",
+    "notes": "Đã nộp đơn thành công lên Google API Center (Chờ duyệt 1-5 ngày)"
+  },
+  {
+    "platform": "Reditus",
+    "account_name": "Joiin Affiliate Program",
+    "status": "Approved",
+    "last_checked": "2026-08-29 18:40:48",
+    "notes": "Link: https://joiin.co/?red=verify"
+  },
+  {
+    "platform": "FirstPromoter",
+    "account_name": "Affitor Program",
+    "status": "Approved",
+    "last_checked": "2026-08-29 18:40:48",
+    "notes": "Hoạt động bình thường"
+  },
+  {
+    "platform": "Rewardful",
+    "account_name": "Rewardful Network",
+    "status": "Approved",
+    "last_checked": "2026-08-29 18:40:48",
+    "notes": "Đã gắn tracking link"
+  },
+  {
+    "platform": "PartnerStack",
+    "account_name": "ElevenLabs / WarmupInbox",
+    "status": "Approved",
+    "last_checked": "2026-08-29 18:40:48",
+    "notes": "Đã duyệt link affiliate"
+  },
+  {
+    "platform": "BillingNow",
+    "account_name": "BillingNow Affiliate",
+    "status": "Approved",
+    "last_checked": "2026-08-29 18:40:48",
+    "notes": "Link active"
+  },
+  {
+    "platform": "Audiorista",
+    "account_name": "Audiorista Affiliate",
+    "status": "Approved",
+    "last_checked": "2026-08-29 18:40:48",
+    "notes": "Link active"
+  }
+]
