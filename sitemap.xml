@@ -90,4 +90,34 @@
         <changefreq>monthly</changefreq>
         <priority>0.3</priority>
     </url>
+    <url>
+        <loc>https://verifyreviews.net/fathom-vs-syft-analytics.html</loc>
+        <lastmod>2026-08-29</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.95</priority>
+    </url>
+    <url>
+        <loc>https://verifyreviews.net/warmupinbox-vs-instantly-warmup.html</loc>
+        <lastmod>2026-08-29</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.95</priority>
+    </url>
+    <url>
+        <loc>https://verifyreviews.net/elevenlabs-vs-playht.html</loc>
+        <lastmod>2026-08-29</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.95</priority>
+    </url>
+    <url>
+        <loc>https://verifyreviews.net/iproyal-vs-smartproxy.html</loc>
+        <lastmod>2026-08-29</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.95</priority>
+    </url>
+    <url>
+        <loc>https://verifyreviews.net/affitor-vs-rewardful.html</loc>
+        <lastmod>2026-08-29</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.95</priority>
+    </url>
 </urlset>
