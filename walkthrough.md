@@ -130,7 +130,7 @@ Chúng ta đã hoàn thành việc thiết lập hạ tầng, các công cụ t�
    - **Max Bid CPC đặt ra:** **$0.45 - $0.60** (Đảm bảo ROI > 25% - 80%).
 
 2. **Cập nhật Database & Landing Page:**
-   - **[offers_db.csv](file:///Users/claudetest/Documents/Hệ thống%20kiếm%20tiền%20online/Affiliate%20Global/research/offers_db.csv):** Đã cập nhật `AW-1537` sang trạng thái `Active (Launching Campaign)` cùng link Affiliate chính thức `https://www.webshare.io/?referral_code=6nm31jjeri4v`.
+   - **[offers_db.csv](file:///Users/claudetest/Documents/Hệ thống%20kiếm%20tiền%20online/Affiliate%20Global/research/offers_db.csv):** Đã cập nhật `AW-1537` sang trạng thái `Active (Running Ads)` - Chiến dịch `GGL-US-Webshare-01` đã lên sóng trực tiếp trên Google Ads. Link Affiliate chính thức `https://www.webshare.io/?referral_code=6nm31jjeri4v`.
    - **[webshare-proxy-review.html](file:///Users/claudetest/Documents/Hệ thống%20kiếm%20tiền%20online/Affiliate%20Global/webshare-proxy-review.html):** Đã nhúng Banner CTA "Claim 10 Free Proxies Now" kèm mã Google Tag `AW-18408909952` & Conversion event trigger `AW-18408909952/i3vkCJmWxeccEIDZhspE`.
 
 3. **Bộ File Nhập liệu Google Ads Editor (Chuẩn CSV Import):**
