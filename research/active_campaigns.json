@@ -1,0 +1,70 @@
+{
+  "last_updated": "2026-08-29 22:55:00",
+  "active_campaigns_count": 4,
+  "paused_campaigns_count": 2,
+  "total_campaigns_count": 6,
+  "active_projects": [
+    {
+      "stt": 1,
+      "campaign_id": "GGL-US-BillingNow-01",
+      "project_name": "BillingNow",
+      "status": "Active (Running Ads)",
+      "status_vi": "🟢 Bật",
+      "ad_group": "1 nhóm quảng cáo",
+      "niche": "Subscription & Billing Management",
+      "affiliate_link": "https://billingnow.com/?red=verify",
+      "landing_page": "landing-pages/template.html"
+    },
+    {
+      "stt": 2,
+      "campaign_id": "GGL-US-Joiin-01",
+      "project_name": "Joiin",
+      "status": "Active (Running Ads)",
+      "status_vi": "🟢 Bật",
+      "ad_group": "1 nhóm quảng cáo",
+      "niche": "Financial Reporting & Multi-Entity Consolidation",
+      "affiliate_link": "https://joiin.co/?red=verify&utm_source=verify&utm_medium=revshare&utm_affiliate_network=reditus",
+      "landing_page": "joiin-review-financial-consolidation.html"
+    },
+    {
+      "stt": 3,
+      "campaign_id": "GGL-US-KymaAPI-01",
+      "project_name": "Kyma API",
+      "status": "Active (Running Ads)",
+      "status_vi": "🟢 Bật",
+      "ad_group": "1 nhóm quảng cáo",
+      "niche": "LLM API Gateway / AI Tools",
+      "affiliate_link": "https://kymaapi.com?aff=jwMwqhd",
+      "landing_page": "top-ai-api-gateways.html"
+    },
+    {
+      "stt": 4,
+      "campaign_id": "GGL-US-Webshare-01",
+      "project_name": "Webshare",
+      "status": "Active (Running Ads)",
+      "status_vi": "🟢 Bật",
+      "ad_group": "1 nhóm quảng cáo",
+      "niche": "Proxy / Web Scraping",
+      "affiliate_link": "https://www.webshare.io/?referral_code=6nm31jjeri4v",
+      "landing_page": "webshare-proxy-review.html"
+    }
+  ],
+  "paused_projects": [
+    {
+      "campaign_id": "GGL-US-WarmupInbox-01",
+      "project_name": "WarmupInbox",
+      "status": "Paused",
+      "status_vi": "⏸️ Tạm dừng",
+      "ad_group": "1 nhóm quảng cáo",
+      "niche": "Email Warmup",
+      "affiliate_link": "https://www.warmupinbox.com/?red=verify"
+    },
+    {
+      "campaign_id": "Campaign #1",
+      "project_name": "Campaign Default #1",
+      "status": "Paused",
+      "status_vi": "⏸️ Tạm dừng",
+      "ad_group": "1 nhóm quảng cáo"
+    }
+  ]
+}

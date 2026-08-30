@@ -3,70 +3,70 @@
     "platform": "Google Ads",
     "account_name": "Account 1 (Search Ads)",
     "status": "Active (Running Ads)",
-    "last_checked": "2026-08-29 22:51:00",
-    "notes": "3 Chiến dịch đang bật & chạy thực tế: GGL-US-KymaAPI-01, GGL-US-Webshare-01, GGL-US-BillingNow-01"
+    "last_checked": "2026-08-30 21:59:32",
+    "notes": "4 Chiến dịch đang Bật (Active): GGL-US-BillingNow-01, GGL-US-Joiin-01, GGL-US-KymaAPI-01, GGL-US-Webshare-01 | 2 Chiến dịch Tạm dừng: Campaign #1, GGL-US-WarmupInbox-01"
   },
   {
     "platform": "Google Ads API",
     "account_name": "Basic Access Developer Token (Case #0-2690000040942)",
     "status": "Pending",
-    "last_checked": "2026-08-29 22:51:00",
+    "last_checked": "2026-08-30 21:59:32",
     "notes": "Đã nộp đơn thành công lên Google API Center (Chờ duyệt 1-5 ngày)"
   },
   {
     "platform": "Webshare Affiliate",
     "account_name": "Webshare Affiliate Program",
     "status": "Active (Running Ads)",
-    "last_checked": "2026-08-29 22:51:00",
+    "last_checked": "2026-08-30 21:59:32",
     "notes": "Link active: https://www.webshare.io/?referral_code=6nm31jjeri4v | Campaign GGL-US-Webshare-01 active"
   },
   {
     "platform": "BillingNow",
     "account_name": "BillingNow Affiliate",
     "status": "Active (Running Ads)",
-    "last_checked": "2026-08-29 22:51:00",
+    "last_checked": "2026-08-30 21:59:32",
     "notes": "Link active: https://billingnow.com/?red=verify | Campaign GGL-US-BillingNow-01 active"
   },
   {
     "platform": "Kyma API",
     "account_name": "Kyma Rewardful Affiliate",
     "status": "Active (Running Ads)",
-    "last_checked": "2026-08-29 22:51:00",
+    "last_checked": "2026-08-30 21:59:32",
     "notes": "Link active: https://kymaapi.com?aff=jwMwqhd | Campaign GGL-US-KymaAPI-01 active"
   },
   {
     "platform": "Reditus",
     "account_name": "Joiin Affiliate Program",
-    "status": "Approved",
-    "last_checked": "2026-08-29 22:51:00",
-    "notes": "Link: https://joiin.co/?red=verify"
+    "status": "Active (Running Ads)",
+    "last_checked": "2026-08-30 21:59:32",
+    "notes": "Link active: https://joiin.co/?red=verify | Campaign GGL-US-Joiin-01 active"
   },
   {
     "platform": "FirstPromoter",
     "account_name": "Affitor Program",
     "status": "Approved",
-    "last_checked": "2026-08-29 22:51:00",
+    "last_checked": "2026-08-30 21:59:32",
     "notes": "Hoạt động bình thường"
   },
   {
     "platform": "Rewardful",
     "account_name": "Rewardful Network",
     "status": "Approved",
-    "last_checked": "2026-08-29 22:51:00",
+    "last_checked": "2026-08-30 21:59:32",
     "notes": "Đã gắn tracking link"
   },
   {
     "platform": "PartnerStack",
     "account_name": "ElevenLabs / WarmupInbox",
     "status": "Approved",
-    "last_checked": "2026-08-29 22:51:00",
+    "last_checked": "2026-08-30 21:59:32",
     "notes": "Đã duyệt link affiliate"
   },
   {
     "platform": "Audiorista",
     "account_name": "Audiorista Affiliate",
     "status": "Approved",
-    "last_checked": "2026-08-29 22:51:00",
+    "last_checked": "2026-08-30 21:59:32",
     "notes": "Link active"
   }
 ]

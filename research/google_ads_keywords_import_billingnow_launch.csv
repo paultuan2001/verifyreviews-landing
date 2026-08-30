@@ -1,0 +1,10 @@
+Campaign,Ad Group,Keyword,Criterion Type,Max CPC
+GGL-US-BillingNow-01,SaaS Billing Software,best saas billing software,Exact,0.85
+GGL-US-BillingNow-01,SaaS Billing Software,subscription billing management software,Phrase,0.80
+GGL-US-BillingNow-01,SaaS Billing Software,stripe billing alternative,Phrase,0.75
+GGL-US-BillingNow-01,SaaS Billing Software,automated saas invoicing platform,Phrase,0.75
+GGL-US-BillingNow-01,SaaS Billing Software,multi currency saas billing engine,Phrase,0.70
+GGL-US-BillingNow-01,Recurring Invoicing Tool,recurring invoicing software for business,Exact,0.80
+GGL-US-BillingNow-01,Recurring Invoicing Tool,recurring revenue management software,Phrase,0.75
+GGL-US-BillingNow-01,Recurring Invoicing Tool,automated subscription payment software,Phrase,0.75
+GGL-US-BillingNow-01,Recurring Invoicing Tool,dunning management software saas,Phrase,0.70
