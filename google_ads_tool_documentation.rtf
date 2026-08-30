@@ -1,0 +1,32 @@
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fcharset0 Arial;}}
+{\colortbl ;\red0\green102\blue204;\red51\green51\blue51;}
+\viewkind4\uc1\b\f0\fs32\cf1 GOOGLE ADS API INTERNAL REPORTING TOOL DOCUMENTATION\cf0\b0\fs24\par
+\par
+\b Document Version:\b0  1.0\par
+\b Date:\b0  August 28, 2026\par
+\b Target Audience:\b0  Internal Marketing & Analytics Team\par
+\b Application Name:\b0  AGOS Ads Integration\par
+\b Google Cloud Project Number:\b0  333545484002\par
+\par
+\hr\par
+\b 1. OVERVIEW & PURPOSE\b0\par
+The AGOS Ads Integration tool is a read-only internal reporting application designed to fetch daily performance metrics from our Google Ads Search campaigns. The tool helps our team monitor campaign efficiency, budgets, conversion rates, and Return on Ad Spend (ROAS) without performing any write or automated bidding modifications to the account.\par
+\par
+\b 2. KEY FEATURES & CAPABILITIES\b0\par
+- \b Daily Metrics Aggregation:\b0  Fetches Impressions, Clicks, Average CPC, Click-Through Rate (CTR), Cost, Conversions, Cost Per Conversion (CPA), and Conversion Value (Revenue).\par
+- \b Read-Only Operations:\b0  The tool only executes GAQL read queries (`GoogleAdsService.Search`) and does NOT make any changes to campaigns, ad groups, ads, or account settings.\par
+- \b Internal Data Logging:\b0  Results are summarized internally to assist marketing decision-making.\par
+\par
+\b 3. TECHNICAL ARCHITECTURE & API USAGE\b0\par
+- \b Authentication:\b0  OAuth 2.0 Web Application credentials with offline refresh token authentication.\par
+- \b API Endpoint:\b0  `googleads.googleapis.com/v25/services/GoogleAdsService/Search`\par
+- \b Query Example (GAQL):\b0\par
+  SELECT campaign.id, campaign.name, campaign.status, campaign_budget.amount_micros, metrics.impressions, metrics.clicks, metrics.ctr, metrics.average_cpc, metrics.cost_micros, metrics.conversions, metrics.conversions_value FROM campaign WHERE segments.date DURING TODAY\par
+\par
+\b 4. ACCESS CONTROL & SECURITY\b0\par
+- \b Access Scope:\b0  Restricted strictly to internal company operators and analytics team.\par
+- \b Data Privacy:\b0  All credentials and API tokens are securely stored in local environment configuration files (`google-ads.yaml`). No data is shared with external third parties.\par
+\par
+\b 5. CONCLUSION\b0\par
+AGOS Ads Integration strictly complies with Google Ads API Center policies for read-only reporting tools. Approval of Basic Access for our Developer Token will enable automated internal daily reporting.\par
+}

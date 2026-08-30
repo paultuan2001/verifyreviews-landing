@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-08-29 22:55:00",
-  "active_campaigns_count": 4,
+  "last_updated": "2026-08-30 22:53:00",
+  "active_campaigns_count": 6,
   "paused_campaigns_count": 2,
-  "total_campaigns_count": 6,
+  "total_campaigns_count": 8,
   "active_projects": [
     {
       "stt": 1,
@@ -39,6 +39,28 @@
     },
     {
       "stt": 4,
+      "campaign_id": "GGL-US-Leavo-01",
+      "project_name": "Leavo",
+      "status": "Active (Running Ads)",
+      "status_vi": "🟢 Bật",
+      "ad_group": "1 nhóm quảng cáo",
+      "niche": "HR & Leave Management SaaS",
+      "affiliate_link": "https://leavo.app/?red=verify",
+      "landing_page": "landing-pages/template.html"
+    },
+    {
+      "stt": 5,
+      "campaign_id": "GGL-US-Reditus-01",
+      "project_name": "Reditus",
+      "status": "Active (Running Ads)",
+      "status_vi": "🟢 Bật",
+      "ad_group": "1 nhóm quảng cáo",
+      "niche": "SaaS Affiliate Network & Marketplace",
+      "affiliate_link": "https://www.getreditus.com/?red=verify",
+      "landing_page": "landing-pages/template.html"
+    },
+    {
+      "stt": 6,
       "campaign_id": "GGL-US-Webshare-01",
       "project_name": "Webshare",
       "status": "Active (Running Ads)",

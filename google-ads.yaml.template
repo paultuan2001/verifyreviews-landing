@@ -1,0 +1,14 @@
+# ============================================================
+# GOOGLE ADS API CONFIGURATION TEMPLATE
+# ============================================================
+# Hướng dẫn: 
+# 1. Copy file này thành google-ads.yaml (cùng thư mục)
+# 2. Điền đầy đủ thông tin credentials từ Google Cloud Console & Google Ads Manager Account (MCC)
+# ============================================================
+
+developer_token: "YOUR_DEVELOPER_TOKEN"
+client_id: "YOUR_OAUTH2_CLIENT_ID.apps.googleusercontent.com"
+client_secret: "YOUR_OAUTH2_CLIENT_SECRET"
+refresh_token: "YOUR_OAUTH2_REFRESH_TOKEN"
+login_customer_id: "YOUR_MCC_ACCOUNT_ID_WITHOUT_DASHES"
+use_proto_plus: true

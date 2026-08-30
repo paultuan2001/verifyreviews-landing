@@ -139,3 +139,22 @@ Chúng ta đã hoàn thành việc thiết lập hạ tầng, các công cụ t�
    - **[google_ads_responsive_search_ads_webshare.csv](file:///Users/claudetest/Documents/Hệ thống%20kiếm%20tiền%20online/Affiliate%20Global/research/google_ads_responsive_search_ads_webshare.csv):** 15 Tiêu đề & 4 Mô tả đạt Ad Strength "Excellent" cho 2 nhóm quảng cáo (*Residential Proxies* & *Scraping Datacenter Proxies*).
 
 ---
+
+## 🎯 Danh sách 6 Dự án đang chạy Quảng cáo Thực tế (Google Ads Active Campaigns)
+
+Dựa trên dữ liệu cập nhật từ tài khoản Google Ads thực tế (8 chiến dịch: 6 Bật, 2 Tạm dừng):
+
+| STT | Tên chiến dịch Google Ads | Dự án / Thương hiệu | Lĩnh vực (Niche) | Trạng thái | Số nhóm QC | Nguồn / Affiliate Link |
+|---|---|---|---|---|---|---|
+| 1 | `GGL-US-BillingNow-01` | **BillingNow** | Subscription & Billing Management | 🟢 **Bật (Active)** | 1 nhóm | `https://billingnow.com/?red=verify` |
+| 2 | `GGL-US-Joiin-01` | **Joiin** | Financial Reporting & Consolidation | 🟢 **Bật (Active)** | 1 nhóm | `https://joiin.co/?red=verify` |
+| 3 | `GGL-US-KymaAPI-01` | **Kyma API** | LLM API Gateway / AI Infrastructure | 🟢 **Bật (Active)** | 1 nhóm | `https://kymaapi.com?aff=jwMwqhd` |
+| 4 | `GGL-US-Leavo-01` | **Leavo** | HR & Leave Management SaaS | 🟢 **Bật (Active)** | 1 nhóm | `https://leavo.app/?red=verify` |
+| 5 | `GGL-US-Reditus-01` | **Reditus** | SaaS Affiliate Network & Marketplace | 🟢 **Bật (Active)** | 1 nhóm | `https://www.getreditus.com/?red=verify` |
+| 6 | `GGL-US-Webshare-01` | **Webshare** | Proxy & Data Scraping | 🟢 **Bật (Active)** | 1 nhóm | `https://www.webshare.io/?referral_code=6nm31jjeri4v` |
+
+### ⏸️ Các chiến dịch tạm dừng (Paused):
+* `GGL-US-WarmupInbox-01` (WarmupInbox - Email Warmup) — 1 nhóm quảng cáo (⏸️ Tạm dừng)
+* `Campaign #1` (Chiến dịch mặc định) — 1 nhóm quảng cáo (⏸️ Tạm dừng)
+
+
