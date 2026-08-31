@@ -56,13 +56,13 @@ Chúng ta đã hoàn thành việc thiết lập hạ tầng, các công cụ t�
 ## 🚀 Tự động hóa Lịch trình & Tích hợp Google Ads Live API (Hạ tầng mới bổ sung)
 
 ### 1. Thiết lập 2 Lịch trình Chạy ngầm Định kỳ (Cron Schedules)
-*   **Task #18 - Lịch kiểm tra trạng thái duyệt tài khoản Ads/Affiliate:**
+*   **Task #195 - Lịch kiểm tra trạng thái duyệt tài khoản Ads/Affiliate:**
     *   **Tần suất:** Hàng ngày vào lúc **09:00 AM** (`0 9 * * *`).
     *   **Công cụ thực thi:** [`tools/account_approval_checker.py`](file:///Users/claudetest/Documents/He%CC%A3%CC%82%20tho%CC%82%CC%81ng%20kie%CC%82%CC%81m%20tie%CC%82%CC%80n%20online/Affiliate%20Global/tools/account_approval_checker.py)
     *   **Dữ liệu theo dõi:** [`research/account_approval_status.json`](file:///Users/claudetest/Documents/He%CC%A3%CC%82%20tho%CC%82%CC%81ng%20kie%CC%82%CC%81m%20tie%CC%82%CC%80n%20online/Affiliate%20Global/research/account_approval_status.json)
-    *   **Nhiệm vụ:** Tự động quét trạng thái phê duyệt (*Approved / Pending / Suspended*) của tài khoản Google Ads và các mạng lưới Affiliate (Reditus, FirstPromoter, Rewardful, PartnerStack, BillingNow, Audiorista...).
+    *   **Nhiệm vụ:** Tự động quét trạng thái phê duyệt (*Approved / Pending / Suspended*) của tài khoản Google Ads và các mạng lưới Affiliate.
 
-*   **Task #42 - Lịch báo cáo hiệu suất Google Ads định kỳ:**
+*   **Task #197 - Lịch báo cáo hiệu suất Google Ads định kỳ:**
     *   **Tần suất:** Hàng ngày vào lúc **20:00 (8:00 PM)** (`0 20 * * *`).
     *   **Công cụ thực thi:** [`tools/google_ads_reporter.py`](file:///Users/claudetest/Documents/He%CC%A3%CC%82%20tho%CC%82%CC%81ng%20kie%CC%82%CC%81m%20tie%CC%82%CC%80n%20online/Affiliate%20Global/tools/google_ads_reporter.py)
     *   **Dữ liệu lưu trữ:** [`research/google_ads_reports.json`](file:///Users/claudetest/Documents/He%CC%A3%CC%82%20tho%CC%82%CC%81ng%20kie%CC%82%CC%81m%20tie%CC%82%CC%80n%20online/Affiliate%20Global/research/google_ads_reports.json)
@@ -70,91 +70,39 @@ Chúng ta đã hoàn thành việc thiết lập hạ tầng, các công cụ t�
 
 ---
 
-### 2. Tiến trình Tích hợp Google Ads API chính thức (GAQL Query Engine)
+## 🎯 Danh sách các Dự án đang chạy Quảng cáo & Đã được Duyệt (Approved Affiliate Programs)
 
-#### A. Khởi tạo Tài khoản MCC & Đã cấp Quyền Google Auth Platform
-1. **Tài khoản MCC**: Khởi tạo tài khoản Người quản lý **AGOS Manager** (ID: `8216221817`).
-2. **Google Cloud Console**: Khởi tạo Dự án Cloud `#333545484002`, bật Google Ads API, cấu hình OAuth Consent Screen & OAuth Client ID.
-3. **OAuth 2.0 Token Exchange**: Đăng ký User thử nghiệm `paultuan2001@gmail.com`, trao đổi thành công Mã Refresh Token thông qua Google OAuth 2.0 Playground.
-
-#### B. Cấu hình File [`google-ads.yaml`](file:///Users/claudetest/Documents/He%CC%A3%CC%82%20tho%CC%82%CC%81ng%20kie%CC%82%CC%81m%20tie%CC%82%CC%80n%20online/Affiliate%20Global/google-ads.yaml)
-Đã khởi tạo và lưu trữ đầy đủ 5 thông số xác thực bảo mật:
-*   `developer_token: [REDACTED_DEV_TOKEN]`
-*   `client_id: [REDACTED_CLIENT_ID].apps.googleusercontent.com`
-*   `client_secret: [REDACTED_CLIENT_SECRET]`
-*   `refresh_token: [REDACTED_REFRESH_TOKEN]`
-*   `login_customer_id: 8216221817` (ID Tài khoản MCC **AGOS Manager**)
-
-#### C. Thư viện & Script điều khiển API
-*   [`tools/google_ads_api_client.py`](file:///Users/claudetest/Documents/He%CC%A3%CC%82%20tho%CC%82%CC%81ng%20kie%CC%82%CC%81m%20tie%CC%82%CC%80n%20online/Affiliate%20Global/tools/google_ads_api_client.py): Kết nối trực tiếp với cổng gRPC Server `googleads.googleapis.com` thông qua truy vấn ngôn ngữ GAQL.
-*   **Xác thực gRPC:** Đã test thực tế trên Terminal, xác thực thành công Access Token và gửi request thành công tới `/google.ads.googleads.v25.services.GoogleAdsService/Search`.
-
-#### D. Nộp đơn xin cấp Quyền truy cập Cơ bản (Basic Access Application)
-*   **Tài liệu Hồ sơ Kỹ thuật:** Khởi tạo [`google_ads_tool_documentation.doc`](file:///Users/claudetest/Documents/He%CC%A3%CC%82%20tho%CC%82%CC%81ng%20kie%CC%82%CC%81m%20tie%CC%82%CC%80n%20online/Affiliate%20Global/google_ads_tool_documentation.doc) mô tả kiến trúc ứng dụng đọc báo cáo nội bộ.
-*   **Nộp Đơn thành công:** Đã nộp thành công Đơn xin cấp phép **Basic Access** lên Google Ads API Center (`Your email has been sent`).
-*   **Cơ chế Chuyển đổi Tự động:** Hệ thống báo cáo định kỳ sẽ tự động chuyển đổi từ dữ liệu dự phòng sang dữ liệu thời gian thực (Live Google Ads API) ngay khi Google phê duyệt nâng cấp Token.
+### 1. 6 Dự án đang Bật Quảng cáo Trực tiếp (Google Ads Active Campaigns)
+| STT | Tên chiến dịch Google Ads | Dự án / Thương hiệu | Lĩnh vực (Niche) | Trạng thái | Nguồn / Affiliate Link |
+|---|---|---|---|---|---|
+| 1 | `GGL-US-BillingNow-01` | **BillingNow** | Subscription Management | 🟢 **Active** | `https://billingnow.com/?red=verify` |
+| 2 | `GGL-US-Joiin-01` | **Joiin** | Financial Reporting | 🟢 **Active** | `https://joiin.co/?red=verify` |
+| 3 | `GGL-US-KymaAPI-01` | **Kyma API** | LLM API Gateway | 🟢 **Active** | `https://kymaapi.com?aff=jwMwqhd` |
+| 4 | `GGL-US-Leavo-01` | **Leavo** | HR & Leave SaaS | 🟢 **Active** | `https://leavo.app/?red=verify` |
+| 5 | `GGL-US-Reditus-01` | **Reditus** | Affiliate Marketplace | 🟢 **Active** | `https://www.getreditus.com/?red=verify` |
+| 6 | `GGL-US-Webshare-01` | **Webshare** | Proxy & Data Scraping | 🟢 **Active** | `https://www.webshare.io/?referral_code=6nm31jjeri4v` |
 
 ---
 
-## Báo cáo kiểm thử & Nghiệm thu (Validation Results)
+### 2. 4 Dự án mới Phê duyệt trên Reditus (Approved & Ready to Launch)
 
-1.  **Chạy thử Economics Calculator**:
-    *   *Câu lệnh*: `python3 tools/economics_calculator.py --commission 60 --cvr 2.0 --cpc 0.50 --budget 150`
-    *   *Kết quả*: Thành công. Output hiển thị chuẩn xác BE-CPC = $1.20, dự kiến ROI 140% và in ra ma trận trực quan.
-2.  **Chạy thử Compliance Checker**:
-    *   *Câu lệnh*: `python3 tools/compliance_checker.py research/mock_terms.txt`
-    *   *Kết quả*: Phát hiện chính xác các quy tắc brand bidding, direct linking, và disclosure yêu cầu trong file điều khoản, phân tích đưa ra kết luận mức độ rủi ro chính xác.
-3.  **Chạy thử Project Scorer (Chấm điểm Sơn Piaz)**:
-    *   *Câu lệnh*: `python3 tools/project_scorer.py --name "WP Engine Hosting" --size 8 --trend 9 --comm 12 --rec 14 --intent 13 --comp 7 --cost 8 --compliance 9 --ai 4`
-    *   *Kết quả*: Thành công. Đạt tổng điểm `84/100` -> Đề xuất đề xuất `TEST NGAY (TEST NOW) 🚀`. Dự án tự động được thêm vào dòng số 5 của [offers_db.csv](file:///Users/claudetest/Documents/Hệ thống%20kiếm%20tiền%20online/Affiliate%20Global/research/offers_db.csv).
-4.  **Chạy thử Keyword Classifier (Phân loại từ khóa)**:
-    *   *Câu lệnh*: `python3 tools/keyword_classifier.py research/keywords_input.txt`
-    *   *Kết quả*: Phân loại 12 từ khóa mẫu: 6 từ khóa Conversion (Chạy Ads chính), 2 từ khóa Education (SEO) và phát hiện 4 từ khóa Phủ định (Negative). Lưu output thành công tại `research/keywords_input_classified.csv`.
-5.  **Chạy thử Master Orchestrator (Alphabet Soup Scraper & Classifier)**:
-    *   *Câu lệnh*: `python3 tools/keyword_workflow_orchestrator.py --seed "get ex back" --campaign "GGL-US-ExFactor-01" --adgroup "No Contact"`
-    *   *Kết quả*: Thành công. Cào được **267 từ khóa duy nhất** từ Google Autocomplete, tự động phân loại thành **6 từ khóa nhắm mục tiêu** (chứa *best*, *best way to get ex girlfriend back*) và **4 từ khóa phủ định** (chứa *free*). Các file CSV nhập liệu Google Ads đã được xuất trong thư mục `research/`.
-6.  **Chạy thử Google Ads Live API Integration Client**:
-    *   *Câu lệnh*: `python3 tools/google_ads_api_client.py`
-    *   *Kết quả*: Khởi tạo kết nối gRPC thành công tới `googleads.googleapis.com`, đọc cấu hình chuẩn xác từ [`google-ads.yaml`](file:///Users/claudetest/Documents/He%CC%A3%CC%82%20tho%CC%82%CC%81ng%20kie%CC%82%CC%81m%20tie%CC%82%CC%80n%20online/Affiliate%20Global/google-ads.yaml).
+| STT | Dự án | Lĩnh vực (Category) | Mức hoa hồng (Commission) | Thời hạn hoa hồng | Hạn Cookie | Mức thanh toán min | Chính sách Quảng cáo Trả phí (Paid Ads Policy) | Affiliate Tracking Link |
+|---|---|---|---|---|---|---|---|---|
+| **1** | **Signeasy** | Business / E-Signature | **25%** | 12 tháng | 60 ngày | $50 | ⚠️ Cho phép Search Ads, **CẤM Brand Bidding** | `https://signeasy.com/?red=verify` |
+| **2** | **Woodpecker.co** | Sales / Email SaaS | **20%** | **Lifetime (Trọn đời)** | 30 ngày | $100 | ⚠️ Cho phép Search Ads, **CẤM Brand Bidding** | `https://woodpecker.co/?red=verify` |
+| **3** | **AhaSlides** | Productivity / Presentations | **25%** | 1 tháng (Search ads tier) | 30 ngày | $50 | ✅ **Cho phép TẤT CẢ các loại Paid Ads** | `https://ahaslides.com/?red=verify&utm_source=verify&utm_medium=revshare` |
+| **4** | **BabyLoveGrowth.ai** | Marketing / AI Growth | **25%** | 12 tháng | 60 ngày | $80 | ✅ **Cho phép TẤT CẢ các loại Paid Ads** | `https://www.babylovegrowth.ai/?red=verify` |
 
----
-
-## Báo cáo Đánh giá & Khởi tạo Chiến dịch Google Ads cho Webshare Proxy (`GGL-US-Webshare-01`)
-
-Đã hoàn thành toàn bộ công tác chấm điểm, phân tích tài chính và tạo bộ tài sản quảng cáo cho **Webshare Proxy (AW-1537)** theo quy trình AGOS:
-
-1. **Kết quả Đánh giá Điểm số (AGOS Project Scorer):**
-   - **Tổng điểm:** **`87/100`** ➔ **Hành động đề xuất:** `TEST NGAY (TEST NOW) 🚀`.
-   - **Hoa hồng:** 50% doanh thu tháng đầu + 10% trọn đời (LTV kỳ vọng: $25.00/customer).
-   - **Break-even CPC (BE-CPC):** **$0.62** (với CVR 2.5%).
-   - **Max Bid CPC đặt ra:** **$0.45 - $0.60** (Đảm bảo ROI > 25% - 80%).
-
-2. **Cập nhật Database & Landing Page:**
-   - **[offers_db.csv](file:///Users/claudetest/Documents/Hệ thống%20kiếm%20tiền%20online/Affiliate%20Global/research/offers_db.csv):** Đã cập nhật `AW-1537` sang trạng thái `Active (Running Ads)` - Chiến dịch `GGL-US-Webshare-01` đã lên sóng trực tiếp trên Google Ads. Link Affiliate chính thức `https://www.webshare.io/?referral_code=6nm31jjeri4v`.
-   - **[webshare-proxy-review.html](file:///Users/claudetest/Documents/Hệ thống%20kiếm%20tiền%20online/Affiliate%20Global/webshare-proxy-review.html):** Đã nhúng Banner CTA "Claim 10 Free Proxies Now" kèm mã Google Tag `AW-18408909952` & Conversion event trigger `AW-18408909952/i3vkCJmWxeccEIDZhspE`.
-
-3. **Bộ File Nhập liệu Google Ads Editor (Chuẩn CSV Import):**
-   - **[google_ads_keywords_import_webshare_launch.csv](file:///Users/claudetest/Documents/Hệ thống%20kiếm%20tiền%20online/Affiliate%20Global/research/google_ads_keywords_import_webshare_launch.csv):** 8 từ khóa nhắm mục tiêu Non-Brand High-Intent (Residential Proxies & Datacenter Scraping Proxies).
-   - **[google_ads_negatives_import_webshare_launch.csv](file:///Users/claudetest/Documents/Hệ thống%20kiếm%20tiền%20online/Affiliate%20Global/research/google_ads_negatives_import_webshare_launch.csv):** 7 từ khóa phủ định loại trừ rủi ro brand bidding (`webshare`, `webshare io`, `free crack`, `mod apk`, `job salary`).
-   - **[google_ads_responsive_search_ads_webshare.csv](file:///Users/claudetest/Documents/Hệ thống%20kiếm%20tiền%20online/Affiliate%20Global/research/google_ads_responsive_search_ads_webshare.csv):** 15 Tiêu đề & 4 Mô tả đạt Ad Strength "Excellent" cho 2 nhóm quảng cáo (*Residential Proxies* & *Scraping Datacenter Proxies*).
-
----
-
-## 🎯 Danh sách 6 Dự án đang chạy Quảng cáo Thực tế (Google Ads Active Campaigns)
-
-Dựa trên dữ liệu cập nhật từ tài khoản Google Ads thực tế (8 chiến dịch: 6 Bật, 2 Tạm dừng):
-
-| STT | Tên chiến dịch Google Ads | Dự án / Thương hiệu | Lĩnh vực (Niche) | Trạng thái | Số nhóm QC | Nguồn / Affiliate Link |
-|---|---|---|---|---|---|---|
-| 1 | `GGL-US-BillingNow-01` | **BillingNow** | Subscription & Billing Management | 🟢 **Bật (Active)** | 1 nhóm | `https://billingnow.com/?red=verify` |
-| 2 | `GGL-US-Joiin-01` | **Joiin** | Financial Reporting & Consolidation | 🟢 **Bật (Active)** | 1 nhóm | `https://joiin.co/?red=verify` |
-| 3 | `GGL-US-KymaAPI-01` | **Kyma API** | LLM API Gateway / AI Infrastructure | 🟢 **Bật (Active)** | 1 nhóm | `https://kymaapi.com?aff=jwMwqhd` |
-| 4 | `GGL-US-Leavo-01` | **Leavo** | HR & Leave Management SaaS | 🟢 **Bật (Active)** | 1 nhóm | `https://leavo.app/?red=verify` |
-| 5 | `GGL-US-Reditus-01` | **Reditus** | SaaS Affiliate Network & Marketplace | 🟢 **Bật (Active)** | 1 nhóm | `https://www.getreditus.com/?red=verify` |
-| 6 | `GGL-US-Webshare-01` | **Webshare** | Proxy & Data Scraping | 🟢 **Bật (Active)** | 1 nhóm | `https://www.webshare.io/?referral_code=6nm31jjeri4v` |
-
-### ⏸️ Các chiến dịch tạm dừng (Paused):
-* `GGL-US-WarmupInbox-01` (WarmupInbox - Email Warmup) — 1 nhóm quảng cáo (⏸️ Tạm dừng)
-* `Campaign #1` (Chiến dịch mặc định) — 1 nhóm quảng cáo (⏸️ Tạm dừng)
-
-
+#### 🛠️ Chi tiết Điều khoản & Hướng triển khai Quảng cáo (Strategy):
+1. **Signeasy (`https://signeasy.com/?red=verify`)**:
+   - **Hoa hồng:** 25% kéo dài 12 tháng. Min payout $50.
+   - **Chính sách PPC:** ⚠️ Cho phép Search Ads nhưng cấm Brand Bidding (`signeasy`). Bắt buộc thêm `signeasy` làm negative keyword. Dẫn traffic về Landing Page so sánh giải pháp E-Signature.
+2. **Woodpecker.co (`https://woodpecker.co/?red=verify`)**:
+   - **Hoa hồng:** 20% **Lifetime (Trọn đời)**. Min payout $100.
+   - **Chính sách PPC:** ⚠️ Cho phép Search Ads ngoại trừ từ khóa thương hiệu (`woodpecker`). Giá trị LTV rất cao từ doanh thu lặp lại trọn đời.
+3. **AhaSlides (`https://ahaslides.com/?red=verify&utm_source=verify&utm_medium=revshare`)**:
+   - **Hoa hồng:** 25% (Tier Search ads). Min payout $50.
+   - **Chính sách PPC:** ✅ Cho phép TẤT CẢ hình thức quảng cáo trả phí (kể cả Paid Search).
+4. **BabyLoveGrowth.ai (`https://www.babylovegrowth.ai/?red=verify`)**:
+   - **Hoa hồng:** 25% kéo dài 12 tháng. Min payout $80.
+   - **Chính sách PPC:** ✅ Cho phép TẤT CẢ hình thức Paid Ads.

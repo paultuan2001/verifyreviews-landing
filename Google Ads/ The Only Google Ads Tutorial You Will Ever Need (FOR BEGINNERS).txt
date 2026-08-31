@@ -1,0 +1,567 @@
+- Có chuyện gì vậy? Tên tôi là Simon. Và trong video này, tôi sẽ chỉ cho bạn mọi điều bạn cần biết để bắt đầu chạy Google Ads thành công.
+Đây có lẽ là một trong những video có giá trị nhất của tôi cho đến nay, bởi vì điều tôi sắp dạy bạn trong video này là điều mà tôi đã trả rất nhiều tiền để
+học thông qua các khóa học từ những người đang kiếm được hơn 100.000 đô la mỗi tháng bằng cách sử dụng Quảng cáo của Google.
+Và bây giờ, tôi sẽ cung cấp nó hoàn toàn miễn phí trong video này. Đây là hướng dẫn đầy đủ từ A đến Z,
+khóa học từng bước về Google Ads. Vì vậy, nếu bạn đang tìm video hướng dẫn chính xác cách thiết lập Google Ads một cách chính xác
+để bạn trả ít nhất có thể cho nhiều khách hàng nhất có thể thì hãy tiếp tục xem.
+Đây là video hoàn hảo dành cho bạn. Và nếu đây là lần đầu tiên bạn xem một trong những video của tôi thì chào mừng bạn đến với kênh của tôi.
+Tên tôi là Simon và tôi tạo video về cách phát triển doanh nghiệp của bạn bằng các chiến lược thực tế. Trong video của tôi, bạn luôn nhận được thông tin tốt nhất
+và không bao giờ giữ lại bất cứ điều gì. Vì vậy nếu bạn muốn xem thêm những video tương tự như video này thì hãy đăng ký kênh nhé.
+Để bạn không bỏ lỡ bất kỳ video nào sắp tới. Bây giờ, tôi biết rằng việc thiết lập Google Ads đầu tiên của bạn có thể
+khá khó khăn vì cuối cùng bạn sẽ phải chi tiền cho quảng cáo. Vì vậy, nếu bạn không thiết lập nó một cách chính xác,
+bạn có thể sẽ mất rất nhiều tiền. Vì vậy tôi thực sự khuyên bạn nên xem hết video này .
+Vậy là bạn đã thực sự hiểu cách Google Ads thực sự hoạt động và cách thiết lập nó một cách chính xác. Tôi biết đây là một video dài hơn một chút,
+nhưng tôi hứa với bạn rằng khi kết thúc video, bạn sẽ biết hơn 90% số người thực sự đang chạy Google Ads
+và bạn sẽ tiết kiệm được rất nhiều thời gian, tiền bạc và công sức về lâu dài. Ngoài ra, ở cuối video này,
+tôi sẽ chia sẻ với bạn một số mẹo chuyên nghiệp về cách giảm giá mỗi nhấp chuột và tăng tỷ lệ chuyển đổi.
+Vì vậy, bạn sẽ kiếm được nhiều tiền hơn. Vì vậy, chúng ta đừng lãng phí thời gian nữa và hãy bắt đầu ngay.
+Được rồi. Chào mừng đến với máy tính của tôi. Trước khi bắt đầu với hướng dẫn thực tế, tôi muốn giải thích một số điều.
+Vì vậy, điều đầu tiên là nếu tôi nói quá chậm hoặc quá nhanh, bạn luôn có thể thay đổi tốc độ của video.
+Chỉ cần đi xuống phía dưới bên phải màn hình video của bạn để đến cài đặt video, nơi bạn có thể thay đổi tốc độ thành 1,25 nếu tôi nói quá chậm
+hoặc thành 0,75 nếu tôi nói quá nhanh chẳng hạn. Ngoài ra, tôi sẽ để lại dấu thời gian
+cho tất cả các chủ đề tôi đề cập trong video này trong phần mô tả video bên dưới hoặc bạn chỉ cần di chuột qua phần tiến trình của video
+và sau đó bạn cũng sẽ thấy chủ đề mà tôi đang nói đến trong phần cụ thể của video.
+Vì vậy, nếu điều gì đó bạn đã biết hoặc bạn chỉ muốn xem bỏ qua hoặc muốn quay lại một phần nhất định, chỉ cần di chuột qua thanh tiến trình
+rồi nhấp vào phần bạn đang tìm kiếm. Ngoài ra, nếu bạn có bất kỳ câu hỏi nào trong suốt video,
+hãy nhớ để lại phần bình luận bên dưới vì tôi thực sự cố gắng đi vào phần bình luận và sau đó trả lời các câu hỏi của bạn ở đó.
+Vì vậy, hãy đảm bảo rằng nếu bạn có bất kỳ câu hỏi nào, chỉ cần để lại bên dưới phần bình luận và có thể tất cả những người khác
+biết về Google Ads sẽ đến và giúp đỡ bạn. Đây có thể giống như một phần cộng đồng bên dưới phần bình luận để chúng ta có thể giúp đỡ lẫn nhau.
+Ngoài ra, nếu bạn thấy điều này thực sự hữu ích ở bất kỳ thời điểm nào, vui lòng cho video này một lượt thích vì nó thực sự giúp ích cho video.
+Để nhiều người có thể tìm thấy nó hơn và nó cũng giúp ích cho kênh của tôi. Để mình có thể tạo thêm nhiều video cho các bạn nhé.
+Vì vậy, như đã nói, hãy bắt đầu vào phần hướng dẫn. Được rồi. Vì vậy, điều đầu tiên tôi muốn nói đến là cách Google Ads
+thực sự hoạt động và lý do tại sao chúng lại mạnh mẽ đến vậy. Tôi biết nhiều bạn đã biết điều này, nhưng tôi muốn tất cả chúng ta bắt đầu từ cùng một trang
+và tôi muốn chúng ta nói về những điều tương tự sau trong phần hướng dẫn. Giả sử tôi đang muốn mua một chiếc đồng hồ bằng gỗ mới
+vì bạn tôi thích đồng hồ bằng gỗ, tôi muốn mua một chiếc cho anh ấy nhân dịp sinh nhật. Vì vậy tôi vào Google và gõ vào chiếc đồng hồ bằng gỗ.
+Đồng hồ bằng gỗ là từ khóa của tôi. Mọi người gõ từ khóa vào thanh tìm kiếm của Google. Và sau đó Google cung cấp cho tôi kết quả tìm kiếm dựa
+trên nội dung tôi nhập vào thanh tìm kiếm. Vì vậy, đây là những kết quả tìm kiếm mà cá nhân tôi đưa ra
+khi tôi gõ đồng hồ bằng gỗ. Vì vậy, khi xem xét kỹ các kết quả tìm kiếm đó, chúng tôi nhận thấy rằng ở phía trước URL
+xuất hiện là quảng cáo. Vì vậy, nó hiển thị quảng cáo ở phía trước URL, điều đó có nghĩa là ai đó đã trả tiền
+để xuất hiện ở đây trên trang đầu tiên của Google khi ai đó gõ đồng hồ bằng gỗ. Điều tương tự với kết quả tìm kiếm thứ hai
+cũng cho biết quảng cáo. Khi chúng tôi xem kết quả tìm kiếm thứ ba, bạn sẽ thấy rằng nó không có quảng cáo ở phía trước URL,
+điều đó có nghĩa rằng đây là kết quả tìm kiếm không phải trả tiền. Vì vậy không ai trả tiền để xuất hiện ở đây trên kết quả tìm kiếm.
+Người sở hữu trang web này chỉ là, hoặc trang web này là thứ mà Google cho là phù hợp nhất
+với tìm kiếm của tôi ở đây với từ khóa mà tôi gõ vào Google.
+Vì vậy, ở đây đối với từ khóa cụ thể này, chúng tôi có hai quảng cáo và sau đó chúng tôi có kết quả tìm kiếm không phải trả tiền đầu tiên.
+Khi bạn truy cập trang thứ hai của Google hoặc khi cuộn xuống hết trang đầu tiên, bạn thậm chí có thể thấy nhiều quảng cáo hơn hoặc trên một số trang,
+bạn cũng thấy quảng cáo mua sắm nơi bạn thấy các sản phẩm cụ thể ở đầu Google. Nhưng trong hướng dẫn này, tôi sẽ chỉ cho bạn chính xác
+cách thiết lập một trong những quảng cáo này tại đây. Vậy làm cách nào bạn có thể trả tiền để xuất hiện trước mặt mọi người
+khi họ nhập những từ khóa cụ thể có liên quan đến những gì bạn đang cung cấp cho sản phẩm cụ thể của mình.
+Bây giờ, điều gì xảy ra khi ai đó nhấp vào quảng cáo của bạn và điều gì xảy ra khi tôi nhấp
+vào trang web cụ thể này? Chà, đối với tôi, một người chỉ đang tìm kiếm một chiếc đồng hồ bằng gỗ, tôi thực sự không nhận thấy rằng đây là một quảng cáo
+vì tôi sẽ truy cập vào cửa hàng trực tuyến của trang web cụ thể này, đó là TruWood.
+Và sau đó tôi có thể đi và mua đồng hồ của mình. Nhưng đối với nhà quảng cáo đặt quảng cáo này ở đây,
+họ sẽ phải trả tiền cho cú nhấp chuột của tôi. Vì vậy, với mỗi nhấp chuột nhận được, với mỗi nhấp chuột mà quảng cáo này nhận được, họ có thể trả 50 xu,
+họ có thể trả 1 đô la, họ có thể trả 2 đô la hoặc thậm chí 4 đô la, tùy thuộc vào những gì họ đang đặt giá thầu
+và tùy thuộc vào những gì Google nói và họ nên trả , nhưng thông tin thêm về cách hoạt động của tính năng này,
+bạn phải trả bao nhiêu cho mỗi nhấp chuột ở phần sau của phần hướng dẫn. Vì vậy, giả sử anh ấy trả 1 đô la cho mỗi nhấp chuột
+mà anh ấy nhận được vào quảng cáo này. Vì vậy, với 50 lần nhấp chuột, anh ấy sẽ trả 50 USD.
+Nhưng giả sử cứ sau 50 lần nhấp chuột, một trong những người nhấp vào quảng cáo này sẽ mua một chiếc đồng hồ mới.
+Và với mỗi chiếc đồng hồ mà cửa hàng này bán, họ kiếm được lợi nhuận, giả sử là 80 đô la.
+Vì vậy, với mỗi 50 lần nhấp chuột, họ phải trả 50 USD cho Google, nhưng họ kiếm lại được 80 USD vì họ bán được một chiếc đồng hồ.
+Vì vậy, họ có tỷ suất lợi nhuận là 30 đô la. Đó là cách bạn có thể thực hiện quảng cáo trả phí tốt trên Google
+và quảng cáo có lợi nhuận. Bạn chỉ cần đảm bảo rằng bạn nhận được nhiều lợi ích hơn
+từ khách hàng từ những lần nhấp chuột của mình so với số tiền bạn phải trả cho những lần nhấp chuột của mình. Và trong suốt hướng dẫn,
+tôi sẽ chỉ cho bạn cách nhận được chi phí thấp nhất có thể cho số lần nhấp chuột của bạn và tỷ lệ chuyển đổi cao nhất.
+Vậy tại sao Google Ads lại mạnh mẽ đến vậy? Vâng, lý do là vì có ý định của người mua đằng
+sau những từ khóa cụ thể. Vì vậy, chẳng hạn như khi chúng ta so sánh quảng cáo trên Facebook với Quảng cáo của Google,
+đó là một điều hoàn toàn khác vì trên Facebook, giả sử, tôi chỉ, tôi chán. Tôi vào Facebook, tôi lướt,
+có thể tôi muốn xem bạn bè mình đang làm gì, có thể tôi muốn xem một số video hài hước về mèo. Vì vậy, tôi không có nhiều khả năng tiếp tục và mua một cái gì đó.
+Vì vậy tôi muốn xem quảng cáo về một chiếc đồng hồ da. Tôi không có nhiều khả năng thực sự mua nó. Nhưng với Google, khi tôi gõ đồng hồ da hiện đại,
+tôi đã sẵn sàng, tôi thực sự quan tâm đến một chiếc đồng hồ da hiện đại. Có lẽ tôi đang tìm mua nó
+hoặc khi tôi gõ vào một cửa hàng đồng hồ da hiện đại, những thứ tương tự,
+thì rất có thể tôi sẽ muốn tìm một cửa hàng và sau đó tôi muốn tiêu tiền ở cửa hàng đó.
+Vì vậy những từ khóa này rất có giá trị. Vì vậy, bạn thực sự có thể giới thiệu ưu đãi, dịch vụ,
+sản phẩm của mình trước những người đang thực sự tìm kiếm những gì bạn đang cung cấp. Đó là lý do tại sao Quảng cáo Google lại mạnh mẽ đến vậy.
+Và trong hướng dẫn này, tôi sẽ chỉ cho bạn cách thiết lập quảng cáo Google cho những từ khóa cụ thể
+có liên quan đến sản phẩm hoặc dịch vụ mà bạn đang bán. Được rồi. Vì vậy, bây giờ chúng ta đã hiểu cách Google Ads hoạt động,
+hãy tạo cho mình một tài khoản Google Ads mới. Tôi thực sự khuyên bạn rằng đối với mỗi doanh nghiệp hoặc mỗi cửa hàng mà bạn có,
+bạn nên thiết lập một tài khoản Google Ads mới để thực sự không làm xáo trộn mọi thứ với các sản phẩm khác của mình
+nếu bạn có nhiều doanh nghiệp. Vì vậy, điều bạn cũng có thể làm là nếu bạn nhập thứ gì đó như tín dụng Google Ads 100,
+thứ gì đó tương tự, thì bạn có thể tìm thấy một số loại phiếu thưởng Google Ads mà về cơ bản bạn có thể nhận được một số tiền miễn phí.
+Khi bạn chi khoảng 150 đô la ở đây, Google sẽ cung cấp cho bạn thêm 150 đô la để chi cho quảng cáo.
+Vì vậy, về cơ bản, tôi nhận được lưu lượng truy cập miễn phí. Điều này không chỉ, điều này không có sẵn ở tất cả các quốc gia. Vì vậy, bạn có thể thấy ở đây,
+nó chỉ có ở Hoa Kỳ. Và cá nhân tôi sống ở Thụy Sĩ và tôi không tìm thấy thứ gì như thế cho mình.
+Điều duy nhất tôi tìm thấy là đôi khi tôi nhận được quảng cáo từ Google và sau đó họ đưa ra cho tôi khoảng 100 Franc Thụy Sĩ.
+Vì vậy, hãy đảm bảo bạn có thể kiểm tra xem tính năng này có áp dụng cho quốc gia của bạn hay không, nhưng cá nhân
+tôi sẽ đăng ký một tài khoản Google Ads mới mà không có bất kỳ lợi ích nào trong số này tại đây.
+Vì vậy, tôi sẽ nhấp vào bắt đầu ngay bây giờ và bạn phải có tài khoản Google.
+Vì vậy, bạn phải có tài khoản Gmail để đăng ký Google Ads. Nhưng nếu bạn chưa có tài khoản Gmail thì cũng đừng lo lắng.
+Bạn chỉ có thể tạo một cái mới ngay tại đây. Được rồi. Vì vậy, đây là những gì bạn thấy khi đăng nhập lần đầu
+vào tài khoản Google Ads của mình. Như bạn có thể thấy ở đây, Google ngay lập tức muốn chúng tôi thiết lập chiến dịch đầu tiên và thiết lập các quảng cáo đầu tiên của mình.
+Và trước khi làm điều đó, chúng ta sẽ xem nhanh cách thiết lập tài khoản Google Ads
+vì đây là điều mà tôi phải mất một thời gian dài mới hiểu được. Nhưng khi tôi hiểu cách thiết lập tài khoản Google Ads của mình và mọi thứ thực sự được cấu trúc như thế nào,
+mọi việc trở nên dễ dàng hơn rất nhiều. Vì vậy, tôi thực sự muốn bạn hiểu điều này và tôi sẽ tiếp tục tham khảo lại
+hình ảnh này ngay tại đây để giúp bạn thực sự hiểu cách thiết lập tài khoản cũng như cách cấu trúc quảng cáo của mình một cách chính xác.
+Vì vậy, những gì chúng tôi vừa làm là thiết lập tài khoản Google Ads và lớp tiếp theo là chiến dịch.
+Vì vậy, tài khoản Google Ads của bạn có thể có nhiều chiến dịch. Bạn có thể có các chiến dịch tìm kiếm, bạn có thể có các chiến dịch mua sắm, nên có nhiều loại quảng cáo khác nhau.
+Bạn cũng có thể có các chiến dịch khác nhau cho các loại sản phẩm khác nhau. Vì vậy, đây là lớp đầu tiên, cách bạn có thể cấu trúc quảng cáo của mình.
+Vì vậy, trước khi đi sâu hơn vào các nhóm quảng cáo và thực sự là quảng cáo, chúng ta sẽ nhanh chóng tạo chiến dịch đầu tiên của mình.
+Sau đó, tôi sẽ quay lại vấn đề này và sẽ giải thích thêm về cách hoạt động của các nhóm quảng cáo
+cũng như cách hoạt động của các quảng cáo và từ khóa khác nhau. Ví dụ: đối với hướng dẫn này,
+tôi sẽ tạo quảng cáo cho một cửa hàng trực tuyến bán máy đo nồng độ oxy.
+Máy đo oxy là thứ tôi đã bán năm ngoái, đây chỉ là một sản phẩm mà bạn có thể đặt trên ngón tay và sau đó nó sẽ cho bạn biết độ bão hòa oxy
+trong máu cũng như nhịp tim của bạn. Đây là thứ tôi đã bán thông qua Google Ads vào năm ngoái.
+Và vì tôi đã đóng cửa cửa hàng nên sau này tôi sẽ sử dụng tài khoản Google Ads này
+để cho bạn xem thêm một số chiến lược và chiến thuật. Và tôi cũng sẽ lấy điều này làm ví dụ
+để bắt đầu một tài khoản Google Ads mới. Vì vậy, hãy quay lại tài khoản Google Ads của chúng ta.
+Và điều bạn thấy ở đây là Google cố gắng hướng dẫn bạn cách thiết lập chiến dịch đầu tiên của bạn.
+Điều này thực sự dành cho những người không biết họ đang làm gì. Vì vậy, những gì chúng ta sẽ làm là cuộn xuống và nhấp vào chuyển sang chế độ chuyên gia
+vì điều này sẽ cho chúng ta toàn quyền kiểm soát chiến dịch của mình. Vì vậy hãy nhấp vào chuyển sang chế độ chuyên gia.
+Và sau đó chúng tôi đến trang tiếp theo, nơi Google cố gắng hướng dẫn chúng tôi thiết lập chiến dịch của mình.
+Vì vậy, họ hỏi chúng tôi, chúng tôi có muốn có doanh số bán hàng, khách hàng tiềm năng, lưu lượng truy cập vào trang web không? Mục tiêu chiến dịch của chúng ta là gì?
+Nhưng một lần nữa, ở đây, chúng ta sẽ nhấp vào phía dưới bên phải nơi có dòng chữ, tạo một chiến dịch mà không cần hướng dẫn về mục tiêu,
+bởi vì điều này một lần nữa sẽ cho chúng ta toàn quyền kiểm soát chiến dịch của mình. Vì vậy, hãy nhấp vào đây và sau đó chúng tôi có thể quyết định
+loại quảng cáo nào chúng tôi muốn thiết lập. Chúng tôi đã thấy quảng cáo tìm kiếm này ngay tại đây,
+đó là nếu bạn nhập một từ khóa vào Google và sau đó bạn thấy những quảng cáo văn bản này có quảng cáo ở phía trước, đây là quảng cáo tìm kiếm và
+đây chính xác là những gì chúng tôi sẽ làm cài đặt. Bạn cũng có các khả năng khác, chẳng hạn như
+đây là những quảng cáo mua sắm hướng trực tiếp đến một sản phẩm cụ thể. Và việc thiết lập này phức tạp hơn một chút
+và tôi sẽ không trình bày nó trong video này. Đây chính là quảng cáo mua sắm. Bạn phải thành lập trung tâm thương mại
+và tất cả những thứ đó. Vì vậy chúng tôi sẽ không làm điều đó. Ngoài ra, quảng cáo hiển thị hình ảnh, đó không thực sự là lưu lượng truy cập có mục đích của người mua,
+bởi vì điều này tương tự như quảng cáo trên Facebook nơi mọi người chỉ cần cuộn qua một trang nội dung
+nơi họ xem nội dung và sau đó họ sẽ chỉ, quảng cáo của bạn sẽ bật lên. Vì vậy, ý định của người mua đối với việc mọi người xem quảng cáo của bạn sẽ ít hơn rất nhiều
+. Bạn cũng có quảng cáo video để đặt trên quảng cáo ứng dụng YouTube
+nếu bạn đang bán một ứng dụng, v.v. Nhưng một lần nữa, chúng ta sẽ tập trung vào quảng cáo tìm kiếm. Có khá nhiều cách dễ dàng nhất
+và đơn giản nhất để thiết lập. Và cũng là một trong những quảng cáo mạnh mẽ nhất. Vậy hãy nhấp vào quảng cáo tìm kiếm
+và sau đó chúng ta muốn nhận được kết quả gì? Vì vậy, chúng tôi muốn có lưu lượng truy cập vào trang web của chúng tôi.
+Chúng tôi muốn nhận được các nhấp chuột dẫn đến trang đích, có thể đến trang nơi bạn có thông tin liên hệ
+nếu bạn có thể là văn phòng luật sư và bạn muốn có khách hàng mới. Vì vậy, bất cứ điều gì bạn muốn đưa mọi người đến,
+bạn có thể nhấp vào lượt truy cập trang web và sau đó bạn có thể nhập trang web của mình. Vì vậy, hãy lấy một ví dụ,
+trang web của tôi là oximeterstore.com/fingertip-oximeter.
+Vì vậy, tôi sẽ gửi chúng trực tiếp đến trang sản phẩm. Và như bạn có thể thấy, trang web này không tồn tại.
+Tôi không biết có ai sở hữu trang web này không, thực ra đó chỉ là một ví dụ. Vì vậy, sau đó bạn có thể nhấp vào tiếp tục.
+Và bây giờ, chúng ta có thể đặt tên cho chiến dịch của mình. Vì vậy, tên chiến dịch chúng ta sẽ đặt là chiến dịch tìm kiếm
+vì đây là quảng cáo tìm kiếm, chiến dịch tìm kiếm. Và sau đó tôi cũng sẽ đặt SKAG,
+viết tắt của nhóm quảng cáo từ khóa đơn, bởi vì chúng tôi sẽ nhắm mục tiêu quảng cáo cụ thể, từ khóa cụ thể
+với các nhóm quảng cáo của mình, nhưng sẽ nói thêm về điều đó sau. Và đây là phiên bản một vì cuối cùng,
+chúng ta sẽ có nhiều phiên bản. Và bước tiếp theo là mạng. Ở đây, tôi muốn giới thiệu nếu bạn mới bắt đầu
+sử dụng cả hai thứ này. Nếu sau này bạn không nhận đủ lưu lượng truy cập,
+bạn có thể quay lại đây và bật mạng tìm kiếm. Đây là loại trang web khác
+cũng cung cấp mạng tìm kiếm, họ cũng có thể hiển thị quảng cáo của bạn. Nhưng lúc đầu,
+tôi chỉ muốn xuất hiện trên lưu lượng tìm kiếm của Google. Vậy nên tôi sẽ gỡ cái này ra. Và cũng như mạng hiển thị,
+tôi sẽ luôn chọn mạng hiển thị, bởi vì một lần nữa, đây không thực sự là lưu lượng truy cập có mục đích tìm kiếm hoặc lưu lượng truy cập có mục đích của người mua.
+Vì vậy, hãy cởi bỏ cả hai thứ này. Và sau đó bạn có thể vào để hiển thị thêm cài đặt.
+Bạn cũng có thể cung cấp ngày bắt đầu và ngày kết thúc cho quảng cáo của mình. Vì vậy, có thể bạn muốn thiết lập quảng cáo cho tháng tới và bạn sẽ không quay lại tài khoản quảng cáo của mình.
+Nhưng theo tôi, điều đó thực sự không thực tế vì khi bạn thiết lập quảng cáo trả phí, bạn có thể sẽ quay lại
+tài khoản quảng cáo của mình ít nhất một lần một tuần. Vì vậy, theo ý kiến ​​​​của tôi, tôi sẽ luôn bắt đầu nó từ bây giờ.
+Tôi sẽ làm mọi thứ một cách thủ công. Vì vậy, tôi sẽ bắt đầu nó bằng tay. Tôi sẽ kết thúc nó bằng tay. Vì vậy, ngày bắt đầu là hôm nay và sau đó là ngày kết thúc, không có.
+Nếu quảng cáo không hoạt động, tôi sẽ tắt nó theo cách thủ công. Và tôi cũng thực sự khuyên bạn nên làm điều đó.
+Đừng để quảng cáo của bạn chạy trong nhiều tuần mà không kiểm tra chúng vì thẻ tín dụng của bạn sẽ bị tính phí
+và thậm chí bạn không biết liệu quảng cáo của mình có thực sự chuyển đổi hay không. Đúng vậy. Sau đó, tùy chọn URL chiến dịch, chúng tôi sẽ bỏ qua phần đó.
+Quảng cáo tìm kiếm động cũng vậy, chúng tôi sẽ bỏ qua nó. Lên lịch, nếu bạn chỉ muốn quảng cáo của mình hiển thị
+vào một thời điểm cụ thể, bạn có thể nhập khung thời gian ngay tại đây.
+Nhưng tôi không thực sự quan tâm khi mọi người mua hàng từ cửa hàng của tôi nên tôi sẽ để nó ở ngay đây.
+Sau đó nhắm mục tiêu đến đối tượng. Cái này quan trọng. Vì vậy, tùy thuộc, vậy khách hàng của bạn ở đâu?
+Nếu bạn đang bán hàng sang Hoa Kỳ thì rõ ràng là bạn muốn thay đổi vì sống ở Thụy Sĩ, theo mặc định là Thụy Sĩ,
+nhưng chẳng hạn, tôi đã bán những máy đo nồng độ oxy này cho Hoa Kỳ. Vì vậy, những gì tôi sẽ làm là nhấp vào, nhập một vị trí khác
+và sau đó tôi nhập Hoa Kỳ. Và sau đó nó sẽ chỉ hiển thị quảng cáo của tôi cho những người ở Hoa Kỳ.
+Bạn cũng có thể, có thể nếu bạn cũng đang bán hàng sang Canada, bạn cũng có thể thêm Canada ngay tại đây,
+nhưng hãy đảm bảo rằng bạn chỉ nhắm mục tiêu đến những khách hàng tốt nhất của mình. Giống như nếu bạn có thể gửi hàng đến Vương quốc Anh
+thì bạn sẽ không muốn hiển thị quảng cáo của mình cho những người sống ở Vương quốc Anh. Vì vậy, giả sử tôi chỉ muốn quảng cáo ở Hoa Kỳ.
+Vậy tôi sẽ chọn cái này. Và sau đó tôi cũng luôn đi đến các tùy chọn vị trí.
+Và ở đây, tôi đảm bảo rằng tôi chọn cái này ở đây, sự hiện diện, những người ở hoặc thường xuyên ở các vị trí được nhắm mục tiêu của bạn,
+bởi vì theo mặc định, đó là sự hiện diện hoặc sự quan tâm. Và nếu bạn thực hiện điều này ngay tại đây, theo mặc định được đề xuất,
+nó cũng sẽ hiển thị quảng cáo của bạn cho những người quan tâm đến quốc gia của bạn. Bạn quan tâm đến Hoa Kỳ. Và tôi chỉ muốn những người đang sống ở Hoa Kỳ
+vì tôi cần vận chuyển sản phẩm của mình đến Hoa Kỳ. Vì vậy tôi sẽ chọn sự hiện diện ngay tại đây. Và sau đó loại trừ, điều này đúng theo mặc định
+và những người ở vị trí bị loại trừ của bạn. Vì vậy, mọi thứ không phải của Hoa Kỳ, quảng cáo sẽ không được hiển thị cho những người đó.
+Sau đó là ngôn ngữ. Rõ ràng đây phải là ngôn ngữ của khách hàng của bạn. Vậy đây là tiếng Anh. Điều này tốt cho tôi.
+Sau đó là khán giả. Điều này chỉ xảy ra nếu bạn đã có khán giả. Vì vậy, khi chúng ta bỏ qua điều đó, chúng ta sẽ không cần điều đó.
+Sau đó lập ngân sách. Đây là cách bạn sẽ trả tiền cho Google vì đã hiển thị quảng cáo cho những nhấp chuột bạn nhận được từ quảng cáo của mình.
+Bây giờ, tôi sẽ chọn loại tiền bạn định dùng để thanh toán cho Google.
+Vì vậy, trong ví dụ của tôi, tôi sống ở Thụy Sĩ. Tôi thanh toán bằng Franc Thụy Sĩ.
+Vì vậy tôi sẽ để nó là Franc Thụy Sĩ. Nếu bạn sống ở Hoa Kỳ, hãy chọn đô la Mỹ.
+Nhưng tiếp theo, đối với hướng dẫn này, vì nó dễ dàng hơn nên tôi sẽ chọn đô la Mỹ,
+nhưng hãy đảm bảo bạn chọn loại tiền
+bạn định thanh toán. Sau đó, chúng tôi cũng có thể xác định ngân sách của mình. Vậy chúng ta muốn bao nhiêu, chúng ta có sẵn sàng chi không?
+Vì vậy, đây là giới hạn trên. Vì vậy, giả sử chúng ta không sẵn sàng chi nhiều hơn vào lúc đầu, có thể là 10 USD.
+Vì vậy, tôi không muốn chi trung bình hơn 10 đô la mỗi ngày.
+Vì vậy, tôi sẽ đặt ngân sách của mình là 10 đô la mỗi ngày. Điều này không có nghĩa là Google
+sẽ chỉ chi 10 USD mỗi ngày. Đôi khi Google sẽ chi hơn 10 USD.
+Đôi khi Google sẽ chi 15 USD. Nhưng nhìn chung, trung bình, Google sẽ không chi trung bình quá 10 USD mỗi ngày.
+Vì vậy, Google sẽ không chi quá 300 USD, 30 ngày trong một tháng, 30 lần 10 USD.
+Vì vậy, đừng ngạc nhiên nếu nó sẽ chi hơn 10 đô la vì đôi khi Google nghĩ, "Được rồi, khả năng hội tụ sẽ tốt hơn vào thứ Hai.
+Vì vậy, tôi sẽ chi nhiều hơn vào thứ Hai." Vì vậy, tôi sẽ bắt đầu với, tôi không biết, ít nhất là 10 đô la
+vì bạn cần có được lưu lượng truy cập. Bạn cần nhận được một số nhấp chuột ngay từ đầu để có thể tối ưu hóa.
+Khi bạn chỉ làm như 1, 2, 3, 5$ thì sẽ rất lâu bạn mới có đủ dữ liệu
+để tối ưu hóa quảng cáo của mình. Vì thời gian đầu có thể bạn sẽ không thu được lợi nhuận từ những quảng cáo đầu tiên
+vì phải tối ưu hóa. Bạn phải tìm đối tượng sẽ chuyển đổi tốt nhất. Bạn phải tìm những quảng cáo tốt nhất.
+Bạn phải tìm những từ khóa tốt nhất. Và đó là lý do tại sao tôi thậm chí sẽ bỏ ra 20 đô la để bắt đầu.
+Vì vậy, hãy bỏ ra 20 đô la và sau đó chuyển sang đặt giá thầu. Bây giờ, đây cũng là một chủ đề lớn.
+Vì vậy, đây là cách Google sẽ tính phí cho các nhấp chuột bạn nhận được trên quảng cáo của mình.
+Vì vậy, bạn có thể có các chiến lược đặt giá thầu khác nhau. Khi mới bắt đầu, việc giữ điều này trên các lần nhấp chuột là điều hợp lý
+vì ngay từ đầu, chúng tôi muốn nhận được dữ liệu. Chúng tôi muốn nhận được số lượt nhấp chuột để có thể biết những nhấp chuột nào sẽ chuyển đổi
+thành khách hàng, những nhấp chuột nào sẽ chuyển đổi thành doanh số bán hàng. Vì vậy, thông thường, bạn chỉ có thể giữ điều này khi bắt đầu nhấp chuột.
+Ngoài ra, bạn muốn thiết lập theo dõi chuyển đổi và tôi sẽ để lại phần hướng dẫn bên dưới trong phần mô tả video để chỉ cho bạn chính xác
+cách thiết lập theo dõi chuyển đổi, hãy sử dụng Google Analytics. Vì vậy, bạn có thể biết chính xác những nhấp chuột nào thực sự dẫn đến việc bán hàng cho một khách hàng mới.
+Vì vậy, khi bạn đã thiết lập theo dõi chuyển đổi, bạn có thể thay đổi tính năng này thành chuyển đổi
+và sau đó Google sẽ tối ưu hóa số nhấp chuột của bạn để bạn nhận được nhiều chuyển đổi nhất có thể
+vì cuối cùng đó là điều giúp bạn kiếm tiền. Sau đó, bạn cũng có thể đặt
+giới hạn giá thầu giá mỗi nhấp chuột tối đa. Bây giờ, trước khi chúng ta đặt ra điều này, tôi muốn giải thích cho bạn cách hoạt động của hệ thống đặt giá thầu,
+bởi vì đây là điều mà nhiều người không hiểu, nhưng theo quan điểm của tôi, đó là điều khá quan trọng cần hiểu .
+Vậy là chúng ta đã thiết lập xong chiến dịch của mình. Hãy tiếp tục ở đây.
+Sau đó, mức giá bạn phải trả cho mỗi lần nhấp chuột là một công thức.
+Vì vậy, đó là thứ hạng quảng cáo của người ở dưới bạn, chia cho điểm chất lượng của bạn, cộng thêm 1 xu.
+Tôi biết điều này nghe có vẻ rất phức tạp và hiện tại bạn chưa hiểu điều này.
+Nhưng hãy kiên nhẫn với tôi ở đây, tôi sẽ giải thích mọi thứ. Vì vậy, giả sử chúng ta có bốn nhà quảng cáo.
+Tất cả đều quảng cáo trên cùng một từ khóa. Vì vậy, hãy nói máy đo oxy đầu ngón tay.
+Tất cả đều quảng cáo về từ khóa cụ thể đó. Giờ đây, mọi nhà quảng cáo đều có thể xác định giá thầu tối đa.
+Vì vậy, đây là những gì chúng ta có thể định nghĩa ở đây. Vì vậy, giả sử giá thầu tối đa của chúng tôi, số tiền chúng tôi sẵn sàng trả,
+mức giá cao nhất chúng tôi sẵn sàng trả cho một nhấp chuột lên quảng cáo của mình là 2 đô la. Chúng tôi không bao giờ muốn trả nhiều hơn $2 cho một cú nhấp chuột.
+Vì vậy, giả sử chúng tôi đang quảng cáo số một ở đây. Sau đó, nhà quảng cáo số hai, anh ta đặt giá trị này là 4 đô la, nhà quảng cáo số ba là 6 đô la
+và nhà quảng cáo số 4 là 8 đô la. Đây là giá thầu tối đa cho số nhấp chuột của chúng tôi. Bây giờ, một điều khác mà bạn nên làm quen là
+cái gọi là điểm chất lượng. Điều này rất, rất, rất quan trọng đối với Google Ads.
+Google cho điểm chất lượng của quảng cáo của bạn từ 1 đến 10, 10 là cao nhất, tốt nhất,
+một là rất tệ. Vì vậy, trong khi Google hiển thị quảng cáo của bạn,
+họ sẽ theo dõi những gì sẽ xảy ra sau đó và sau đó họ sẽ phát triển điểm chất lượng
+cho quảng cáo của bạn. Điểm chất lượng phụ thuộc vào trang đích của bạn, một giây.
+Hãy để tôi kéo mình sang phía bên trái ở đây. Điểm chất lượng phụ thuộc vào trải nghiệm trang đích của bạn.
+Vậy mọi người có thực sự ở lại trang mà bạn đang đưa mọi người tới không? Họ ở lại trang bao lâu?
+Họ đang cuộn à? Có phải họ đang nhấp vào mọi thứ? Vì vậy, đây là trải nghiệm trang đích. Điều này cho Google thấy rằng mọi người thực sự đang tìm thấy
+những gì họ đang tìm kiếm. Google quan tâm đến sự liên quan. Họ muốn giữ người của mình trên nền tảng tìm kiếm
+và họ sẽ làm điều đó bằng cách cung cấp cho mọi người những gì họ muốn. Vì vậy, trải nghiệm trang đích rất quan trọng
+hơn là thêm mức độ liên quan. Nếu quảng cáo của bạn có từ khóa chính xác mà mọi người đang tìm kiếm,
+bạn sẽ nhận được điểm chất lượng cao vì mức độ liên quan của quảng cáo cao. Vì vậy, ví dụ, nếu tôi gõ đồng hồ gỗ ngay tại đây,
+và sau đó nó nói, rồi nó nói, đồng hồ gỗ ngay tại đây. Không biết bạn có xem được không
+thì tôi sẽ nhận được mức độ liên quan cao vì tôi đang tạo quảng cáo cho đúng từ khóa
+mà mọi người đang tìm kiếm. Vì vậy, điều đó cũng rất quan trọng và sau đó là tỷ lệ nhấp dự kiến. Vì vậy, khi Google hiển thị quảng cáo của bạn cho 100 người
+và sau đó giả sử ba trong số 100 người đó nhấp vào quảng cáo của bạn và bạn có tỷ lệ nhấp 3%,
+bây giờ bạn muốn nhận được tỷ lệ nhấp cao nhất có thể vì Google muốn kiếm càng nhiều tiền càng tốt.
+Vì vậy, họ muốn mọi người thực sự nhấp vào quảng cáo vì họ chỉ kiếm tiền khi nhấp vào quảng cáo vì chúng tôi với tư cách là nhà quảng cáo chỉ phải trả tiền
+khi mọi người nhấp vào. Vì vậy, bạn muốn tăng CTR dự kiến,
+tức là tỷ lệ nhấp chuột và bạn thực hiện điều đó bằng cách làm cho quảng cáo của mình phù hợp nhất có thể.
+Vì vậy, hãy sử dụng các từ khóa giống hệt như mọi người tìm kiếm và làm cho nó càng lớn càng tốt.
+Tận dụng tối đa không gian hiển thị trên Google để mọi người có nhiều khả năng nhấp vào quảng cáo của bạn hơn,
+nhưng tôi sẽ chỉ cho bạn mọi thứ trong hướng dẫn này, cách bạn thực sự làm điều đó. Vì vậy, đây là điểm chất lượng.
+Và bây giờ, bây giờ có xếp hạng quảng cáo. Xếp hạng quảng cáo sẽ quyết định nơi quảng cáo của bạn sẽ hiển thị.
+Nhà quảng cáo có xếp hạng quảng cáo cao nhất là người sẽ có được vị trí tốt nhất trên Google. Vì vậy, ở đây, ví dụ, hãy để tôi kéo mình
+sang phía bên phải một lần nữa. Người này ở đây có xếp hạng quảng cáo cao hơn người này ở đây.
+Vì vậy, đây là một nơi tốt hơn trên Google. Và đây chính xác là cách Google xác định nơi đặt quảng cáo của bạn.
+Người có thứ hạng quảng cáo cao nhất sẽ có được vị trí tốt nhất. Bây giờ, Google xác định thứ hạng quảng cáo của bạn như thế nào?
+Vì vậy, nó thực sự là một công thức. Đó là giá thầu tối đa nhân với điểm chất lượng.
+Vì vậy, giá thầu tối đa của bạn cho nhà quảng cáo số một là 2 đô la. Điểm chất lượng là 10 vì họ có quảng cáo rất tốt,
+mức độ liên quan rất cao và CTR kỳ vọng rất cao. Họ nhận được xếp hạng quảng cáo là 20,
+cao hơn so với các nhà quảng cáo khác. Vì vậy, họ có được vị trí đầu tiên trên Google. Nhà quảng cáo số hai có giá thầu tối đa $4
+chỉ có điểm chất lượng 4/10. Vậy 4 nhân 4 là 16. Vậy họ có thứ hạng quảng cáo là 16.
+Vậy họ ở dưới nhà quảng cáo đầu tiên này. Bây giờ, đây là tất cả những gì Google cần để xác định
+số tiền bạn phải trả. Vì vậy, một lần nữa, chúng ta hãy nhìn vào công thức ở trên cùng, giá của bạn. Vì vậy, CPC thực tế, giá mỗi nhấp chuột thực tế là thứ hạng quảng cáo
+của người bên dưới bạn. Vì vậy đối với quảng cáo số một thì sẽ là 16 vì đây là thứ hạng quảng cáo
+của người bên dưới nhà quảng cáo số một. Vậy 16 chia cho điểm chất lượng của bạn,
+của nhà quảng cáo số một, 16 chia cho 20 cộng 1 xu.
+Vì vậy, đây sẽ là mức giá. Như bạn có thể thấy, 16 chia cho 10, 16,
+là điểm chất lượng, thứ hạng quảng cáo của người ở dưới bạn, chia cho điểm chất lượng của bạn
+là 10 rồi cộng thêm 1 xu. Và đó sẽ là 1,61 USD.
+Vì vậy, với mỗi cú nhấp chuột, bạn sẽ phải trả 1,61 USD. Bây giờ, nhà quảng cáo số hai sẽ phải trả 12,
+tức là thứ hạng quảng cáo của người bên dưới. 12 chia cho 4 cộng 1 xu, bằng 3 đô la và 1 xu.
+Vì vậy, bạn có thể thấy, mặc dù người quảng cáo số một có quảng cáo tốt hơn, vị trí đặt quảng cáo tốt hơn, vị trí nổi bật hơn trên Google nhưng
+họ phải trả ít hơn rất nhiều so với người số hai. Và nhà quảng cáo thứ ba thậm chí còn trả nhiều tiền hơn.
+Họ trả 4 đô la và 1 xu, mặc dù họ có vị trí kém hơn trên Google
+và lý do là vì họ có điểm chất lượng kém như vậy. Vì vậy, điều bạn nên rút ra từ việc này là
+tăng điểm chất lượng của mình càng nhiều càng tốt. Bạn muốn có điểm chất lượng cao nhất có thể.
+Vì vậy, khi chúng ta quay lại đây, bạn muốn có trang đích tốt nhất trong số tất cả các quảng cáo. Bạn muốn quảng cáo có mức độ liên quan tốt nhất
+và bạn muốn có CTR được mong đợi cao nhất. Đó là cách bạn xuất hiện trước kết quả tìm kiếm của Google.
+Ngoài ra, bạn trả ít hơn rất nhiều so với các nhà quảng cáo khác, điều này sẽ làm tăng lợi nhuận của bạn lên rất nhiều.
+Nó có thể có nghĩa là sự khác biệt giữa có lãi và không có lãi.
+Vì thế điểm chất lượng cực kỳ quan trọng. Vì vậy, giả sử nếu tôi trình bày mọi thứ ở đây, hoàn hảo.
+Bây giờ, hãy chuyển sang tài khoản Google Ads của chúng ta. Vì vậy, bây giờ bạn đã hiểu cách đặt giá thầu hoạt động, hãy đặt giá thầu của chúng tôi.
+Giả sử giá thầu của chúng tôi là, tôi sẽ bắt đầu với khoảng 1 đô la. Đây là một mức giá thầu khá tốt tùy thuộc
+vào loại mặt hàng bạn đang bán, nhưng tôi sẽ bắt đầu với 1 đô la. Điều đó không có nghĩa là bạn sẽ chi 1 đô la, mà đó chỉ là số tiền bạn sẵn sàng trả ở mức tối đa.
+Bây giờ chúng ta hãy tiếp tục. Hãy đi để hiển thị thêm cài đặt, chuyển đổi. Rõ ràng là bạn muốn thiết lập theo dõi chuyển đổi,
+điều này thực sự quan trọng. Tôi sẽ để lại phần hướng dẫn ở phần mô tả video bên dưới. Sau video này, bạn có thể thiết lập theo dõi chuyển đổi, điều này thực sự quan trọng.
+Xoay quảng cáo, sẽ không bao gồm, bận tâm với điều đó. Bây giờ, tiện ích mở rộng quảng cáo cũng rất quan trọng.
+Tôi thấy nhiều hướng dẫn trên YouTube chỉ bỏ qua tiện ích mở rộng quảng cáo, nhưng tiện ích mở rộng quảng cáo là thứ có thể thúc đẩy bạn,
+như chính Google đã nói, nhận được tỷ lệ nhấp cao hơn tới 15% khi sử dụng
+tiện ích mở rộng, tiện ích mở rộng quảng cáo của Google. Vậy tiện ích mở rộng quảng cáo là gì? Đây là những tiện ích mở rộng quảng cáo.
+Vì vậy, như bạn có thể thấy, quảng cáo này khá lớn vì họ sử dụng tiện ích mở rộng quảng cáo.
+Ví dụ: cái này ở đây là tiện ích mở rộng dành cho xe đạp. Đây chỉ là một liên kết sâu đi
+thẳng vào cửa hàng bán chạy nhất dành cho nam giới. Họ truy cập vào một trang nơi họ có những sản phẩm bán chạy nhất
+và họ có một liên kết cụ thể dẫn thẳng đến trang đó. Và sau đó họ có đồng hồ nữ,
+đồng hồ dưới 100 đô la, mua đồ gỗ và vân vân. Vì vậy, họ đã thêm các tiện ích mở rộng đó,
+giúp họ có nhiều vị trí hơn trên trang đầu tiên của Google và các thử nghiệm cho thấy rằng quảng cáo của bạn càng lớn thì
+khả năng mọi người nhấp vào quảng cáo của bạn càng cao, điều này sẽ làm tăng CTR, số nhấp chuột của bạn -tỷ lệ thông qua,
+điều này sẽ làm tăng điểm chất lượng của bạn, điều này sẽ làm giảm chi phí mỗi lần nhấp chuột và tăng khả năng sinh lời của bạn.
+Vì vậy, bạn phải sử dụng tiện ích bổ sung. Bây giờ, bạn nên sử dụng cái nào?
+Vì vậy, bạn phải có các đoạn văn có cấu trúc, ở đây chỉ có nhiều từ hơn. Và nhân tiện, đừng lo lắng,
+mọi người sẽ không đọc được điều này ở đây đâu. Mọi người sẽ chỉ lướt qua những gì họ đang thấy ở đây. Và nếu họ thấy một số từ khóa
+mà họ đang tìm kiếm, họ sẽ nhấp vào quảng cáo. Nếu bạn muốn, bạn không cần phải hoàn hảo về mặt ngữ pháp ở đây
+hoặc nếu cấu trúc câu không thực sự hoàn hảo, đừng thực sự lo lắng. Đó chỉ là việc có được nhiều không gian nhất
+và loại quảng cáo có thể nhấp vào nhiều nhất. Được rồi. Vì vậy, việc thêm tiện ích mở rộng là rất quan trọng
+để thu được nhiều vị trí hơn trên quảng cáo của bạn. Vậy bạn thực sự nên thêm những tiện ích mở rộng nào? Vì vậy, có rất nhiều khả năng.
+Tiện ích mở rộng liên kết trang web, như tôi đã nói, giống như các liên kết đi qua các vị trí khác nhau trên trang web của bạn. Vì vậy, những gì bạn có thể làm là thêm tiện ích mở rộng liên kết trang web mới.
+Và sau đó có thể, nếu bạn có một văn phòng luật sư, bạn có thể nói như, nhận tư vấn miễn phí
+hoặc bạn có thể làm, xem hoặc các dịch vụ của chúng tôi, những thứ tương tự,
+sau đó đưa ra mô tả và sau đó tìm URL, phải là URL đi trực tiếp đến trang cụ thể này.
+Nếu bạn chỉ có một trang đích, đó là những gì tôi có, bạn cũng có thể giả sử đối với cửa hàng này,
+tôi có thứ gì đó như máy đo oxy tốt nhất đang giảm giá,
+máy đo oxy đang giảm giá hoặc giả sử máy đo oxy số một,
+đại loại như thế. Và sau đó tôi đặt cùng một trang đích ngay tại đây
+như trang đích chính cho quảng cáo chính. Nếu bạn gặp lỗi vì đó là cùng một URL,
+thì bạn chỉ cần hoàn thành quảng cáo của mình mà không có tiện ích mở rộng, sau đó quay lại bên trong quảng cáo
+rồi thêm các tiện ích mở rộng đó vào trang đích của bạn và sau đó bằng cách nào đó nó sẽ hoạt động.
+Đó là trường hợp của tôi. Đây là những tiện ích mở rộng liên kết trang web, một lần nữa, đây là những tiện ích mở rộng liên kết trang web.
+Đôi khi chúng không nổi bật bằng. Đôi khi chúng trông như thế này, chúng trông như thế này đây.
+Rất nhỏ, rất nhỏ, nhưng vẫn làm cho quảng cáo của bạn lớn hơn, giúp bạn có
+tỷ lệ nhấp chuột cao hơn. Được rồi. Sau đó là phần mở rộng chú thích. Bạn cũng có thể thêm một vài trong số này.
+Bây giờ, tôi có thể thêm khoảng 4 đến 8
+tiện ích mở rộng liên kết trang web khác nhau, sau đó là 10 tiện ích chú thích, khoảng 50% của ngày hôm nay, tất cả những thứ đó.
+Ngoài ra, hãy thử đưa một số con số vào quảng cáo của bạn và cũng có thể thích giao hàng miễn phí
+vì tất cả những thứ này, mọi người đều thích nhấp vào các con số. Ví dụ, họ bị thu hút bởi những con số.
+Vì vậy, đây chỉ là một loại mẹo nhỏ bên lề. Vì vậy, tiện ích mở rộng chú thích, bạn cũng có thể thực hiện những điều này.
+Và chỉ tiện ích mở rộng cuộc gọi nếu bạn muốn, nếu bạn có số điện thoại và muốn mọi người gọi cho mình, bạn cũng có thể thêm số điện thoại của mình ngay tại đây.
+Và bạn cũng có thể thêm nhiều nội dung khác như đoạn nội dung có cấu trúc, tiện ích mở rộng ứng dụng, blah, blah, blah, tiện ích mở rộng giá
+nếu bạn muốn cho họ biết giá. Về cơ bản, theo tôi, hãy đặt càng nhiều càng tốt.
+Google sẽ không hiển thị mọi tiện ích mở rộng mà bạn sẽ đặt ở đó, nhưng bạn có khả năng Google hiển thị nó
+và sau đó bạn sẽ nhận được nhiều bất động sản hơn. Được rồi. Vậy là chúng ta đã nói đủ về phần mở rộng. Vì vậy hãy thực sự tiếp tục.
+Được rồi. Vì vậy, chúng ta vừa hoàn tất việc thiết lập cài đặt chiến dịch của mình và bây giờ chúng ta đi sâu hơn một lớp,
+đó là các nhóm quảng cáo. Vì vậy, khi quay lại phần tổng quan ngay tại đây, chúng tôi thấy rằng mình vừa thiết lập chiến dịch tìm kiếm,
+nhóm quảng cáo từ khóa đơn phiên bản một. Và bên trong chiến dịch đó, chúng tôi sẽ thiết lập nhóm quảng cáo đầu tiên của mình.
+Vì vậy, đây là những gì chúng ta sẽ sử dụng chiến lược để đảm bảo chúng ta nhận được giá mỗi nhấp chuột thấp nhất
+và chuyển đổi tốt nhất. Và chúng tôi sẽ làm điều đó bằng cách đạt được điểm chất lượng cao nhất và bằng cách tạo quảng cáo phù hợp nhất cho từ khóa
+mà chúng tôi đang nhắm mục tiêu. Vì vậy, ví dụ: hãy xem nhóm quảng cáo này ngay tại đây. Chúng tôi đang nhắm mục tiêu với nhóm quảng cáo này, máy đo oxy xung ngón tay.
+Vì vậy, đối với mỗi nhóm quảng cáo, mỗi nhóm quảng cáo được dành riêng cho một từ khóa.
+Vì vậy, đối với mỗi từ khóa tôi muốn nhắm mục tiêu, tôi sẽ tạo một nhóm quảng cáo riêng. Lý do là vì đối với mỗi nhóm quảng cáo,
+tôi sẽ tạo các quảng cáo cụ thể được thiết kế sao cho chúng phù hợp nhất có thể
+với từ khóa cụ thể này. Vậy hãy để tôi chỉ cho bạn ngay tại đây.
+Vì vậy, khi ai đó nhập máy đo oxy xung ngón tay, tôi muốn quảng cáo của mình hiển thị máy đo oxy xung ngón tay.
+Quảng cáo của bạn không thể tốt hơn việc thực sự mang đến cho khách truy cập
+chính xác những gì họ đang tìm kiếm. Vì vậy, nếu tôi tìm kiếm máy đo oxy xung ngón tay, tôi thấy quảng cáo máy đo oxy xung ngón tay.
+Ồ, đó chính là điều tôi muốn làm. Đó là cái tôi muốn bấm vào. Vì vậy, đó là lý do tại sao chúng tôi tạo các nhóm quảng cáo dành riêng
+cho các từ khóa được nhắm mục tiêu của mình. Vì vậy, đối với nhóm quảng cáo đầu tiên,
+chúng tôi sẽ đặt tên cho nhóm quảng cáo này là máy đo oxy xung ngón tay vì đó là từ khóa mà chúng tôi muốn nhắm mục tiêu
+với nhóm cụ thể này. Sau đó, ở đây, điều này sẽ tự động được đưa vào
+vì đây là trang web mà chúng tôi muốn đưa mọi người đến, trang đích. Và sau đó chúng ta phải nhập từ khóa của mình.
+Bây giờ, chúng ta hãy gõ vào máy đo oxy xung ngón tay vì đó là từ khóa mà chúng tôi muốn hướng tới,
+máy đo oxy xung ngón tay.
+Bây giờ, khi tôi chỉ muốn quảng cáo của mình hiển thị khi mọi người nhập
+từ khóa chính xác này, máy đo nồng độ oxy trong mạch ngón tay, thì tôi phải đặt các dấu ngoặc này xung quanh từ khóa của mình.
+Đây được gọi là một trận đấu chính xác. Vì vậy, có nhiều loại đối sánh khác nhau trong Google. Và tôi sẽ cho bạn thấy chính xác
+những kiểu khớp này trông như thế nào. Vì vậy, ở đây chúng ta có cái nhìn tổng quan về các loại đối sánh. Vậy là có sự trùng khớp chính xác.
+Có đối sánh cụm từ, công cụ sửa đổi đối sánh rộng, đối sánh rộng được sửa đổi và đối sánh rộng.
+Đây là những gì chúng ta vừa làm. Chúng tôi đã đặt dấu ngoặc quanh từ khóa của mình
+và sau đó mọi người sẽ chỉ nhìn thấy quảng cáo của tôi khi họ nhập chính xác những gì
+trong dấu ngoặc đó hoặc một biến thể gần đúng. Google cũng hiển thị nó khi mọi người gõ vào
+phiên bản số nhiều hoặc có thể họ viết sai chính tả một chút. Vì vậy, đó là điều Google chỉ làm.
+Bạn thực sự không thể tắt nó đi, nhưng nó không thực sự quan trọng. Nó không thực sự ảnh hưởng đến chuyển đổi của bạn. Vì vậy chỉ có từ chính xác này hoặc một biến thể gần giống của từ đó.
+Ví dụ: khi ai đó nhập mũ của phụ nữ
+và tôi thực hiện đối sánh chính xác với mũ của phụ nữ, thì mọi người chỉ nhìn thấy nó khi mọi người nhập mũ của phụ nữ
+hoặc mũ của phụ nữ chẳng hạn, bởi vì đó là phiên bản số ít của mũ.
+Và sau đó là khớp cụm từ. Khi bạn đặt các dấu ngoặc kép này xung quanh từ khóa của mình
+thì từ khóa đó phải là một phần của cụm từ
+mà mọi người nhập vào thanh tìm kiếm. Vì thế khi mọi người gõ tin mua mũ nữ thì quảng cáo của tôi cũng sẽ hiện lên.
+Và sau đó chúng ta phải sửa đổi kiểu khớp mở rộng, sửa đổi kiểu khớp mở rộng để nó có thể đặt dấu cộng trước các từ khóa của bạn,
+nghĩa là mỗi từ khóa có dấu cộng ở trước thì từ khóa này phải nằm trong thanh tìm kiếm
+mà mọi người gõ vào. Ví dụ ở đây, mũ dành cho nữ, nó sẽ hiện ra vì mũ ở trong đó
+và phụ nữ cũng ở trong đó. Phụ nữ là một từ đồng nghĩa hoặc một biến thể gần giống của phụ nữ.
+Nếu nó chỉ là, giả sử phụ nữ,
+giả sử, tôi không biết, quần dành cho phụ nữ, thì nó sẽ không hiển thị vì mũ không có trong cụm từ này.
+Và sau đó, chúng tôi có đối sánh rộng, mà Google cũng bao gồm lỗi chính tả, từ đồng nghĩa, tìm kiếm có liên quan và các biến thể có liên quan khác.
+Vì vậy, chúng tôi nhận được nhiều lưu lượng truy cập hơn nhưng có thể không phải là lưu lượng truy cập mà bạn mong muốn. Vì vậy, tôi khuyên bạn chỉ nên sử dụng ba loại này ngay từ đầu,
+chỉ đối sánh rộng được sửa đổi, đối sánh cụm từ và đối sánh chính xác. Đó là điều chúng ta sẽ làm.
+Chúng ta sẽ sử dụng kết quả khớp chính xác ngay tại đây. Sau đó, chúng ta sẽ sử dụng kiểu khớp cụm từ, máy đo nồng độ oxy trong mạch ngón tay
+và chúng ta cũng sẽ sử dụng kiểu khớp mở rộng được sửa đổi.
+Vì vậy, máy đo oxy xung ngón tay.
+Và nhân tiện, ở phía bên phải này, Google cố gắng đưa ra ước tính cho bạn về số lượng nhấp chuột bạn có thể mong đợi,
+giá mỗi nhấp chuột trung bình là bao nhiêu và chi phí mỗi ngày. Và kinh nghiệm của tôi không thực sự chính xác.
+Vì vậy, đừng lo lắng nếu nó chỉ cho biết hai lần nhấp chuột mỗi ngày và nó không thực sự chính xác đến thế. Ngoài ra, dù sao thì bạn cũng sẽ sử dụng nhiều từ khóa.
+Vì vậy, bạn sẽ có nhiều nhấp chuột hơn thế mỗi ngày. Vì vậy, hãy tiếp tục và có thể tạo một nhóm quảng cáo khác
+cho một từ khóa khác. Vì vậy, chúng ta có thể cuộn xuống và nhấp vào thêm nhóm quảng cáo mới. Và bây giờ, chúng ta hãy bắt đầu với từ khóa, có thể là máy đo nồng độ oxy,
+vì đó cũng là thứ mà mọi người đang tìm kiếm
+khi có ý định mua máy đo nồng độ oxy trong mạch. Vì vậy, bây giờ chúng ta sẽ có một nhóm quảng cáo dành riêng
+cho máy theo dõi nồng độ oxy. Và chúng ta sẽ làm điều tương tự. Chúng tôi sẽ làm URL trang web của chúng tôi.
+Chúng ta sẽ đặt nó ngay tại đây. Và sau đó chúng ta sẽ so khớp chính xác, máy đo nồng độ oxy,
+như thế này, có thể gõ và cũng khớp cụm từ theo dõi oxy.
+Bạn hiểu ý rồi. Và sau đó, khi bạn có tất cả các nhóm quảng cáo, khi bạn có tất cả từ khóa
+trong các nhóm quảng cáo chuyên dụng khác nhau, bạn có thể nhấp vào lưu và tiếp tục.
+Vì vậy, hãy để tôi xóa nhóm quảng cáo thứ hai này ngay tại đây. Và sau đó chúng ta sẽ tiếp tục với nhóm quảng cáo đầu tiên này
+làm ví dụ. Vì vậy, hãy lưu và tiếp tục. Và bây giờ, chúng ta đã tiến sâu hơn một cấp.
+Vì vậy bây giờ chúng ta đang ở phần quảng cáo thực tế. Vì vậy, khi chúng ta đến đây, đây là nhóm quảng cáo của chúng ta,
+máy đo nồng độ oxy trong mạch ngón tay. Chúng tôi phải tìm những từ khóa mà chúng tôi muốn quảng cáo của mình hiển thị.
+Và bây giờ, chúng tôi có thể tạo các quảng cáo khác nhau, quảng cáo này sẽ hiển thị khi mọi người nhập những từ khóa này.
+Vì vậy, hãy tiếp tục và tạo quảng cáo đầu tiên của chúng ta. Những gì chúng tôi đang tạo bây giờ là những gì mọi người sẽ thấy
+khi họ nhập từ khóa của chúng tôi. Vì vậy, một lần nữa, chiến lược của chúng tôi là càng phù hợp càng tốt.
+Vì vậy, ngay bây giờ, chúng tôi đang tạo một quảng cáo cho nhóm quảng cáo, máy đo nồng độ oxy trong mạch ngón tay. Vì vậy, chúng tôi muốn quảng cáo của mình phù hợp nhất có thể
+với từ khóa cụ thể đó. Vì vậy, hãy bắt đầu với tiêu đề. Tôi sẽ sử dụng cái mà tôi đã sử dụng ở cửa hàng
+khi tôi chạy nó. Vì vậy, ví dụ ở đây, tôi đã sử dụng máy đo oxy xung ngón tay đang được giảm giá.
+Như bạn có thể thấy, máy đo nồng độ oxy kéo ngón tay là từ khóa của chúng tôi và do đó nó có liên quan.
+Sau đó, tiêu đề số hai sẽ là máy đo oxy xung ngón tay tốt nhất. Tiêu đề số ba sẽ có thời gian giới hạn, giảm giá 50%
+vì một lần nữa, mọi người thích những con số và giảm giá 50%. Vì vậy, tôi cũng sẽ đặt nó ở đây.
+Google hiển thị tối đa ba dòng tiêu đề. Tại đây, bạn luôn có thể xem quảng cáo của mình hiện tại trông như thế nào.
+Và đôi khi, nó sẽ chỉ hiển thị hai dòng tiêu đề, đôi khi nó sẽ hiển thị ba dòng tiêu đề. Vì vậy, hãy luôn đảm bảo bạn đặt ba tiêu đề.
+Nếu không, bạn sẽ mất đi bất động sản cho quảng cáo của mình. Sau đó, với đường dẫn hiển thị,
+đây là loại URL được hiển thị cho mọi người nhưng không nhất thiết phải là URL mà quảng cáo của bạn sẽ truy cập
+khi mọi người nhấp vào nó. Vì vậy, một lần nữa, chiến lược tương tự ở đây. Tôi sẽ gõ máy đo oxy xung ngón tay
+vì một lần nữa, nó phù hợp nhất. Google thấy đây là một quảng cáo rất phù hợp. Tôi nhận được điểm chất lượng cao, xếp hạng quảng cáo tốt hơn
+và nhìn chung, tôi sẽ phải trả ít tiền hơn cho các nhấp chuột của mình.
+Sau đó, với mô tả là tốt. Tôi sẽ đặt cái mà tôi đã sử dụng ở đây
+cho cửa hàng cụ thể này. Hãy chắc chắn rằng bạn sử dụng tất cả các ký tự ở đây. Vì vậy, 90 ký tự là tối đa.
+Ở đây, tôi chỉ sử dụng 81, điều này cũng không sao, nhưng hãy đảm bảo sử dụng nhiều nhất có thể
+mà Google cung cấp cho bạn ở đây. bởi vì một lần nữa, bạn muốn làm cho quảng cáo của mình lớn nhất có thể. Và một lần nữa, bạn luôn có thể vào đây ở phía bên phải
+và xem quảng cáo của bạn hiện tại trông như thế nào. Khi bạn có thêm tiện ích mở rộng quảng cáo mà chúng tôi đã nói trước đây,
+bạn cũng sẽ thấy chúng ngay tại đây. Và ở đây một lần nữa, hãy thêm những thứ như số,
+thêm những thứ như giao hàng miễn phí. Đó là tất cả những từ mà mọi người bị thu hút
+và mọi người thích nhấp vào. Được rồi. Bây giờ, chúng ta vừa hoàn tất việc thiết lập quảng cáo đầu tiên của mình,
+quảng cáo này trông giống như thế này trên máy tính để bàn và giống như thế này trên thiết bị di động. Như bạn có thể thấy ở đây, quảng cáo văn bản, chúng tôi có một quảng cáo.
+Và điều tôi khuyên bạn nên thiết lập thêm ít nhất hai quảng cáo nữa hoặc tôi luôn thiết lập ba quảng cáo cho mỗi nhóm quảng cáo
+vì khi đó Google có khả năng xoay vòng quảng cáo của bạn. Vì vậy, đôi khi nó sẽ hiển thị cái đầu tiên,
+đôi khi nó sẽ hiển thị cái thứ hai và đôi khi nó sẽ hiển thị cái thứ ba và sau đó bạn sẽ nhận được dữ liệu bên trong tài khoản của mình.
+Và bạn có thể xem quảng cáo nào hoạt động tốt nhất. Và sau đó, Google sẽ sử dụng quảng cáo tốt nhất
+mang lại cho bạn nhiều chuyển đổi nhất. Nếu bạn chỉ có một quảng cáo ở đây thì Google thực sự có thể kiểm tra quảng cáo của bạn.
+Vì vậy, hãy nhớ đi xuống, nhấp vào xong và tạo quảng cáo văn bản tiếp theo, sau đó chỉ cần thay đổi xung quanh.
+Sử dụng một số từ khác nhau, có thể thay đổi tiêu đề một chút, có thể cả phần mô tả nữa.
+Vì vậy, bạn thực sự có thể thấy những gì thực sự hoạt động tốt nhất. Nhưng vì lý do thời gian,
+tôi sẽ không làm điều này trong phần hướng dẫn này. Vì vậy, khi bạn đã tạo ba quảng cáo cho nhóm quảng cáo của mình,
+hãy chuyển sang nhóm quảng cáo tiếp theo, v.v. cho đến khi bạn hoàn thành tất cả quảng cáo cho tất cả từ khóa,
+tất cả nhóm quảng cáo của mình. Khi bạn đã hoàn tất, hãy nhấp vào lưu và tiếp tục. Và ở đây trên trang tiếp theo,
+Google sẽ yêu cầu thông tin thanh toán của bạn nếu bạn chưa thiết lập thông tin đó. Rõ ràng vì đó là quảng cáo trả phí
+và họ sẽ cần thẻ tín dụng ngay tại đây. Vì vậy, họ có thể tính phí cho các lượt nhấp mà bạn nhận được
+thông qua Google Ads. Một mẹo khác cũng ở đây là vì họ phải phê duyệt quảng cáo của bạn.
+Sau khi bạn thiết lập xong, chúng sẽ không chạy ngay lập tức. Họ phải xem xét chúng và đảm bảo rằng bạn không vi phạm bất kỳ nguyên tắc nào của họ.
+Và sau đó họ sẽ phê duyệt quảng cáo của bạn. Và sau đó họ sẽ bắt đầu chạy. Đối với tôi, lần đầu tiên, khi tôi làm điều này lần đầu tiên,
+phải mất vài ngày và không có gì xảy ra. Vì vậy, những gì tôi đã làm là liên hệ với đại diện của Google.
+Tôi liên hệ với nhân viên của Google và mọi việc diễn ra nhanh hơn rất nhiều.
+Vì vậy, nếu bạn gặp vấn đề tương tự, hãy đảm bảo rằng bạn chỉ cần liên hệ với họ và theo ý kiến ​​​​của tôi, họ thực sự rất hữu ích.
+Tôi cũng đã có cuộc gọi kéo dài một giờ với một trong những người đại diện. Anh ấy đã kiểm tra tài khoản Google Ads của tôi.
+Anh ấy nói với tôi, "Được rồi, bạn phải thêm nhiều tiện ích mở rộng quảng cáo hơn. Bạn phải thêm nhiều quảng cáo hơn. Bạn phải thử nghiệm điều này và những thứ khác."
+Vì vậy, họ có một số người giỏi ở đó và họ thực sự dành thời gian
+để xem xét tài khoản của bạn và giúp bạn tối ưu hóa quảng cáo
+cụ thể cho doanh nghiệp của mình. Vì vậy, sẽ không hại gì nếu chỉ liên hệ với họ và yêu cầu một cuộc gọi.
+Tất cả đều miễn phí. Vì vậy, vâng, đó chỉ là một mẹo nhỏ. Được rồi. Vì vậy, bây giờ tôi đã chuyển sang tài khoản Google Ads
+mà tôi đã sử dụng khi ra mắt cửa hàng đo nồng độ oxy vào năm ngoái. Tôi thực sự không kiếm được lợi nhuận nên tôi đóng cửa cửa hàng một lần nữa,
+nhưng tài khoản Google Ads này sẽ đóng vai trò là một ví dụ ở đây và tôi sẽ sử dụng nó để cho bạn thấy một vài điều.
+Vì vậy, chúng tôi hiện đã thiết lập quảng cáo đầu tiên và đang chờ Google phê duyệt quảng cáo của mình. Trong khi đó, có một việc rất quan trọng
+mà chúng ta cần phải làm để không lãng phí tiền vào những cú nhấp chuột vô ích. Ví dụ: khi ai đó nhập máy đo oxy trên Amazon,
+thì người nhập đó có thể sẽ tìm kiếm máy đo oxy từ Amazon. Họ có thể muốn mua từ Amazon
+hoặc khi họ nhập các nhãn hiệu cụ thể về mặt hàng bạn đang bán không phải của bạn, thì bạn không muốn hiển thị quảng cáo của mình
+cho những người đó vì họ đã biết họ muốn mua từ đâu. Họ không muốn mua hàng của bạn Họ muốn mua hàng từ Amazon hoặc Walmart
+hoặc những thứ tương tự. Vì vậy, điều chúng tôi muốn làm là thiết lập danh sách từ khóa mà chúng tôi muốn áp dụng cho chiến dịch của mình
+để bất cứ khi nào ai đó nhập một trong những từ khóa đó, quảng cáo của chúng tôi sẽ không hiển thị và chúng tôi sẽ không lãng phí tiền cho những nhấp chuột đó.
+Vì vậy, những gì bạn phải làm là vào các công cụ ở trên cùng ở đây và sau đó nhấp vào danh sách từ khóa phủ định trong thư viện được chia sẻ.
+Và như bạn có thể thấy ở đây, tôi có một danh sách chung và một danh sách cụ thể cho sản phẩm của mình.
+Danh sách chung là danh sách mà tôi sẽ luôn sử dụng cho dù tôi đang bán sản phẩm nào
+vì đây là những thứ, nếu bạn vào đây, bạn sẽ thấy đây là những thứ như Amazon, giá rẻ, Trung Quốc, liên hệ, phiếu giảm giá, giảm giá, dropshipping,
+tất cả những từ khóa đó đều không thực sự tốt. Họ không chuyển đổi thành khách hàng cho tôi.
+Vì vậy tôi đang đặt chúng vào danh sách từ khóa phủ định. Nếu bạn muốn thêm từ khóa, chỉ cần nhấp vào dấu cộng ở đây,
+thêm từ khóa của bạn vào đây. Vì vậy, bạn phải làm một điều gì đó, giả sử, một điểm cộng. Và sau đó hãy nói đến Walmart chẳng hạn,
+bởi vì những người đó, họ muốn mua hàng từ Walmart chứ không phải từ bạn. Vì vậy hãy nhấp vào lưu. Và sau đó từ khóa này sẽ được thêm ngay
+vào danh sách từ khóa phủ định. Và sau đó khi bạn đã thiết lập danh sách từ khóa chính của mình,
+bạn có thể đi xuống và nhấp vào, áp dụng cho các chiến dịch và sau đó chọn chiến dịch của mình ngay tại đây.
+Tôi đã chọn tất cả các chiến dịch của mình. Vì vậy, hãy chắc chắn rằng bạn chọn chiến dịch của mình. Nếu không, nó sẽ không hoạt động.
+Hãy chắc chắn rằng bạn chọn nó, nhấp vào xong và sau đó nó sẽ hoạt động.
+Bây giờ, tôi có những cái tiêu chuẩn này ngay tại đây. Chúng ta có thể đi qua chúng thật nhanh.
+Vì vậy, bạn có thể nhìn thấy chúng, có thể sao chép chúng.
+Được rồi. Vì vậy, đây là những từ khóa. Tất nhiên, đây là cửa hàng bán sản phẩm vật chất.
+Nếu bạn thích kinh doanh dịch vụ hoặc gì đó, bạn có thể muốn sử dụng các từ khóa khác. Nhưng còn một điều nữa tôi muốn cho bạn
+xem vì như bạn đã thấy, tôi có danh sách dụng cụ. Tôi có một danh sách chung và sau đó, ồ, xin lỗi
+, tôi có một danh sách dành riêng cho sản phẩm cụ thể của mình.
+Vì vậy, danh sách máy đo oxy. Đây là những từ tôi học được bằng cách thu thập dữ liệu
+từ quảng cáo của mình. Vì vậy, tôi nhận thấy rằng mọi người nhấp vào quảng cáo của tôi, những người nhấp vào quảng cáo của tôi, họ nhập Bluetooth
+hoặc ChoiceMMed hoặc CMS-50F là những thương hiệu không phải của tôi.
+Vì vậy, chẳng hạn như những người gõ liên hệ đang tìm kiếm máy đo nồng độ oxy từ thương hiệu này.
+Vì vậy tôi không muốn hiển thị quảng cáo của mình ở đây. Vì vậy điều tôi làm là quay lại đây, tham gia chiến dịch của mình.
+Sau đó tôi đi đến, xin lỗi. Sau đó, bạn đi tới các cụm từ tìm kiếm từ khóa
+và bạn sẽ thấy những gì mọi người thực sự đang nhập vào,
+những gì mang lại cho bạn những cú nhấp chuột. Và như bạn có thể thấy ở đây, máy đo nồng độ oxy, máy đo oxy.
+Và sau đó bạn tìm thấy những từ như CVS đo oxy, biểu đồ đọc máy đo oxy. Chúng tôi có máy đo oxy Omron có lẽ cũng là một thương hiệu.
+Vì vậy, tôi đã trả tiền cho một cú nhấp chuột ngay tại đây và rõ ràng là điều này có thể sẽ không chuyển thành một đợt giảm giá đối với tôi.
+Vậy điều tôi sẽ làm là sao chép từ này ngay tại đây, sao chép. Và sau đó tôi sẽ quay lại các công cụ,
+phủ định danh sách từ khóa, danh sách máy đo nồng độ oxy, sau đó tôi sẽ nhấp vào dấu cộng và nhập dấu cộng,
+sau đó là Omron. Và sau đó tôi sẽ nhấp vào lưu. Và bây giờ, điều này đã được thêm vào danh sách từ khóa phủ định của tôi.
+Vì vậy, bất cứ khi nào ai đó gõ từ này, quảng cáo của tôi sẽ không hiển thị. Vì vậy, đặc biệt là vào thời điểm đầu,
+hãy đảm bảo kiểm tra cụm từ tìm kiếm của bạn theo các từ khóa ngay tại đây và xem bạn đang hiển thị những từ khóa nào.
+Và sau đó tiếp tục xây dựng danh sách từ khóa phủ định của bạn ,
+điều này sẽ giúp bạn tránh phải trả tiền cho những nhấp chuột vô dụng, điều này sẽ giúp bạn tiết kiệm rất nhiều tiền.
+Bây giờ, một điều nữa tôi muốn cho bạn thấy là nó rất hữu ích Bên trong Google Ads là công cụ lập kế hoạch từ khóa
+, đặc biệt nếu bạn cần tìm từ khóa mới thì bạn có thể sử dụng công cụ lập kế hoạch từ khóa
+để đưa vào những từ khóa mà bạn đã biết. Và sau đó nó sẽ cung cấp cho bạn nhiều từ khóa hơn có thể rất phù hợp với những gì bạn đang quảng cáo.
+Vì vậy, nếu bạn đi tới các công cụ ở trên cùng ở đây và sau đó nhấp vào công cụ lập kế hoạch từ khóa, thì bạn sẽ đến trang này ngay tại đây.
+Bạn có thể nhấp vào khám phá các từ khóa mới và sau đó bạn có thể nhập nội dung nào đó như máy đo nồng độ oxy trong mạch, máy đo nồng độ oxy
+và có thể một cái gì đó như máy theo dõi oxy
+và cũng được, để tôi có thể nhấp vào nhận kết quả. Và sau đó hãy đảm bảo cài đặt vị trí của bạn
+ở trên cùng là những gì bạn đang nhắm mục tiêu. Vì vậy, đối với tôi, tôi sẽ phải đổi tên này thành Hoa Kỳ.
+Vì vậy, hãy thay đổi điều này thành Hoa Kỳ, quốc gia Hoa Kỳ
+và bỏ chọn Thụy Sĩ, lưu lại. Sau đó, ngôn ngữ cũng vậy, hãy chắc chắn rằng đó là ngôn ngữ phù hợp. Vì vậy, đây sẽ là tiếng Anh và mạng tìm kiếm, Google
+và cả khung thời gian. Giả sử tôi muốn có tháng cuối cùng.
+Và sau đó Google cho tôi thêm một số ý tưởng. Vì vậy, máy đo oxy SpO2, cảm biến SpO2, giá máy đo oxy xung,
+máy đo oxy xung ngón tay, tất cả những thứ đó. Vì vậy, có lẽ tôi đã không biết rằng mình có thể nhắm mục tiêu vào cảm biến SpO2.
+Có lẽ điều này sẽ rất có lợi cho tôi. Vì vậy, những gì tôi có thể làm chỉ là sao chép từ khóa này ngay tại đây,
+sao chép và sau đó quay lại Google Ads, quay lại chiến dịch tìm kiếm của mình, sau đó chuyển đến các nhóm quảng cáo
+và sau đó chỉ cần tạo một nhóm quảng cáo mới ngay tại đây bằng dấu cộng ngay đó.
+Và tôi có thể tạo nhóm quảng cáo mới cho từ khóa cụ thể này. Một lần nữa, tôi có thể sử dụng cảm biến SpO2 phù hợp chính xác.
+Sau đó, tôi có thể sử dụng đối sánh cụm từ, cảm biến SpO2 và cả đối sánh rộng được sửa đổi.
+Sau đó tôi có thể nhấp vào lưu và tiếp tục. Ngoài ra, giá thầu, giả sử chúng ta đặt giá 75 xu.
+Lưu lại và tiếp tục. Và một lần nữa, tôi sẽ tạo một quảng cáo cụ thể
+cho từ khóa cụ thể này, như cảm biến SpO2 tốt nhất, cảm biến SpO2 số một, cảm biến SpO2 giảm giá 50%,
+cảm biến SpO2 đang giảm giá. Và giống như chúng ta đã làm trước đây.
+Vì vậy, bây giờ hãy nói về cách tối ưu hóa quảng cáo của bạn khi chúng thực sự chạy. Vì vậy, điều đầu tiên bạn phải làm trước khi quảng cáo của mình
+thực sự chạy là cài đặt Google Analytics, nghĩa là cài đặt tính năng theo dõi chuyển đổi
+để với mỗi nhấp chuột mà quảng cáo của bạn nhận được, bạn biết chính xác có bao nhiêu người đã thêm thứ gì đó
+vào giỏ hàng, có bao nhiêu người thực sự đã mua thứ gì đó từ bạn, bao nhiêu người đã cung cấp thông tin của họ,
+bao nhiêu người thực sự đã gọi đến số của bạn, bất kể bạn đang quảng cáo gì.
+Vì vậy, điều đó rất quan trọng vì nếu không bạn sẽ không thực sự biết từ khóa nào, nhấp chuột nào, nhân khẩu học nào mang lại cho bạn chuyển đổi tốt nhất.
+Vì vậy, hãy đảm bảo bạn cài đặt Google Analytics. Và có phần hướng dẫn bên dưới trong phần mô tả video sẽ hướng dẫn bạn từng bước
+cách cài đặt Google Analytics bằng tài khoản Google Ads của bạn. Vì vậy hãy quan sát điều đó.
+Và sau khi bạn đã làm xong việc đó, hãy lấy một số dữ liệu. Bạn phải lấy dữ liệu để có thể tối ưu hóa. Rõ ràng
+hãy để nó chi tiêu như $50, $100, $200 tùy thuộc vào ngân sách của bạn
+cho đến khi bạn tối ưu hóa quảng cáo của mình. Vì vậy, trước tiên bạn phải lấy một số dữ liệu và sau đó bạn có thể bắt đầu tối ưu hóa từ đó.
+Và sau đó làm thế nào để bạn tối ưu hóa? Vì vậy, về cơ bản điều bạn muốn làm là nhận được nhiều lưu lượng truy cập hơn
+từ những từ khóa đang hoạt động thực sự tốt. Vì vậy, giả sử đối với máy đo oxy xung đầu ngón tay,
+từ khóa này mang lại cho tôi tỷ lệ chuyển đổi rất cao. Điều đó có nghĩa là tôi sẽ tăng giá thầu,
+giá mỗi nhấp chuột tối đa, tôi sẽ tăng giá thầu đó.
+Vì vậy, tôi nhận được thứ hạng quảng cáo tốt hơn và nhiều người sẽ thấy quảng cáo của tôi cho từ khóa cụ thể này
+vì tôi biết rằng những người này sẽ có nhiều khả năng chuyển đổi hơn. Điều tương tự xảy ra với những quảng cáo hoặc từ khóa
+không thực sự hoạt động tốt. Tôi muốn giảm giá thầu của mình vì nếu tôi không sinh lời thì có thể nếu tôi trả ít hơn cho mỗi lần nhấp chuột,
+điều đó sẽ đưa tôi vào vùng sinh lời. Và sau đó cũng có thể bạn thấy một số từ khóa không hoạt động
+hoặc một số thông tin nhân khẩu học không hoạt động và bạn muốn tắt chúng đi.
+Được rồi. Vậy bây giờ, làm cách nào để chúng tôi thực sự thực hiện việc này trong tài khoản Google Ads của mình? Vì vậy, những gì bạn có thể làm là đi tới các chiến dịch của mình.
+Vì vậy, chiến dịch tìm kiếm của bạn, sau đó chuyển đến nhóm quảng cáo và sau đó bạn có thể thực hiện nhóm quảng cáo này theo nhóm quảng cáo.
+Vì vậy, hãy mở máy đo nồng độ oxy của nhóm quảng cáo đầu tiên ngay tại đây. Và chúng tôi đã thiết lập ba loại đối sánh từ khóa khác nhau
+cho nhóm quảng cáo cụ thể này. Và cuối cùng bạn đã có, có lẽ sẽ có nhiều hơn nữa. Và điều bạn muốn làm là tìm ra
+loại đối sánh chính xác mang lại lợi nhuận cao nhất cho bạn. Vì vậy, hãy nghe sắp xếp theo chuyển đổi.
+Như bạn có thể thấy ở đây, chúng tôi đã thực hiện một chuyển đổi với máy đo nồng độ oxy oxy được sửa đổi rộng.
+Vì vậy, đây có thể không đủ dữ liệu để thực sự tối ưu hóa, nhưng nếu bạn có nhiều dữ liệu hơn ở đây,
+bạn có nhiều chuyển đổi hơn, bạn thực sự có thể bắt đầu tối ưu hóa. Vì vậy, điều bạn sẽ tập trung vào là tỷ lệ hiển thị tìm kiếm,
+điều đó có nghĩa là, và nhân tiện, nếu bạn không thấy tất cả các cột mà tôi thấy, bạn có thể xem qua các cột, sửa đổi cột
+và sau đó chọn mọi thứ ở đây bạn muốn xem. Rõ ràng, nếu bạn muốn xem theo dõi chuyển đổi, bạn phải hoặc chuyển đổi, bạn muốn xem,
+bạn muốn thiết lập theo dõi chuyển đổi. Một lần nữa, hướng dẫn nằm trong phần mô tả bên dưới. Vì vậy, một lần nữa, hãy nói rằng điều này mang lại lợi nhuận cao cho tôi.
+Ở đây, giá mỗi chuyển đổi, 48 Franc Thụy Sĩ thực sự không mang lại lợi nhuận, nhưng giả sử số tiền này tương đương 5 đô la, sẽ tốt.
+Bây giờ, điều tôi muốn làm là nhận được nhiều lưu lượng truy cập hơn từ từ khóa cụ thể này.
+Vì vậy, như bạn có thể thấy ở đây bây giờ, tôi chỉ hiển thị với giá dưới 10% cho những người thực sự nhập cụm từ tìm kiếm cụ thể này.
+Và lưu lượng truy cập của tôi bị mất hoặc tìm kiếm của tôi bị mất do xếp hạng là 47,38%,
+điều đó có nghĩa là tôi cần tăng thứ hạng của mình để quảng cáo của tôi sẽ được hiển thị cho nhiều người hơn
+vì tôi biết rằng khi quảng cáo của tôi được hiển thị cho nhiều người hơn, gõ nó vào, sau đó tôi sẽ bán được nhiều hàng hơn.
+Vì vậy, khi quay lại đồ họa này ngay tại đây, chúng tôi thấy rằng chúng tôi có thể tăng thứ hạng của mình bằng cách tăng giá thầu
+vì thứ hạng bằng giá thầu nhân với điểm chất lượng. Vì vậy, tôi có thể tăng giá thầu của mình và điều đó sẽ tăng thứ hạng của tôi
+và tôi sẽ nhận được nhiều chia sẻ hiển thị tìm kiếm hơn. Tôi sẽ nhận được nhiều sự chú ý hơn tới quảng cáo của mình. Vì vậy, những gì tôi sẽ làm ở đây là đạt đến CPC tối đa, giá thầu tối đa
+và tăng mức đó lên khoảng 20, 30%. Vì vậy, giả sử tôi sẽ kiếm được 1 đô la và sau đó tôi sẽ để nó chạy
+thêm một tuần nữa rồi tôi sẽ quay lại đây. Bây giờ, đây là cách bạn có thể tối ưu hóa cho các cụm từ
+phù hợp với bạn và mang lại nhiều lợi nhuận. Các điều khoản khác không mang lại lợi nhuận,
+bạn có thể giảm CPC tối đa của mình xuống khoảng 20% ​​một chút hoặc bạn có thể đặt CPC tối đa ở mức CPC trung bình
+và có thể điều đó sẽ làm tăng khả năng sinh lời của bạn. Và nếu các điều khoản hoàn toàn không có tác dụng, bạn cũng có thể tắt nó đi.
+Bạn có thể đến đây.
+Bạn có thể đến đây và sau đó đi tạm dừng. Và sau đó bạn đã tắt thuật ngữ cụ thể này.
+Một điều rất thú vị khác mà bạn có thể làm là bạn có thể chuyển đến phần nhân khẩu học và bạn có thể tối ưu hóa theo nhân khẩu học.
+Vì vậy, hãy nói, chúng ta hãy đi đến tuổi. Và giả sử nhiều người
+mua hàng ở độ tuổi từ 45 đến 54. Vì vậy, ở đây, tôi sẽ tăng giá thầu lên khoảng 20%.
+Vì vậy, tôi thu hút được nhiều người hơn ở độ tuổi này. Giả sử mọi người trên 65 tuổi,
+họ nhấp vào rất nhiều quảng cáo của tôi nhưng họ không mua. Vì vậy, điều tôi sẽ làm là vào đây và nhấp vào loại trừ khỏi nhóm quảng cáo.
+Và khi đó quảng cáo của tôi sẽ không được hiển thị cho những người đó nữa. Nhưng bạn thực sự có thể thấy ở đây rằng điều này chỉ có thể thực hiện được
+khi bạn nhận được một số dữ liệu trong tài khoản của mình. Vì vậy, bạn thực sự phải bắt đầu chi tiêu và sau đó làm việc với dữ liệu bạn có.
+Và lúc đầu, bạn muốn tối ưu hóa thêm một chút. Bạn muốn tiếp tục cập nhật danh sách từ khóa phủ định của mình. Và cuối cùng, khi mọi thứ đã ổn,
+bạn muốn thực hiện nó hàng tuần. Vì vậy, đừng cố gắng tối ưu hóa mỗi ngày vì bạn phải cho nó thời gian lấy dữ liệu mới
+để nó có thể đưa ra quyết định. Vì vậy, hãy đợi một tuần, đưa ra quyết định, tối ưu hóa và đợi một tuần nữa, v.v.
+Bạn cũng có thể tối ưu hóa theo thiết bị. Vì vậy, nếu bạn nhấp vào thiết bị và bạn có điện thoại di động,
+máy tính, v.v. Nếu bạn thấy rằng mình không nhận được bất kỳ chuyển đổi nào từ, giả sử máy tính bảng, điều bạn có thể làm chỉ là tắt máy tính bảng
+hoặc bạn có thể chuyển sang đặt giá thầu và giảm khoảng 70%.
+Và có thể khi đó quảng cáo của bạn sẽ không được hiển thị cho những người sử dụng máy tính bảng nữa. Vì vậy, bạn có thể loại trừ những người đó khỏi quảng cáo của mình.
+Và đó thực sự là cách bạn có thể tiếp tục tối ưu hóa quảng cáo của mình. Bạn muốn giữ lại những từ khóa mang lại cho bạn nhiều lợi ích,
+mang lại cho bạn tỷ lệ chuyển đổi tốt và bạn muốn loại bỏ những từ khóa không mang lại điều đó,
+nhưng việc này không thực sự dễ dàng như việc chỉ đoán đâu là từ khóa tốt nhất.
+Bạn thực sự phải tìm thấy chúng bằng cách mua dữ liệu. Vì vậy, bạn phải mua số lần nhấp chuột, sau đó bạn phải xem
+dữ liệu và từ đó quyết định đâu là từ khóa có lợi nhuận và tăng giá thầu cho những từ khóa đó
+và tắt những từ khóa khác không hiệu quả với bạn. Được rồi. Vì vậy, xin chúc mừng bạn đã hoàn thành hết
+phần hướng dẫn này. Trước khi nhấp vào, tôi muốn nhờ bạn một việc rất nhanh và đó là giúp tôi xác định tỷ lệ chuyển đổi
+trên nút thích bên dưới video này. Tất cả những gì bạn cần làm để tăng tỷ lệ chuyển đổi của tôi
+trên nút đó là chỉ cần nhấp vào nút đó bên dưới vì nó thực sự giúp ích cho kênh YouTube của tôi để tôi có thể thực hiện các hướng dẫn chuyên sâu hơn cho bạn.
+Ngoài ra, bạn có thể để lại cho tôi nhận xét bên dưới, cho tôi biết bạn đang quảng cáo gì trên Google. Vì vậy, có lẽ tôi có thể thực hiện một hướng dẫn khác cụ thể hơn
+về mặt hàng bạn đang bán. Và nếu bạn muốn xem thêm những video tương tự như video này thì hãy nhớ nhấn nút đăng ký
+bên dưới video này để không bỏ lỡ bất kỳ video nào sắp tới. Và với điều đó đã được nói, cảm ơn rất nhiều vì đã xem.
+Tôi mong được gặp bạn trong video tiếp theo.
+

@@ -1,0 +1,409 @@
+- Trong video này, tôi sẽ hướng dẫn các bạn cách thiết lập chiến dịch Google Ads Tìm kiếm đầu tiên từng bước một theo cách dễ hiểu nhất
+cho người mới bắt đầu. Nếu bạn muốn bắt đầu thu hút khách hàng tiềm năng hoặc tạo doanh số từ Google Ads nhưng không biết cách cấu trúc chiến dịch,
+các cài đặt nào quan trọng hoặc làm thế nào để tránh lãng phí tiền vào lưu lượng truy cập không phù hợp, thì video này dành cho bạn.
+Chúng ta sẽ cùng nhau xây dựng mọi thứ từng bước một, bắt đầu từ việc thiết lập chiến dịch và nhắm mục tiêu
+đến việc thêm từ khóa và quảng cáo , và đảm bảo theo dõi chuyển đổi hoạt động để khi bạn khởi chạy chiến dịch,
+bạn biết chính xác phải làm gì và sẵn sàng bắt đầu thấy kết quả thực tế. Sau khi hoàn thành hướng dẫn này, bạn sẽ
+tự tin khởi chạy chiến dịch Google Ads đầu tiên của mình . Chiến dịch sẽ được xây dựng để bắt đầu tạo ra khách hàng tiềm năng hoặc doanh số,
+và bạn sẽ biết chính xác phải làm gì tiếp theo để tiếp tục cải thiện nó. Điều đầu tiên bạn cần làm là
+kiểm tra liên kết trong phần mô tả video để tìm trang chủ Google Ads. Bạn cũng có thể truy cập ads.google.com.
+Điều đó sẽ đưa bạn đến trang này. Nhưng trước khi bắt đầu tạo tài khoản Google Ads, hãy cùng tìm hiểu nhanh Google Ads thực chất là gì.
+Google Ads Là Gì?
+Tôi sẽ tạo một tab mới ở đây, và sau đó tôi sẽ tìm kiếm một cụm từ như "nhà phát triển website".
+Khi tôi tìm kiếm cụm từ này, bạn sẽ thấy hai loại kết quả tìm kiếm khác nhau. Ở trên cùng, đây là các kết quả được tài trợ.
+Những kết quả này sẽ hiển thị đầu tiên và chúng được tạo bằng Google Ads. Bây giờ, nếu tôi cuộn xuống một chút trên trang,
+bên dưới các kết quả được tài trợ đó, bạn sẽ thấy các kết quả tìm kiếm tự nhiên. Đây thường là các công ty đã đầu tư mạnh vào SEO,
+vì vậy họ có thể xếp hạng cao mà không cần dựa vào quảng cáo. Vì vậy, Google Ads về cơ bản là cách để doanh nghiệp của bạn hiển thị ở những vị trí được tài trợ này
+khi ai đó tìm kiếm những gì bạn cung cấp. Trong hướng dẫn này, tôi sẽ chỉ cho bạn chính xác cách thiết lập đúng cách
+để bạn hiển thị cho đúng các tìm kiếm và bạn không chỉ ném tiền vào quảng cáo mà không thu được chuyển đổi nào. Được rồi, với những điều đã nói ở trên, hãy cùng chuyển sang tạo
+Tạo Tài Khoản Google Ads Của Bạn
+tài khoản Google Ads của bạn. Và nếu bạn đã có tài khoản Google Ads, bạn có thể sử dụng dấu thời gian trong phần mô tả video
+để chuyển đến chương tiếp theo. Trên trang này, hãy nhấp vào Bắt đầu ngay,
+sau đó bạn cần đăng nhập bằng tài khoản Google của mình. Tôi sẽ đăng nhập vào tài khoản Google của mình ở đây và chúng ta sẽ gặp nhau ở bước tiếp theo.
+Sau khi đăng nhập vào tài khoản Google, bạn sẽ được đưa đến một trang như thế này. Hãy nhấp vào Tạo chiến dịch đầu tiên của bạn.
+Đầu tiên, Google sẽ hỏi bạn tên doanh nghiệp của mình. Tôi sẽ điền tên doanh nghiệp của tôi vào đây. Tôi sẽ sử dụng ví dụ như Công ty vệ sinh của Caleb.
+Sau đó, nó sẽ hỏi mọi người nên đi đâu sau khi nhấp vào quảng cáo của bạn. Hầu hết thời gian, bạn sẽ sử dụng trang web,
+nhưng nếu mục tiêu chính của bạn là các cuộc gọi điện thoại, thì bạn có thể sử dụng số điện thoại doanh nghiệp của mình, và nếu bạn đang quảng cáo một ứng dụng,
+bạn có thể sử dụng trang tải xuống ứng dụng. Chỉ cần chọn những gì phù hợp với mục tiêu của bạn. Tôi sẽ nhập URL trang web của mình ở đây.
+Sau đó, tôi sẽ cuộn xuống và nhấp vào Tiếp theo.
+Sau đó, bạn sẽ được chuyển đến trang này, nơi hệ thống sẽ yêu cầu bạn tạo chiến dịch đầu tiên.
+Tuy nhiên, chúng ta sẽ thoát khỏi quy trình thiết lập ban đầu này sớm hơn bằng cách cuộn xuống cuối trang và nhấp vào "Chỉ thiết lập tài khoản".
+Hãy nhấp vào đây. Bắt đầu bằng cách xác nhận quốc gia thanh toán, múi giờ và đơn vị tiền tệ của bạn.
+Sau khi hoàn tất, hãy nhấp vào "Tiếp tục". Sau đó, bạn cần xác nhận tài khoản và cài đặt thanh toán của mình.
+Bạn cũng sẽ thấy một ưu đãi dành cho người dùng mới. Nếu bạn nhấp vào đó, bạn sẽ thấy những nội dung như "Chi tiêu 500 và nhận 500 tín dụng quảng cáo".
+Tiếp theo là các chương trình khuyến mãi "Chi 1.500 và nhận 1.000", và "Chi 3.000 và nhận 1.500".
+Vì vậy, nếu bạn muốn sử dụng một trong những ưu đãi giới thiệu này, hãy cứ mạnh dạn thử. Tôi sẽ nhấp vào ưu đãi đầu tiên ở đây.
+Sau đó, tôi sẽ cuộn xuống và chúng ta cần tạo Hồ sơ Thanh toán. Vì vậy, hãy nhấp vào đây.
+Đối với loại hồ sơ của bạn, bạn cần chọn xem bạn là thành viên của một tổ chức hay là cá nhân. Tôi sẽ nhấp vào Cá nhân.
+Sau đó, tôi sẽ nhập tên và mã bưu chính của mình. Sau khi làm xong, hãy nhấp vào Tạo.
+Tiếp theo, bạn cần thêm phương thức thanh toán. Nhấp vào Thêm Phương thức Thanh toán, và bạn có thể chọn sử dụng
+thẻ tín dụng, thẻ ghi nợ hoặc tài khoản ngân hàng. Hãy chọn phương thức thanh toán phù hợp nhất với bạn. Tôi sẽ điền thông tin này
+và chúng ta sẽ gặp lại nhau ở bước tiếp theo. Được rồi, tôi đã điền xong phương thức thanh toán. Bạn sẽ thấy thông báo này ở đây cho biết
+bạn có thể thấy khoản ủy quyền tạm thời 50 đô la trên thẻ của mình, và khoản này thường sẽ được xóa trong vòng một tuần.
+Điều này chỉ để đảm bảo rằng phương thức thanh toán của bạn hợp lệ. Vì vậy, sau khi bạn đã làm xong, hãy cuộn xuống một chút ở đây.
+Phần này hỏi chúng ta có muốn nhận hướng dẫn cá nhân từ chuyên gia chiến lược tài khoản Google Ads hay không. Tôi sẽ chọn không.
+Sau đó, tôi sẽ cuộn xuống và nhấp vào Gửi. Tuyệt vời, vậy là chúng ta vừa tạo tài khoản Google Ads của mình.
+Tiếp theo, hãy cuộn xuống và nhấp vào Tiếp tục. Bây giờ bạn cần chọn xem bạn có thuộc
+một công ty quảng cáo hay không. Nếu có, hãy nhấp vào có, nhưng trong hầu hết các trường hợp, bạn sẽ chọn không.
+Sau đó, tôi sẽ cuộn xuống. Tiếp theo, bạn cần chọn xem bạn sẽ thanh toán trực tiếp cho Google Ads hay một công ty sẽ thanh toán và lập hóa đơn cho bạn.
+Đối với hầu hết mọi người, bạn sẽ nhấp vào có, chúng tôi thanh toán trực tiếp cho Google Ads. Sau đó, chúng ta sẽ cuộn xuống và nhấp vào Lưu và Tiếp tục.
+Và sau khi hoàn tất, bạn sẽ được đưa đến bảng điều khiển Google Ads của mình. Được rồi, trước khi chúng ta nhấp vào bất cứ thứ gì ở đây, tôi muốn cho bạn xem một mô hình đơn giản để hiểu
+Cấu Trúc Của Google Ads
+cấu trúc của Google Ads. Ở trên cùng, bạn có một chiến dịch. Bên trong chiến dịch, bạn có các nhóm quảng cáo,
+và mỗi nhóm quảng cáo tập trung vào một chủ đề, chẳng hạn như một dịch vụ hoặc một danh mục.
+Sau đó, bên trong mỗi nhóm quảng cáo, bạn có hai thứ, từ khóa bạn muốn hiển thị và quảng cáo mà mọi người thực sự nhìn thấy.
+Vì vậy, chúng ta sẽ xây dựng theo đúng thứ tự đó. Chúng ta sẽ làm chiến dịch trước, sau đó là các nhóm quảng cáo,
+rồi đến từ khóa và quảng cáo, và trong quá trình này, tôi sẽ chỉ ra các phương pháp tốt nhất thực sự quan trọng
+để chiến dịch của bạn luôn gọn gàng và bạn hiểu được điều gì đang thúc đẩy kết quả của mình. Được rồi, bây giờ hãy tiến hành tạo
+Tạo Chiến Dịch Đầu Tiên Của Bạn
+chiến dịch đầu tiên của chúng ta. Ngay đây, hãy nhấp vào Chiến dịch mới.
+Và chúng ta đã thấy màn hình này trước đây rồi. Đây là nơi bạn có thể nhập tên doanh nghiệp và trang web của mình.
+Tôi sẽ nhập lại thông tin của mình ở đây và cả trang web của tôi nữa.
+Sau khi hoàn tất, tôi sẽ cuộn xuống và nhấp vào Tiếp theo. Điều đầu tiên bạn sẽ được hỏi là
+mục tiêu chiến dịch của bạn. Ở đây, tôi khuyên bạn nên chọn tạo chiến dịch mà không cần hướng dẫn.
+Điều này sẽ giúp bạn kiểm soát quá trình thiết lập , tránh để Google tự động chọn một loạt cài đặt cho bạn. Vì vậy, tôi sẽ nhấp vào "Tạo chiến dịch mà không cần hướng dẫn",
+sau đó bạn có thể chọn loại chiến dịch. Trong hầu hết các trường hợp, bạn sẽ chọn chiến dịch tìm kiếm.
+Tôi sẽ nhấp vào đây, và sau đó bạn sẽ phải chọn kết quả mà bạn muốn nhận được từ chiến dịch,
+cho dù đó là lượt truy cập trang web hay cuộc gọi điện thoại. Tôi sẽ chọn lượt truy cập trang web, nhưng bạn nên chọn kết quả phù hợp
+nhất với mục tiêu của mình. Được rồi, tiếp theo, chúng ta cần chọn mục tiêu. Nếu tôi cuộn xuống đây, bạn sẽ thấy một vài mục tiêu ví dụ khác nhau.
+Bạn muốn chọn một mục tiêu phù hợp với những gì bạn muốn đạt được từ chiến dịch của mình. Ví dụ, nếu bạn muốn ai đó mua
+sản phẩm trên trang web của mình, bạn sẽ chọn Mua hàng. Nếu bạn muốn ai đó đăng ký nhận bản tin, bạn có thể chọn Đăng ký.
+Nhưng trong trường hợp của tôi, đối với trang web của tôi, tôi sẽ chọn Gửi biểu mẫu. Vì vậy, tôi sẽ nhấp vào mục này ở đây.
+Sau đó, tôi sẽ cuộn xuống cuối trang và đặt tên cho chiến dịch của mình. Tôi sẽ đặt tên là Chiến dịch Hướng dẫn Ví dụ.
+Ở phía dưới, bạn cũng sẽ thấy tùy chọn chuyển đổi nâng cao. Tôi sẽ để tùy chọn này được bật.
+Sau khi hoàn tất, hãy đi đến góc dưới bên phải và nhấp vào Đồng ý và Tiếp tục.
+Cài Đặt Giá Thầu và Cách Hoạt Động Của Đấu Giá
+Được rồi, và ở đây chúng ta có thể vào cài đặt đặt giá thầu. Đây là một trong những phần quan trọng nhất của toàn bộ thiết lập này bởi vì đây là nơi bạn có thể vô tình chi tiêu quá mức
+nếu bạn chỉ chấp nhận bất cứ điều gì Google đề xuất. Đối với một chiến dịch hoàn toàn mới, tôi khuyên bạn nên bắt đầu với số lượt nhấp chuột tối đa.
+Theo mặc định, nó được đặt thành chuyển đổi, vì vậy tôi sẽ thay đổi nó thành lượt nhấp chuột.
+Đây là một trong những loại chiến dịch đơn giản nhất mà chúng ta có thể sử dụng, và nó cũng giúp chúng ta bắt đầu thu hút lưu lượng truy cập ngay lập tức
+để chúng ta có thể sử dụng dữ liệu đó để cải thiện các chiến dịch của mình hơn nữa. Và sau đó, hãy đặt giới hạn giá thầu tối đa cho mỗi lượt nhấp chuột.
+Vì vậy, chúng ta sẽ chọn mục này ở đây. Đối với cài đặt này, chỉ cần nhập số tiền tối đa mà bạn cảm thấy thoải mái khi trả cho một lượt nhấp chuột.
+Tôi đang đặt nó là 10 đô la, không phải vì tôi dự kiến ​​sẽ trả nhiều như vậy, mà chỉ để đặt giới hạn cho Google
+để nó không quá cao khi chúng ta mới bắt đầu. Khi mới bắt đầu, bạn thường sẽ không biết chính xác chi phí mỗi lượt nhấp chuột thực tế trông như thế nào,
+vì vậy hãy chọn một con số mà bạn cảm thấy thoải mái. Nếu 10 đô la có vẻ quá cao, bạn có thể đặt thấp hơn, và sau này khi bạn hiểu
+rõ hơn về lĩnh vực và từ khóa của mình, bạn luôn có thể điều chỉnh nó. Giờ chúng ta đã thiết lập giới hạn giá thầu, hãy cùng tìm hiểu nhanh về cách thức
+hoạt động của việc đặt giá thầu trong Google Ads. Google Ads hoạt động giống như một cuộc đấu giá, nhưng không chỉ đơn thuần là ai đặt giá thầu cao nhất.
+Google cũng quan tâm đến mức độ liên quan và hữu ích của quảng cáo của bạn. Vị trí hiển thị của bạn dựa trên hai yếu tố kết hợp:
+số tiền bạn sẵn sàng chi trả và chất lượng quảng cáo. Vì vậy, ngay cả khi ai đó đặt giá thầu cao hơn bạn, bạn vẫn có thể hiển thị ở vị trí cao hơn trong kết quả tìm kiếm
+nếu quảng cáo của bạn liên quan hơn và chất lượng cao hơn. Điều này cũng ảnh hưởng đến số tiền bạn phải trả. Khi chất lượng quảng cáo tốt hơn,
+số lượt nhấp chuột thường hiệu quả hơn. Điều đó có nghĩa là bạn thường không phải trả toàn bộ giá thầu tối đa
+và chất lượng cao hơn có thể giúp bạn chi tiêu ít hơn cho cùng một lượng truy cập, đồng thời giảm thiểu chi phí lãng phí.
+Đây là những điều bạn cần tập trung vào. Hãy đảm bảo quảng cáo của bạn khớp rõ ràng với những gì người dùng đã tìm kiếm.
+Viết quảng cáo sao cho họ có lý do chính đáng để nhấp chuột và sau đó dẫn họ đến trang đích cung cấp chính xác những gì quảng cáo đã hứa.
+Vì vậy, như đã nói ở trên, chúng ta đã đặt giới hạn giá thầu tối đa cho mỗi lần nhấp chuột là 10 đô la, nhưng với một quảng cáo chất lượng cao,
+chúng ta có thể sẽ chi ít hơn đáng kể. Bây giờ chúng ta đã hiểu điều đó và đã thiết lập mọi thứ ở đây,
+hãy cuộn xuống và chúng ta sẽ chỉ tắt tùy chọn "đặt giá thầu cho khách hàng mới " . Vì vậy, tôi sẽ đi đến phía dưới bên phải và nhấp vào Tiếp theo.
+Cài Đặt Chiến Dịch
+Được rồi, bây giờ chúng ta đang ở trong cài đặt chiến dịch. Điều đầu tiên tôi khuyên bạn nên làm là tắt các mạng.
+Hãy bỏ chọn cả hai tùy chọn này. Theo kinh nghiệm của tôi, để chúng được bật có thể làm sai lệch rất nhiều dữ liệu bạn nhận được từ quảng cáo
+và làm tiêu tốn rất nhiều tiền. Vì vậy, hãy cứ để cả hai tùy chọn này tắt cho bất kỳ chiến dịch nào bạn tạo.
+Tiếp theo, hãy cuộn xuống phần vị trí. Có lẽ bạn không muốn hiển thị quảng cáo của mình trên toàn thế giới
+, toàn bộ Hoa Kỳ và Canada, hoặc thậm chí toàn bộ Hoa Kỳ. Có lẽ bạn sẽ muốn nhập một vị trí khác.
+Vì vậy, hãy nhấp vào đây và sau đó chúng ta có thể tìm kiếm vị trí mà chúng ta muốn hiển thị quảng cáo. Tôi sẽ nhấp vào đây,
+và sau đó tôi sẽ nhập, ví dụ, Austin, Texas. Tôi sẽ thấy Austin xuất hiện ở đây,
+và tôi sẽ nhấp vào Bao gồm. Và nếu bạn muốn cụ thể hơn về nơi bạn muốn hiển thị quảng cáo,
+hãy cuộn xuống và nhấp vào Tìm kiếm nâng cao. Như bạn có thể thấy ở phía bên phải,
+tôi có một bản đồ hiển thị nơi quảng cáo của tôi sẽ được hiển thị. Và hiện tại, Austin, Texas có phạm vi tiếp cận là 8,2 triệu người.
+Và bất cứ khi nào tôi thêm vị trí này vào, nó thực sự không chỉ hiển thị Austin. Nó trải dài đến tận phía tây,
+bao gồm Fredericksburg, Marble Falls, Mason và một thị trấn khác tên là Harper. Vì vậy, tôi sẽ sửa lại chỗ này.
+Tôi sẽ xóa Austin, Texas, và chuyển từ vị trí sang bán kính.
+Bây giờ, giả sử tôi chỉ muốn phục vụ trong vòng 20 dặm quanh Austin. Vì vậy, tôi sẽ nhập lại Austin,
+nhấp vào Bao gồm, và nó sẽ thu hẹp bán kính tìm kiếm. Và bây giờ, ví dụ, giả sử
+tôi muốn loại trừ một khu vực. Giả sử tôi không phục vụ ở khu vực Buda. Tôi sẽ quay lại phần vị trí,
+sau đó tôi sẽ nhập Buda và nhấp vào Loại trừ.
+Và bây giờ nó sẽ loại trừ khu vực này một cách cụ thể và những người ở đây sẽ không thể thấy quảng cáo của tôi.
+Đối với doanh nghiệp của bạn, chỉ cần chọn bất cứ điều gì thực tế. Ý chính là đừng thêm một loạt các vị trí ngẫu nhiên.
+Bạn muốn giữ cho việc này chặt chẽ và chính xác để ngân sách của bạn được dành cho đúng người. Vì vậy, tôi sẽ nhấp vào Lưu.
+Sau đó, hãy cuộn xuống và tìm các tùy chọn vị trí. Mặc định, tùy chọn này có thể được đặt thành Hiện diện hoặc Sở thích.
+Bạn cần đảm bảo nó được đặt thành Hiện diện. Điều này sẽ giúp quảng cáo của bạn hiển thị cho những người thực sự sống trong khu vực
+mà bạn phục vụ. Bây giờ, hãy cuộn xuống phần ngôn ngữ. Hệ thống sẽ tự động chọn ngôn ngữ mặc định của bạn,
+đối với tôi là tiếng Anh. Nếu bạn muốn thêm ngôn ngữ khác, bạn có thể làm điều đó ở đây. Tiếp theo, hãy chọn xem đây có phải là quảng cáo chính trị của EU hay không.
+Đối với tôi thì không, vì vậy tôi sẽ nhấp vào Không. Sau đó, tôi sẽ cuộn xuống dưới cùng bên phải và nhấp vào Tiếp theo.
+Trên màn hình này, bạn có thể thấy tùy chọn bật AI Max. Tôi thực sự khuyên bạn nên tắt tùy chọn này.
+Nếu nó đang được bật, hãy nhấp vào đó, sau đó nhấp vào Tắt.
+Bây giờ, hãy cuộn xuống dưới cùng và nhấp vào Tiếp theo. Sau đó, bạn sẽ được chuyển đến
+màn hình tạo từ khóa và nội dung. Chút nữa thôi, chúng ta sẽ tìm hiểu về cách tốt nhất để nghiên cứu từ khóa cho chiến dịch của bạn.
+Nhưng trước khi làm điều đó, hãy dành một chút thời gian để nghe từ nhà tài trợ của video này, Hostinger. Nếu bạn đang thiết lập Google Ads,
+Tạo Website Của Bạn Với Hostinger
+rất có thể bạn đang dẫn người dùng đến trang web của mình. Và sự thật là, bạn có thể có một chiến dịch tuyệt vời,
+nhưng nếu trang web của bạn chậm, lộn xộn hoặc khó hiểu trên thiết bị di động, bạn sẽ phải trả tiền cho những lượt nhấp chuột không bao giờ chuyển thành khách hàng tiềm năng hoặc doanh số bán hàng.
+Và đó là lý do tại sao video này được tài trợ bởi Hostinger. Cá nhân tôi cũng sử dụng Hostinger và tôi thực sự thích nó vì nó giúp việc
+xây dựng trang web trở nên cực kỳ đơn giản. Bạn có thể xây dựng trang web bằng WordPress hoặc sử dụng trình tạo trang web AI của Hostinger.
+Với trình tạo này, bạn chỉ cần nhập thông tin về doanh nghiệp của mình và nó sẽ tạo ra trang web. Một trang web chuyên nghiệp dành cho bạn chỉ trong vài phút
+mà không cần lập trình. Điều đó có nghĩa là bạn có thể nhanh chóng có một trang đích sạch sẽ, giúp quảng cáo của bạn có nơi ổn định
+để thu hút lưu lượng truy cập và bạn sẽ tiết kiệm được ngân sách hơn khi cố gắng đạt được chuyển đổi. Hostinger cũng có giá cả rất phải chăng.
+Các gói dịch vụ của họ bắt đầu từ dưới 3 đô la mỗi tháng và bạn có thể mua tên miền, thiết lập hosting và xuất bản mọi thứ ở cùng một nơi.
+Để nhận được ưu đãi tốt nhất hiện có, hãy đăng ký Hostinger bằng liên kết đầu tiên trong phần mô tả video. Liên kết đó sẽ tự động áp dụng
+mã giảm giá độc quyền của chúng tôi, giúp bạn được giảm thêm 10% cho bất kỳ gói dịch vụ nào. Xin chân thành cảm ơn Hostinger đã tài trợ video này
+và dành tặng người xem ưu đãi độc quyền này. Bây giờ, hãy tiếp tục xây dựng chiến dịch của bạn. Được rồi, bây giờ chúng ta quay lại
+Nghiên Cứu Từ Khóa
+màn hình tạo từ khóa và nội dung. Google sẽ đề nghị tạo từ khóa và nội dung quảng cáo
+nếu bạn dán URL của mình vào đây và sau đó mô tả sản phẩm hoặc dịch vụ của bạn. Điều này có thể hữu ích như một điểm khởi đầu,
+nhưng tôi không khuyên bạn nên dựa vào nó vì nó không phải là nghiên cứu từ khóa thực sự và nó không dạy bạn lý do tại sao bạn đang nhắm mục tiêu vào
+những gì bạn đang nhắm mục tiêu. Vậy nên tôi sẽ cuộn xuống và nhấp vào Bỏ qua.
+Được rồi, bây giờ bạn sẽ ở trên màn hình nhóm quảng cáo. Đây là nơi bạn thường tạo nhóm quảng cáo đầu tiên và bắt đầu thêm từ khóa.
+Nhưng trước khi làm điều đó, chúng ta cần nhanh chóng nghiên cứu từ khóa để biết mình nên nhắm mục tiêu vào cái gì.
+Bây giờ tôi có ba tab mới mở ở trên cùng này. Tab đầu tiên là một bảng tính đơn giản,
+nơi chúng ta sẽ thu thập một số ý tưởng từ khóa. Và tab thứ hai là tìm kiếm Google. Chúng ta sẽ sử dụng cái này để xem
+người dùng thực sự đang gõ những gì và các công ty khác đang làm gì với quảng cáo của họ. Và tab thứ ba ở đây là công cụ lập kế hoạch từ khóa.
+Công cụ này nằm trong Google Ads và tôi sẽ hướng dẫn bạn cách truy cập vào đây trong vài phút nữa. Vậy bây giờ, hãy quay lại bảng tính của chúng ta.
+Trong hướng dẫn này, tôi đang sử dụng một công ty vệ sinh làm ví dụ, nhưng quy trình sẽ hoàn toàn giống nhau bất kể bạn kinh doanh trong lĩnh vực nào.
+Mục tiêu chỉ là tìm các từ khóa phù hợp với những gì khách hàng của bạn đang tìm kiếm. Và đây cũng là lời nhắc nhanh
+từ trước đó về nhóm quảng cáo. Mỗi nhóm quảng cáo mà chúng ta tạo ra nên tập trung vào một dịch vụ hoặc một chủ đề duy nhất,
+để từ khóa và nội dung quảng cáo khớp nhau hoàn toàn. Đối với dịch vụ dọn dẹp, đó có thể là dọn dẹp nhà cửa, dọn dẹp chuyên sâu,
+dọn dẹp sau khi chuyển nhà, v.v. Nếu bạn cung cấp các dịch vụ hoàn toàn khác nhau, thì chúng nên được đặt trong các nhóm quảng cáo riêng biệt.
+Ví dụ, hiện tại tôi sắp tạo một nhóm quảng cáo cho dịch vụ dọn dẹp nhà cửa, nhưng nếu tôi cung cấp thêm dịch vụ khác như bảo dưỡng sân vườn,
+thì tôi sẽ muốn tạo một nhóm quảng cáo hoàn toàn riêng biệt cho dịch vụ đó. Được rồi, vậy bây giờ, tôi sẽ giữ cho nó đơn giản
+với một chủ đề chung cho nhóm quảng cáo này, đó là dọn dẹp nhà cửa tại Austin, Texas.
+Và sau đó, tôi sẽ bắt đầu điền các từ khóa của mình. Hiện tại, tôi sẽ chỉ sử dụng "công ty dọn dẹp,
+Austin, Texas". Và bây giờ tôi đã có từ khóa đầu tiên ở đây, tôi sẽ sao chép nó và sau đó tôi sẽ chuyển đến tìm kiếm trên Google.
+Sau đó, tôi sẽ dán nó vào đây. Bây giờ hãy tìm kiếm từ khóa này và xem các công ty khác đang làm gì.
+Hãy bắt đầu bằng cách xem xét hai kết quả được tài trợ ở đầu trang này. Về những gì họ nói ở đây, họ đã hoạt động trong lĩnh vực này 22 năm.
+Họ cho biết phục vụ khu vực Austin, cung cấp báo giá miễn phí và giảm giá. Tôi cũng thấy các nút ở bên phải
+để nhận báo giá, đặt lịch hẹn và lấy số điện thoại của họ. Vì vậy, chúng ta đã thấy một số thông tin khá tốt ở đây.
+Về những gì chúng ta nên đưa vào quảng cáo. Vì vậy, tôi khuyên bạn nên ghi lại tất cả những gì bạn thấy quan trọng từ quá trình nghiên cứu cho công ty của mình.
+Bây giờ, hãy cuộn xuống phần kết quả được tài trợ ở đây. Ở đây, tôi thấy chúng ta có các từ khóa như dịch vụ vệ sinh tại Austin, Texas,
+dịch vụ dọn dẹp nhà cửa tại Austin, Texas, công ty dọn dẹp nhà cửa. Vì vậy, tôi sẽ bắt đầu ghi lại
+một số thông tin này. Tôi sẽ quay lại bảng tính của mình và nhập "dịch vụ dọn dẹp nhà cửa,
+Austin, Texas". Sau đó, tôi sẽ nhập "dịch vụ giúp việc dọn dẹp,
+Austin, Texas". Tôi cũng sẽ nhập "công ty vệ sinh gần tôi", "
+dọn dẹp nhà cửa gần tôi", "giúp việc dọn dẹp gần tôi". Và nếu tôi quay lại tìm kiếm Google,
+tôi cũng thấy rằng mọi người đều cung cấp báo giá miễn phí. Vì vậy, điều đó dường như rất quan trọng khi mọi người tìm kiếm.
+Vì vậy, tôi cũng sẽ thêm điều đó vào. Tôi sẽ nhập " báo giá dọn dẹp nhà cửa miễn phí".
+Bây giờ bạn có thể tiếp tục cuộn xuống trang này và nghiên cứu thêm , sau đó thêm từ khóa
+cho từng nhóm quảng cáo của bạn. Hiện tại, tôi nghĩ những từ khóa tôi đang có ở đây khá tốt, vì vậy chúng ta sẽ tiếp tục với chúng.
+Sử Dụng Keyword Planner
+Được rồi, và bây giờ tôi đã có các từ khóa, tôi sẽ chuyển sang công cụ lập kế hoạch từ khóa của Google Ads. Để truy cập công cụ này,
+chỉ cần mở một tab mới và quay lại bảng điều khiển Google Ads của bạn. Sau đó, từ đây, hãy vào Công cụ
+và sau đó nhấp vào Công cụ lập kế hoạch từ khóa, sau đó nhấp vào Khám phá từ khóa mới,
+và chúng ta hãy bắt đầu nhập một số từ khóa từ bảng tính của mình. Vì vậy, tôi sẽ bắt đầu với "công ty vệ sinh,
+Austin, Texas", " dịch vụ dọn dẹp nhà cửa gần tôi", "
+dịch vụ giúp việc nhà, Austin, Texas", và bạn có thể tiếp tục thêm tất cả các từ khóa của mình ở đây.
+Bây giờ tôi sẽ cuộn xuống và nhấp vào "Nhận kết quả".
+Tuyệt vời, và sau đó nó sẽ cung cấp cho bạn một loạt thông tin quan trọng về các từ khóa của bạn. Ngay tại đây, bạn có thể thấy từng từ khóa chúng ta đã nhập,
+số lượt tìm kiếm trung bình hàng tháng cho mỗi từ khóa, mức độ cạnh tranh của chúng, và điều rất quan trọng ở đây,
+chúng ta có mức giá thầu thấp nhất và cao nhất. Những con số trong công cụ lập kế hoạch từ khóa này
+chỉ giúp chúng ta hình dung sơ bộ về chi phí của các từ khóa. Vì vậy, đừng coi đây là số tiền chính xác
+bạn sẽ phải trả, mà chỉ là phạm vi giá chung. Một điểm rất tốt nữa là Google cũng cung cấp cho chúng ta
+rất nhiều ý tưởng từ khóa mới cùng với đầy đủ thông tin cho mỗi từ khóa.
+Cách tôi thường làm là vào góc trên bên phải, nhấp vào nút Tải xuống
+, sau đó nhấp vào Google Sheets để tải xuống.
+Tiếp theo, tôi sẽ nhấp vào Mở bảng tính để lưu lại và xem tất cả thông tin.
+Nhờ đó, tôi có thể xem xét tất cả các từ khóa, kiểm tra số lượt tìm kiếm hàng tháng, mức độ cạnh tranh
+và cả phạm vi giá thầu. Sau đó, tôi có thể quay lại bảng tính và bắt đầu sao chép và dán tất cả các từ khóa
+mà tôi muốn sử dụng. Như vậy, bạn đã biết chính xác cách nghiên cứu từ khóa cho doanh nghiệp của mình
+để tìm ra những từ khóa bạn nên nhắm mục tiêu trong các nhóm quảng cáo. Giờ thì tôi đã biết những từ khóa mình muốn sử dụng trong nhóm quảng cáo rồi,
+tôi sẽ đóng tất cả các tab này lại. Tôi sẽ đóng tab này, tab
+tìm kiếm Google này. Nhưng tôi sẽ giữ tab nghiên cứu từ khóa mở vì lát nữa tôi sẽ sao chép và dán
+những từ khóa này vào nhóm quảng cáo của mình. Vì vậy, tôi sẽ để tab này mở trước đã. Bây giờ tôi sẽ quay lại tab quảng cáo Google ở
+​​trên cùng và chúng ta cùng tiếp tục nhé. Tạo nhóm quảng cáo đầu tiên của chúng ta. Hãy bắt đầu bằng cách đặt tên cho nó ở trên cùng.
+Tạo Nhóm Quảng Cáo và Các Loại Đối Sánh
+Tôi sẽ đặt tên cho nhóm này là "Dọn dẹp nhà cửa". Và một lần nữa, ở đây bạn có thể nhận được các gợi ý từ khóa
+nếu muốn, nhưng chúng ta vừa mới nghiên cứu từ khóa xong, vì vậy chúng ta sẽ bỏ qua bước đó. Bây giờ, đây là nơi chúng ta nhập từ khóa.
+Được rồi, vậy có ba loại từ khóa khác nhau mà bạn cần biết. Đó là từ khóa rộng, từ khóa cụm từ và từ khóa chính xác.
+Từ khóa rộng là lựa chọn lỏng lẻo nhất. Nó có thể hiển thị quảng cáo của bạn cho các tìm kiếm có liên quan đến ý nghĩa của từ khóa,
+ngay cả khi người dùng không nhập chính xác các từ bạn đã chọn. Từ khóa rộng có thể hoạt động tốt hơn một chút sau này
+khi bạn có nhiều dữ liệu hơn và kiểm soát chặt chẽ hơn. Nhưng đối với hầu hết người mới bắt đầu, nó mở rộng quá nhanh
+và sẽ thu hút rất nhiều lưu lượng truy cập chất lượng thấp. Vì vậy, tôi không khuyên bạn nên sử dụng từ khóa rộng.
+Từ khóa cụm từ thường là nơi tốt nhất để bắt đầu cho người mới bắt đầu. Nó cho phép bạn kiểm soát nhiều hơn so với từ khóa rộng,
+nhưng nó không quá khắt khe đến mức bạn hầu như không nhận được lưu lượng truy cập nào. Bạn vẫn sẽ tiếp cận được những người đang tìm kiếm những gì bạn cung cấp,
+nhưng bạn sẽ loại bỏ được rất nhiều lượt tìm kiếm ngẫu nhiên, không liên quan mà đối sánh rộng có thể thu hút. Đối sánh chính xác là tùy chọn được kiểm soát tốt nhất.
+Nhưng đây là điều quan trọng cần hiểu. Chính xác không có nghĩa là giống hệt từng từ.
+Google vẫn sẽ xem xét ý định. Vì vậy, nó có thể hiển thị quảng cáo của bạn cho các biến thể gần giống nhau nhưng có cùng nghĩa.
+Vì vậy, nó được kiểm soát, nhưng không hoàn hảo. Trong hướng dẫn này, đối với các từ khóa của tôi, tôi sẽ chỉ sử dụng đối sánh cụm từ.
+Điều đó sẽ cho chúng ta nhiều quyền kiểm soát và nó sẽ giữ cho chiến dịch gọn gàng và vẫn cho phép chúng ta thu thập đủ dữ liệu
+để thực hiện các cải tiến thông minh sau này. Vì vậy, tôi sẽ quay lại bảng tính của mình
+và sao chép tất cả các từ khóa mà tôi muốn sử dụng. Sau đó, tôi sẽ quay lại nhóm quảng cáo của mình
+và dán chúng vào đây. Và sau đó ở phía dưới đây, bạn sẽ thấy cách bạn chọn loại đối sánh bạn muốn cho mỗi từ khóa.
+Vì vậy, để tìm kiếm cụm từ khóa phù hợp, bạn phải đặt nó trong dấu ngoặc kép . Nếu muốn tìm kiếm chính xác,
+bạn phải đặt từ khóa trong ngoặc vuông. Còn nếu muốn tìm kiếm rộng hơn, bạn chỉ cần nhập từ khóa mà không cần thêm gì cả.
+Tôi sẽ đặt từng từ khóa của mình trong dấu ngoặc kép như thế này.
+Được rồi, tôi đã thêm tất cả các từ khóa và đặt chúng trong dấu ngoặc kép. Và nếu bạn đang thắc mắc nên thêm
+bao nhiêu từ khóa cho nhóm quảng cáo của mình, thì không cần thiết phải thêm quá nhiều đến mức khó tin.
+Tôi khuyên bạn nên giữ danh sách này nhỏ gọn lúc đầu , thử nghiệm và thay đổi chúng để xem từ khóa nào thực sự hiệu quả nhất cho doanh nghiệp của bạn.
+Tôi hài lòng với danh sách này, vì vậy tôi sẽ tiếp tục cuộn xuống trang. Bắt đầu từ trên cùng, chúng ta có URL cuối cùng.
+Đây đơn giản là trang mà người dùng sẽ truy cập sau khi nhấp vào quảng cáo của bạn. Bạn muốn URL này càng liên quan
+đến nội dung quảng cáo càng tốt. Vì vậy, nếu mục tiêu của bạn là giúp ai đó đặt lịch hẹn, bạn muốn đưa họ đến trang đặt lịch hẹn của mình.
+Nếu bạn đang quảng bá một dịch vụ cụ thể, hãy dẫn họ đến trang dịch vụ đó. Và nếu bạn đang bán sản phẩm,
+hãy dẫn họ trực tiếp đến trang sản phẩm. Trang càng khớp với những gì họ tìm kiếm, kết quả của bạn sẽ càng tốt hơn.
+Tiếp theo là đường dẫn hiển thị. Điều này không thay đổi nơi người dùng truy cập, nó chỉ thay đổi văn bản URL ở đây trong quảng cáo.
+Bạn có thể tùy chỉnh điều này để quảng cáo trông gọn gàng hơn một chút, nhưng tôi nghĩ với quảng cáo cụ thể của mình, tôi thích cách nó chỉ là tên miền của tôi ở đây.
+Tiêu Đề, Mô Tả, & Liên Kết Trang
+Tiếp theo, tôi sẽ cuộn xuống phần Tiêu đề. Đây là nơi mà nghiên cứu trước đó của bạn phát huy tác dụng. Bạn có thể coi tiêu đề là những cụm từ ngắn gọn, có sức ảnh hưởng lớn
+, phù hợp với những gì người dùng đang tìm kiếm và tạo động lực để họ nhấp chuột. Vì vậy, tôi sẽ thêm tiêu đề của mình vào đây cho một công ty vệ sinh.
+Tôi sẽ bắt đầu với "dọn dẹp nhà cửa", "người giúp việc",
+"dịch vụ dọn dẹp nhà cửa", và sau đó tôi sẽ thêm một số cụm từ khác,
+chẳng hạn như "ước tính miễn phí", "phục vụ khu vực Austin".
+Tiếp theo là "Đặt lịch trực tuyến". Và nếu tôi cuộn lên trên cùng
+ở phía bên phải, bạn sẽ thấy Google sẽ xoay vòng và kết hợp các tiêu đề khác nhau mà bạn tạo ra để tìm ra
+những sự kết hợp mang lại hiệu quả tốt nhất. Sau đó, chúng ta sẽ thêm phần mô tả.
+Đây chỉ là những câu dài hơn một chút giải thích những gì bạn làm và những gì người dùng nên làm tiếp theo. Nếu bạn cần trợ giúp để nghĩ ra phần này
+, hãy cứ mở một tab mới. Hãy nhập "dịch vụ dọn dẹp nhà cửa",
+"Austin, Texas". Và tôi có thể thấy các mô tả mà các công ty khác đã tạo cho quảng cáo của họ ở đây.
+Mô tả này nói rằng "Dịch vụ giúp việc giá cả phải chăng, được đánh giá cao, hoạt động bảy ngày một tuần và có thể đặt lịch hẹn vào ngày hôm sau".
+Cái này ghi là "Liên hệ với chuyên gia vệ sinh chuyên sâu và nhận báo giá nhanh chóng, giá cả phải chăng". Vì vậy, tùy thuộc vào loại hình kinh doanh của bạn, hãy nghiên cứu thêm.
+Bạn có thể thêm những mô tả này vào bảng tính nếu muốn, nhưng tôi sẽ tạo trước ở đây.
+Tôi sẽ dán mô tả đầu tiên vào đây và sau đó dán thêm một mô tả khác ở đây.
+Bạn có thể thêm tối đa bốn mô tả, vì vậy nếu muốn thêm, hãy thêm chúng vào đây. Sau khi thêm xong,
+bạn có thể cuộn lên trên và xem chúng trông như thế nào với quảng cáo của bạn ở trên cùng. Tôi nghĩ tôi hài lòng với tiêu đề
+và mô tả mà tôi đã thêm. Vì vậy, tôi sẽ cuộn xuống cuối trang và nếu muốn,
+bạn cũng có thể bắt đầu thêm các liên kết trang web. Tôi sẽ chỉnh sửa liên kết này
+và thay đổi văn bản từ "Mua sản phẩm" thành "Đặt lịch hẹn".
+Và tôi có thể thay đổi URL từ "cửa hàng" thành "đặt lịch", sau đó nhấp vào "Tạo",
+và có vẻ như tôi có hai trang "Liên hệ với chúng tôi", vì vậy tôi sẽ xóa trang này, và sau đó bạn sẽ thấy liên kết trang web xuất hiện
+trong quảng cáo của bạn ngay tại đây. Và liên kết đầu tiên là "Đặt lịch hẹn", điều này rất tốt. Được rồi, bây giờ với tất cả những việc đã hoàn thành,
+tôi nghĩ chúng ta đã sẵn sàng chuyển sang bước tiếp theo. Vì vậy, hãy cuộn xuống cuối trang và nhấp vào "Lưu".
+Và sau đó, ở đây, bạn sẽ nhận được bản xem trước tất cả những gì bạn đã điền cho nhóm quảng cáo này. Khi bạn hài lòng với nó, hãy cuộn xuống và nhấp vào "Tiếp theo".
+Thiết Lập Ngân Sách Hằng Ngày
+Và ở đây, bạn cần đặt ngân sách hàng ngày của mình. Google sẽ tự động đề xuất cho bạn một ngân sách trung bình hàng ngày.
+Bạn có thể chọn ngân sách này nếu muốn. Nó sẽ phân tích những gì bạn có thể mong đợi ở đây. Nó cho biết 276 lượt nhấp chuột hàng tuần,
+chi phí trung bình mỗi lượt nhấp là 1,55 đô la và chi phí hàng tuần là 426 đô la.
+Đối với tôi, tôi sẽ cuộn xuống và nhấp vào "Đặt ngân sách tùy chỉnh". Với dịch vụ dọn dẹp của mình,
+tôi nghĩ ngân sách 100 đô la mỗi ngày là hợp lý. Điều quan trọng là ngân sách của bạn phải
+phù hợp với hoạt động kinh doanh và số liệu của bạn. Nếu bạn đặt ngân sách quá thấp, bạn có thể sẽ không thu hút được nhiều lượt truy cập,
+điều đó có nghĩa là bạn sẽ không thu thập đủ dữ liệu để biết điều gì hiệu quả, nhưng bạn cũng không muốn chi tiêu một cách mù quáng.
+Một cách đơn giản để hiểu điều này là: Nếu một công việc dọn dẹp được đặt lịch có giá khoảng 200 đô la,
+thì việc chi ít hơn số đó để có được một khách hàng tiềm năng hoặc một lượt đặt lịch là mục tiêu tôi hướng tới. Bạn sẽ không thể làm hoàn hảo ngay từ ngày đầu tiên,
+nhưng bạn cần đủ ngân sách để thực sự thử nghiệm mọi thứ. Và ở đây, bạn sẽ thấy số lượt nhấp chuột hàng tuần,
+chi phí trung bình cho mỗi lượt nhấp chuột và chi phí hàng tuần của bạn. Hoàn toàn ổn nếu bắt đầu với ngân sách dưới 100 đô la mỗi ngày,
+chỉ cần đảm bảo nó phù hợp với doanh nghiệp và từ khóa của bạn. Sau khi hoàn tất, hãy cuộn xuống và nhấp vào Tiếp theo.
+Được rồi, chiến dịch của chúng ta đã được tạo, nhưng quảng cáo vẫn đang được xem xét, vì vậy nó sẽ không chạy ngay lập tức.
+Cài Đặt Thẻ Google
+Vì vậy, điều tiếp theo chúng ta sẽ làm là thiết lập theo dõi chuyển đổi. Bằng cách đó, Google có thể đo lường khách hàng tiềm năng một cách chính xác.
+Vì vậy, nếu tôi cuộn xuống đây, bạn sẽ thấy tùy chọn cài đặt thẻ Google bằng WordPress hoặc thủ công.
+Chúng ta sẽ nhấp vào Cài đặt thủ công, và sau đó bạn sẽ tìm thấy thẻ Google của mình ở đây.
+Điều chúng ta cần làm là nhấp vào nút Sao chép ở đây và chúng ta cần dán nó vào phần head
+của trang web, để nó có thể được tải trên toàn trang web. Sau khi sao chép xong, tôi sẽ vào bảng điều khiển WordPress của mình.
+Bây giờ, nếu bạn xây dựng trang web của mình bằng một nền tảng khác ngoài WordPress, quy trình này sẽ hơi khác một chút. Nhưng nếu bạn đang sử dụng WordPress,
+đây là cách tôi khuyên bạn nên làm. Hãy tìm một plugin có tên là WPCode. Nó sẽ trông như thế này đây.
+Sau đó, cài đặt và kích hoạt plugin này. Sau khi làm xong, bạn sẽ thấy các đoạn mã ở phía bên trái.
+Bôi выде đoạn mã này và nhấp vào Header and Footer.
+Tìm phần head ở đây và dán thẻ đó vào. Sau khi làm xong, hãy vào góc trên bên phải,
+nhấp vào Save Changes, và bây giờ thẻ Google đã được cài đặt trên toàn bộ trang web.
+Bây giờ tôi sẽ quay lại Google Ads, sau đó cuộn xuống và nhấp vào Test Installation.
+Trong trường hợp của tôi, vì tôi đang sử dụng tên miền thử nghiệm và trang web thử nghiệm, nên việc này sẽ không kết nối
+đúng cách với trang web của tôi, nhưng trong trường hợp của bạn, nó sẽ thành công. Nếu bạn gặp sự cố
+khi cài đặt thẻ Google, trước tiên, hãy đảm bảo rằng tên miền của bạn đã được cấu hình đúng cách. Thứ hai, hãy đảm bảo bạn đã xóa
+bộ nhớ cache sau khi thực hiện thay đổi đối với phần head của trang web. Và cũng có thể mất vài phút
+để mọi thứ đồng bộ hóa đúng cách. Vậy nên, tôi sẽ nhấp vào Hướng dẫn qua email,
+để tôi có thể quay lại việc này sau. Từ đây, tôi sẽ nhấp vào Tôi sẽ làm việc này sau
+và tôi sẽ nhấp vào nó một lần nữa ở đây. Được rồi, sau đó, bạn sẽ được đưa
+Tạm Dừng Chiến Dịch
+đến màn hình tổng quan chiến dịch. Và ngay tại đây, bạn sẽ thấy chiến dịch của mình hiện đang được bật.
+Tuy nhiên, tôi muốn tạm dừng việc này một chút trong khi chúng ta hoàn tất thiết lập theo dõi chuyển đổi. Bằng cách đó, chúng ta sẽ không phải trả tiền cho các lượt nhấp chuột
+trước khi Google thực sự có thể đo lường khách hàng tiềm năng của chúng ta. Vì vậy, tôi sẽ thay đổi trạng thái từ bật sang tạm dừng.
+Thiết Lập Theo Dõi Chuyển Đổi
+Bây giờ ở phía bên trái, hãy nhấp vào Mục tiêu. Sau đó, tôi sẽ cuộn xuống
+Tạo hành động chuyển đổi. Đây là một trong những phần quan trọng nhất của toàn bộ thiết lập này bởi vì nếu bạn bỏ qua bước này,
+Google sẽ không biết khách hàng tiềm năng là gì đối với doanh nghiệp của bạn, và do đó bạn chỉ phải trả tiền cho các lượt nhấp chuột mà không có sự đo lường thực sự nào.
+Bây giờ chúng ta sẽ tạo ba hành động chuyển đổi để Google có thể theo dõi các cách chính mà ai đó trở thành khách hàng tiềm năng.
+Loại đầu tiên chúng ta sẽ tạo ra là các cuộc gọi từ trang web của bạn. Điều này xảy ra khi ai đó nhấp vào số điện thoại của bạn trên trang web.
+Loại thứ hai là các cuộc gọi từ quảng cáo của bạn. Điều này xảy ra khi ai đó nhấn vào nút gọi trực tiếp trên quảng cáo.
+Và loại thứ ba là các cuộc gọi từ biểu mẫu trên trang web hoặc từ việc đặt chỗ. Điều này xảy ra khi ai đó gửi biểu mẫu của bạn
+và đến trang cảm ơn. Chúng ta tạo ra ba loại này vì chúng bao gồm các con đường dẫn khách hàng tiềm năng phổ biến nhất
+đối với hầu hết các doanh nghiệp và cung cấp cho Google dữ liệu sạch để tối ưu hóa. Vì vậy, như đã nói ở trên,
+Hãy cùng tạo hành động chuyển đổi đầu tiên của chúng ta. Nhấp vào Tạo Hành động Chuyển đổi,
+Theo Dõi Cuộc Gọi Từ Website Của Bạn
+và việc đầu tiên chúng ta sẽ làm là tạo một hành động chuyển đổi cho cuộc gọi điện thoại. Tôi sẽ nhấp vào đây
+, rồi từ đây, nhấp vào Tạo Chuyển đổi, và sau đó tôi sẽ chọn cuộc gọi từ lượt truy cập trang web.
+Sau đó nhấp vào "Ai đó gọi đến số điện thoại hiển thị trên trang web của tôi". Và từ đây, bạn sẽ muốn nhập
+số điện thoại doanh nghiệp của mình. Tôi sẽ chỉ sử dụng số ví dụ này ở đây,
+nhưng bạn cần đảm bảo rằng đây là số điện thoại doanh nghiệp chính của bạn hiển thị trên trang web. Vì vậy, từ đây, nhấp vào Sử dụng Sự kiện này,
+sau đó cuộn xuống và nhấp vào Lưu và Tiếp tục.
+Được rồi, bây giờ chúng ta đã tạo hành động chuyển đổi. Hãy cuộn xuống đây. Và nếu bạn chưa thiết lập thẻ Google của mình,
+bạn sẽ thấy điều này xuất hiện ngay tại đây. Nhưng nếu bạn đã làm điều đó trước đó, thì điều này sẽ ổn. Bây giờ điều tiếp theo chúng ta cần làm là tìm đoạn mã sự kiện.
+Vậy nên hãy nhấp vào Xem Đoạn Sự Kiện, sau đó bạn sẽ sao chép đoạn này,
+rồi quay lại bảng điều khiển WordPress hoặc nơi bạn nhập mã tùy chỉnh cho trang web của mình.
+Ngay bên dưới thẻ Google, chúng ta sẽ dán đoạn sự kiện này vào.
+Chỉ cần dán nó vào ngay bên dưới đoạn mã chúng ta đã dán trước đó. Sau đó nhấp vào Lưu Thay Đổi,
+rồi tôi sẽ quay lại Google Ads, đóng cửa sổ này lại. Và thế là xong, chúng ta đã thêm đoạn sự kiện này
+cho khách hàng tiềm năng gọi điện thoại vào trang web của mình. Được rồi, bây giờ, hãy cuộn xuống và nhấp vào Hoàn Tất.
+Theo Dõi Cuộc Gọi Từ Quảng Cáo Của Bạn
+Tiếp theo, hãy cuộn xuống và nhấp vào Tạo Hành Động Chuyển Đổi một lần nữa.
+Việc tiếp theo chúng ta sẽ làm là thiết lập hành động chuyển đổi cho các cuộc gọi từ tiện ích mở rộng quảng cáo. Điều đó có nghĩa là chúng ta đang theo dõi bất cứ khi nào ai đó gọi cho chúng ta
+trực tiếp từ quảng cáo của chúng ta. Vì vậy, hãy cuộn xuống và nhấp vào Khách Hàng Tiềm Năng Gọi Điện Thoại một lần nữa,
+nhấp vào Tạo Chuyển Đổi, nhấp vào Cuộc Gọi Từ Quảng Cáo.
+Và bạn có thể thấy ở đây nó ghi là "Khi ai đó nhấp vào quảng cáo cuộc gọi hoặc tài sản cuộc gọi". Từ đó, hãy cuộn xuống và nhấp vào Lưu và Tiếp tục.
+Vậy là bây giờ, chúng ta đang theo dõi hai hành động chuyển đổi khác nhau. Vì vậy, giờ bạn sẽ có thể biết cuộc gọi nào đến từ trang web của bạn
+và cuộc gọi nào đến trực tiếp từ quảng cáo. Sau khi tạo xong, hãy cuộn xuống và nhấp vào Hoàn tất.
+Theo Dõi Gửi Biểu Mẫu
+Được rồi, bây giờ chúng ta đã theo dõi các cuộc gọi điện thoại, việc tiếp theo chúng ta cần làm là theo dõi khách hàng tiềm năng trên trang web,
+chẳng hạn như biểu mẫu liên hệ hoặc yêu cầu đặt chỗ. Vấn đề là Google không thể tự động biết khi nào ai đó điền vào biểu mẫu trên trang web của bạn,
+vì vậy chúng ta phải cung cấp cho nó một tín hiệu rõ ràng. Và tín hiệu rõ ràng nhất mà chúng ta thường có thể cung cấp là trang cảm ơn.
+Trang cảm ơn chỉ là một trang xác nhận mà người dùng chỉ thấy sau khi họ gửi biểu mẫu của bạn.
+Ví dụ, đó sẽ là một cái gì đó như yourwebsite.com/thankyou hoặc yourwebsite.com/bookingconfirmed.
+Và lý do tại sao điều này hiệu quả rất đơn giản. Nếu ai đó truy cập vào trang đó, chúng ta biết rằng họ chắc chắn đã hoàn thành biểu mẫu
+và đó là một khách hàng tiềm năng thực sự. Vì vậy, bước đầu tiên ở đây là trên trang web của bạn. Bạn cần đảm bảo rằng biểu mẫu của bạn chuyển hướng
+đến trang cảm ơn sau khi gửi, và sau đó bạn cần sao chép liên kết đó. Bước thứ hai là
+thiết lập theo dõi chuyển đổi cho trang cảm ơn đó. Vì vậy, hãy tiến hành ngay bây giờ. Cuộn xuống cuối trang
+và nhấp vào Tạo hành động chuyển đổi. Từ đây, cuộn xuống và nhấp vào Gửi biểu mẫu khách hàng tiềm năng.
+Sau đó, nhấp vào Tạo chuyển đổi. Chọn trang web của bạn.
+Sau đó nhấp vào "Tự động không cần mã". Đối với loại sự kiện, hãy đảm bảo nó được đặt thành tải trang.
+Sau đó thay đổi từ "URL bắt đầu bằng" thành "URL chứa".
+Bây giờ, đối với URL ở đây, hãy nhập URL của trang xác nhận. Đối với trang web của bạn thì là... Với tôi, đó sẽ là "cảm ơn".
+Nếu trang của bạn kết thúc bằng "xác nhận" hoặc "đặt chỗ đã được xác nhận", bạn sẽ điền vào đây.
+Đây là phần bạn thiết lập trên trang web của mình. Vì vậy, hãy kiểm tra kỹ và đảm bảo rằng bạn đã nhập đúng URL trang xác nhận.
+Bây giờ, hãy cuộn xuống và nhấp vào "Xong". Sau đó nhấp vào "Lưu và Tiếp tục".
+Và thế là xong, bạn đã thiết lập ba hành động chuyển đổi. Bạn có cuộc gọi điện thoại từ trang web của mình, cuộc gọi điện thoại từ quảng cáo của bạn
+và theo dõi chuyển đổi từ chính trang web của bạn. Được rồi, bây giờ, hãy cuộn xuống và nhấp vào "Hoàn tất".
+Thêm Tài Sản Chiến Dịch
+Được rồi, bây giờ, hãy quay lại các chiến dịch của chúng ta. Ở phía bên trái, nhấp vào "Chiến dịch",
+và sau đó ở đây, nhấp vào "Chiến dịch". Bây giờ tôi sẽ cuộn xuống và nhấp vào "Nhóm quảng cáo".
+Trong các nhóm quảng cáo, tôi sẽ cuộn xuống và tìm nhóm quảng cáo mà tôi vừa tạo ở đây. Nếu bạn muốn tạo một nhóm quảng cáo mới,
+bạn có thể làm điều đó bằng cách nhấp vào nút màu xanh lam ở đây. Như tôi đã nói trước đó, bạn sẽ làm điều này nếu bạn đang tạo nhóm quảng cáo cho các dịch vụ hoặc mục tiêu khác nhau.
+Bây giờ, hãy chuyển xuống phần tài sản. Chúng ta sẽ nhấp vào đây ở bên trái, nhấp vào Tài sản.
+Và sau đó, bạn sẽ thấy một danh sách lớn các tài sản khác nhau mà bạn có thể thêm vào. Ví dụ, bạn có thể thêm tên doanh nghiệp
+và logo doanh nghiệp của mình. Bạn có thể thêm các liên kết trang web bổ sung, tiêu đề và mô tả. Bạn cũng có các chú thích và đoạn trích có cấu trúc.
+Và ở đây, bạn có thể thêm tài sản cuộc gọi để mọi người có thể gọi trực tiếp cho bạn từ quảng cáo của bạn. Và nếu bạn có hồ sơ doanh nghiệp Google,
+bạn có thể kết nối tài sản vị trí. Điều này sẽ giúp quảng cáo của bạn hiển thị thông tin vị trí và hỗ trợ khả năng hiển thị trên bản đồ.
+Vì vậy, hãy xem qua đây và thêm các tài sản mà bạn muốn cho quảng cáo của mình. Được rồi, bây giờ từ đây, hãy quay lại
+Từ Khóa Phủ Định
+phía bên trái và nhấp vào Đối tượng, Từ khóa và Nội dung.
+Sau đó, hãy nhấp vào Từ khóa. Và nếu tôi nhìn xuống đây, chúng ta có thể thấy tất cả các từ khóa mà chúng ta có
+cho chiến dịch này. Bạn có thể nhấp vào nút màu xanh ở đây để thêm từ khóa. Và bạn cũng có thể thay đổi loại đối sánh
+nếu muốn. Một điều thực sự quan trọng mà tôi muốn chỉ cho bạn ở đây là từ khóa phủ định.
+Bạn sẽ thấy nó ở trên cùng, hãy nhấp vào Từ khóa phủ định. Và đây là một trong những cách nhanh nhất để ngừng
+lãng phí tiền vào các chiến dịch của bạn. Từ khóa phủ định chỉ đơn giản là các từ hoặc cụm từ cho Google biết rằng không hiển thị quảng cáo của tôi
+nếu tìm kiếm bao gồm những từ này. Vì vậy, đối với một công ty vệ sinh, có những từ khóa rõ ràng mà chúng ta muốn lọc bỏ. Ví dụ, chúng ta không muốn những người tìm kiếm
+việc làm hoặc nghề nghiệp, vì vậy chúng ta sẽ thêm các từ phủ định như việc làm, tuyển dụng, nghề nghiệp hoặc lương.
+Chúng ta cũng không muốn các tìm kiếm tự làm, như cách làm, hướng dẫn hoặc DIY vì những người đó không đang cố gắng thuê ai đó.
+Và ý tưởng này áp dụng cho bất kỳ doanh nghiệp nào. Vì vậy, ví dụ ở đây, tôi sẽ nhấp vào Từ khóa phủ định,
+sau đó tôi sẽ cuộn xuống. Và ở đây, tôi sẽ nhập lương, DIY, hướng dẫn,
+nghề nghiệp và cách làm. Đây chỉ là một vài ví dụ. Và điều tuyệt vời nhất là bạn không cần phải đoán
+mọi thứ ngay từ đầu. Bạn có thể thêm từ khóa phủ định theo thời gian bằng cách kiểm tra các cụm từ tìm kiếm của mình.
+Nếu bạn nhận thấy quảng cáo của mình liên tục hiển thị cho các tìm kiếm không liên quan, bạn nên thêm những từ đó vào danh sách từ khóa phủ định
+để ngừng trả tiền cho lưu lượng truy cập đó. Bây giờ, tôi sẽ cuộn xuống đây và nhấp vào Lưu.
+Vậy là tôi đã thêm nhóm từ khóa phủ định đầu tiên của mình ở đây. Sau khi chiến dịch bắt đầu chạy, hãy theo dõi các cụm từ tìm kiếm
+và đảm bảo rằng bạn tiếp tục thêm từ khóa phủ định. Từ khóa phủ định khi chúng xuất hiện. Được rồi, sau khi hoàn tất bước đó, hãy tiến hành khởi chạy chiến dịch của chúng ta.
+Khởi Chạy Chiến Dịch Của Bạn
+Tôi sẽ cuộn lên đầu trang và nhấp vào Chiến dịch
+, sau đó chuyển trạng thái từ tạm dừng sang kích hoạt.
+Tiếp theo, tôi sẽ nhấp vào nhóm quảng cáo
+và đảm bảo rằng chúng cũng được kích hoạt. Điều cuối cùng chúng ta cần kiểm tra là quảng cáo.
+Ở đây, bên dưới Nhóm quảng cáo, hãy nhấp vào Quảng cáo.
+Sau đó, tôi sẽ cuộn xuống và bạn có thể thấy quảng cáo mà chúng ta đã tạo. Nếu muốn xem trước, bạn có thể nhấp vào Xem trước quảng cáo,
+xem quảng cáo đó thuộc nhóm nào, có đủ điều kiện chạy hay không và một số thông tin khác.
+Bạn luôn có thể tạo quảng cáo mới bằng cách nhấp vào nút dấu cộng màu xanh lam ở đây. Được rồi, bây giờ bạn đã khởi chạy chiến dịch,
+Theo Dõi Kết Quả và Cụm Từ Tìm Kiếm
+bước tiếp theo là gì? Bạn có thể xem mọi thứ ở đây và xem tất cả số liệu thống kê trong bảng Tổng quan.
+Bạn có thể thấy số lần nhấp và số lần hiển thị, chi phí trung bình mỗi lần nhấp sẽ xuất hiện ở đây. Bạn cũng có thể điều chỉnh ngân sách nhanh chóng tại đây
+nếu cần. Và điều tiếp theo bạn nên làm sau khi bắt đầu nhận được một số kết quả từ chiến dịch của mình
+là vào mục Thông tin chi tiết và Báo cáo, nhấp vào đây, sau đó nhấp vào Cụm từ tìm kiếm.
+Báo cáo này sẽ hiển thị cho bạn các từ khóa tìm kiếm chính xác mà mọi người đã nhập trước khi họ nhìn thấy quảng cáo của bạn.
+Tôi khuyên bạn nên mở báo cáo này một vài lần mỗi tuần, đặc biệt là trong giai đoạn đầu. Và nếu bạn thấy bất kỳ từ khóa nào ở đây
+không có khả năng trở thành khách hàng, bạn nên thêm nó ngay lập tức làm từ khóa phủ định. Chỉ riêng thói quen này thôi cũng có thể giúp bạn tiết kiệm được rất nhiều tiền.
+Tắt Đề Xuất
+Bây giờ, điều cuối cùng tôi muốn chỉ cho bạn. Hãy đi lên trên cùng và tìm mục Đề xuất. Nhấp vào đó.
+Tab này, đây là nơi Google sẽ đưa ra các đề xuất cho bạn. Một số đề xuất này có thể hữu ích sau này,
+nhưng với tư cách là người mới bắt đầu, đừng chỉ áp dụng ngẫu nhiên và mù quáng tất cả các đề xuất này.
+Điều này có thể khiến bạn lãng phí rất nhiều tiền nếu bạn áp dụng mọi đề xuất mà Google đưa ra.
+Và nếu bạn thấy tùy chọn Tự động áp dụng ở đây, hãy đảm bảo rằng tùy chọn đó đã được tắt. Cuối cùng, ở phía bên trái,
+Các Bước Tiếp Theo
+hãy vào Công cụ, sau đó vào Lập kế hoạch và nhấp vào Công cụ lập kế hoạch từ khóa.
+Tôi khuyên bạn nên quay lại công cụ lập kế hoạch từ khóa vài ngày một lần để khám phá các từ khóa mới
+và mở rộng phạm vi tìm kiếm để tìm ra những từ khóa tốt nhất cho doanh nghiệp của bạn. Từ đây, chỉ cần thực hiện những cải tiến nhỏ theo thời gian dựa trên dữ liệu thực tế.
+Giữ mọi thứ đơn giản, kiên trì và bạn sẽ đạt được kết quả tốt. Nếu bạn gặp bất kỳ vấn đề nào hoặc có bất kỳ câu hỏi nào,
+hãy để lại bình luận bên dưới. Tôi cố gắng trả lời nhiều nhất có thể. Cảm ơn bạn đã xem video này.
+Tôi thực sự hy vọng nó đã giúp ích cho bạn. Và với điều đó, hẹn gặp lại bạn trong video tiếp theo.
+
